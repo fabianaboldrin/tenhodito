@@ -6,6 +6,7 @@ from django.conf import settings
 from django.core.management.base import BaseCommand
 from nlp import cache
 from plagiarism import tokenize, bag_of_words
+from plagiarism.input import yn_input
 from pygov_br.django_apps.camara_deputados.models import Speech
 from textblob.classifiers import NaiveBayesClassifier as Classifier
 from unidecode import unidecode
@@ -37,10 +38,18 @@ class Command(BaseCommand):
               (len(protocols_contents['protocol']),
                len(protocols_contents['content'])), bold=True)
 
-        secho('Training the classifier', bold=True)
-        self.protocol_classifier = self.train_classifier(
-            self.protocol_classifier, protocols_contents, 100)
-        cache.update_cache('protocol_classifier', self.protocol_classifier)
+        if not cache.load_from_cache('protocol_classifier_trained'):
+            secho('Training the classifier', bold=True)
+            self.protocol_classifier = self.train_classifier(
+                self.protocol_classifier, protocols_contents, 100)
+            cache.update_cache('protocol_classifier', self.protocol_classifier)
+        else:
+            secho('Classifier already trained', bold=True)
+
+        secho("Initializing supervisioned training", bold=True)
+        classified_paragraphs = self.supervisioned_train(
+            paragraphs, self.protocol_classifier)
+
 
     def build_best_examples(self, paragraphs):
         protocols_contents = cache.load_from_cache('protocols_contents')
@@ -80,7 +89,34 @@ class Command(BaseCommand):
                         self._sort_training_set(training_set, classifier)
                 except IndexError:
                     continue
+        cache.update_cache('protocol_classifier_trained', True)
         return classifier
+
+    def supervisioned_train(self, paragraphs, classifier):
+        classified = {}
+        for label in classifier.labels():
+            classified[label] = []
+        unclassified = paragraphs
+        next_paragraph = True
+
+        while unclassified and next_paragraph:
+            for paragraph in unclassified:
+                prob_dist = classifier.prob_classify(paragraph)
+                label = prob_dist.max()
+                value = prob_dist.prob(label)
+
+                secho('\n%s:' % label.upper(), bold=True)
+                secho('%s\n' % paragraph)
+
+                if yn_input('Are you agree? [Y/n] '):
+                    classifier.update([(paragraph, value)])
+                    unclassified.remove(paragraph)
+                    classified[label].append(paragraph)
+
+                if not yn_input('Next paragraph? [Y/n]'):
+                    next_paragraph = False
+
+        return classified
 
     def _get_training_set(self, classes_dict, size):
         training_set = {}
