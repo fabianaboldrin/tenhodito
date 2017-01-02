@@ -1,7 +1,7 @@
 import json
 import os
 
-from click import secho
+from click import secho, progressbar
 from django.conf import settings
 from django.core.management.base import BaseCommand
 from nlp import cache
@@ -42,14 +42,14 @@ class Command(BaseCommand):
             secho('Training the classifier', bold=True)
             self.protocol_classifier = self.train_classifier(
                 self.protocol_classifier, protocols_contents, 100)
-            cache.update_cache('protocol_classifier', self.protocol_classifier)
+            cache.update('protocol_classifier', self.protocol_classifier)
+
+        if yn_input('Start supervisioned training? [Y/n] '):
+            secho("Initializing supervisioned training", bold=True)
+            protocol_paragraphs = self.supervisioned_train(
+                paragraphs, self.protocol_classifier, 'protocol')
         else:
-            secho('Classifier already trained', bold=True)
-
-        secho("Initializing supervisioned training", bold=True)
-        classified_paragraphs = self.supervisioned_train(
-            paragraphs, self.protocol_classifier)
-
+            protocol_paragraphs = cache.load_from_cache('protocol_classified')
 
     def build_best_examples(self, paragraphs):
         protocols_contents = cache.load_from_cache('protocols_contents')
@@ -71,7 +71,7 @@ class Command(BaseCommand):
                     protocols_contents[classification].append((probability,
                                                                paragraph))
                     protocols_contents[classification].sort(reverse=True)
-            cache.update_cache('protocols_contents', protocols_contents)
+            cache.update('protocols_contents', protocols_contents)
         return protocols_contents
 
     def train_classifier(self, classifier, training_set, training_set_size):
@@ -89,14 +89,18 @@ class Command(BaseCommand):
                         self._sort_training_set(training_set, classifier)
                 except IndexError:
                     continue
-        cache.update_cache('protocol_classifier_trained', True)
+        cache.update('protocol_classifier_trained', True)
         return classifier
 
-    def supervisioned_train(self, paragraphs, classifier):
-        classified = {}
-        for label in classifier.labels():
-            classified[label] = []
-        unclassified = paragraphs
+    def supervisioned_train(self, paragraphs, classifier, train_name=''):
+        classified = cache.load_from_cache('%s_classified' % train_name)
+        if classified is None:
+            classified = self._get_labels_dict(classifier)
+
+        unclassified = cache.load_from_cache('%s_unclassified' % train_name)
+        if unclassified is None:
+            unclassified = paragraphs
+
         next_paragraph = True
 
         while unclassified and next_paragraph:
@@ -105,18 +109,59 @@ class Command(BaseCommand):
                 label = prob_dist.max()
                 value = prob_dist.prob(label)
 
-                secho('\n%s:' % label.upper(), bold=True)
+                secho('\n%d%% %s:' % ((100 * value), label.upper()), bold=True)
                 secho('%s\n' % paragraph)
 
                 if yn_input('Are you agree? [Y/n] '):
-                    classifier.update([(paragraph, value)])
+                    classifier.update([(paragraph, label)])
                     unclassified.remove(paragraph)
                     classified[label].append(paragraph)
+                else:
+                    secho("Classifier's labels: %s" % str(classifier.labels()))
+                    correct_label = input("What's the correct label? ")
+                    if correct_label in classifier.labels():
+                        classifier.update([(paragraph, correct_label)])
+                        unclassified.remove(paragraph)
+                        classified[correct_label].append(paragraph)
+                print(classifier)
 
-                if not yn_input('Next paragraph? [Y/n]'):
+                cache.update('%s_classified' % train_name, classified)
+                cache.update('%s_unclassified' % train_name, unclassified)
+                cache.update('%s_classifier' % train_name, classifier)
+
+                if not yn_input('Next paragraph? [Y/n] '):
                     next_paragraph = False
+                    break
+
+            if yn_input('Continue as unsupervisioned train? [Y/n] '):
+                return self.unsupervisioned_train(unclassified, classifier,
+                                                  train_name)
 
         return classified
+
+    def unsupervisioned_train(self, paragraphs, classifier, train_name=''):
+        classified = cache.load_from_cache('%s_classified' % train_name)
+        if classified is None:
+            classified = self._get_labels_dict(classifier)
+
+        with progressbar(paragraphs, label='Unsupervisioned training') as data:
+            for paragraph in data:
+                prob_dist = classifier.prob_classify(paragraph)
+                label = prob_dist.max()
+                classifier.update([(paragraph, label)])
+                paragraphs.remove(paragraph)
+                classified[label].append(paragraph)
+                cache.update('%s_classified' % train_name, classified)
+                cache.update('%s_unclassified' % train_name, paragraphs)
+                cache.update('%s_classifier' % train_name, classifier)
+
+        return classified
+
+    def _get_labels_dict(self, classifier):
+        labels_dict = {}
+        for label in classifier.labels():
+            labels_dict[label] = []
+        return labels_dict
 
     def _get_training_set(self, classes_dict, size):
         training_set = {}

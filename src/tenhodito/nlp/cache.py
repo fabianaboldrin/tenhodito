@@ -28,7 +28,7 @@ def load_from_cache(var_name, initial_value_method=None, force_update=False):
             return None
 
 
-def update_cache(var_name, value):
+def update(var_name, value):
     """Update a variable with a new value or add a new variable to cache."""
     db[var_name] = value
     db.sync()
