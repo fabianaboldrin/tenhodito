@@ -28,53 +28,80 @@ class Command(BaseCommand):
                                            force_update=True)
         secho('%s paragraphs' % len(paragraphs), bold=True)
         self.text_examples = self._load_initial_texts()
-        self.protocol_classifier = cache.load_from_cache(
+        protocol_classifier = cache.load_from_cache(
             'protocol_classifier', self._protocol_classifier)
 
         secho('Building bests examples', bold=True)
-        protocols_contents = self.build_best_examples(paragraphs)
+        protocol_best_examples = self.build_best_examples(
+            paragraphs, protocol_classifier, 0.8, train_name='protocol')
 
         secho('%d protocols and %d contents initially classified' %
-              (len(protocols_contents['protocol']),
-               len(protocols_contents['content'])), bold=True)
+              (len(protocol_best_examples['protocol']),
+               len(protocol_best_examples['content'])), bold=True)
 
         if not cache.load_from_cache('protocol_classifier_trained'):
             secho('Training the classifier', bold=True)
-            self.protocol_classifier = self.train_classifier(
-                self.protocol_classifier, protocols_contents, 100)
-            cache.update('protocol_classifier', self.protocol_classifier)
+            protocol_classifier = self.train_classifier(
+                protocol_classifier, protocol_best_examples, 100, 'protocol')
+            cache.update('protocol_classifier', protocol_classifier)
 
         if yn_input('Start supervisioned training? [Y/n] '):
             secho("Initializing supervisioned training", bold=True)
-            protocol_paragraphs = self.supervisioned_train(
-                paragraphs, self.protocol_classifier, 'protocol')
-        else:
-            protocol_paragraphs = cache.load_from_cache('protocol_classified')
+            protocol_classifier = self.supervisioned_train(
+                paragraphs, protocol_classifier, 'protocol')
+            cache.update('protocol_classifier', protocol_classifier)
 
-    def build_best_examples(self, paragraphs):
-        protocols_contents = cache.load_from_cache('protocols_contents')
+        protocols_contents = self.classify(paragraphs, protocol_classifier)
 
-        if protocols_contents is None:
-            protocols_contents = {'protocol': [], 'content': []}
+        contents = protocols_contents['content']
+        secho('%s paragraphs will be classified by themes' % len(contents),
+              bold=True)
+        theme_classifier = cache.load_from_cache('theme_classifier',
+                                                 self._theme_classifier)
 
-        if protocols_contents['protocol'] == [] \
-           or protocols_contents['content'] == []:
+        themes_best_examples = self.build_best_examples(
+            contents, theme_classifier, 0.8, train_name='theme')
+        for key, value in themes_best_examples.items():
+            secho('%d %s paragraphs' % (len(value), key), bold=True)
 
-            for paragraph in paragraphs:
-                prob_dist = self.protocol_classifier.prob_classify(paragraph)
-                classification = prob_dist.max()
-                probability = prob_dist.prob(classification)
+        if not cache.load_from_cache('theme_classifier_trained'):
+            secho('Training the classifier', bold=True)
+            theme_classifier = self.train_classifier(
+                theme_classifier, themes_best_examples, 10, 'theme')
+            cache.update('theme_classifier', theme_classifier)
 
-                if probability > 0.8:
-                    secho(classification.upper(), bold=True)
-                    secho('%s\n\n' % paragraph)
-                    protocols_contents[classification].append((probability,
-                                                               paragraph))
-                    protocols_contents[classification].sort(reverse=True)
-            cache.update('protocols_contents', protocols_contents)
-        return protocols_contents
+        if yn_input('Start supervisioned training? [Y/n] '):
+            secho("Initializing supervisioned training", bold=True)
+            theme_classifier = self.supervisioned_train(
+                paragraphs, theme_classifier, 'theme')
+            cache.update('theme_classifier', theme_classifier)
 
-    def train_classifier(self, classifier, training_set, training_set_size):
+        themes = self.classify(paragraphs, theme_classifier)
+
+    def build_best_examples(self, paragraphs, classifier, min_prob,
+                            train_name=''):
+        best_examples = cache.load_from_cache('best_%s' % train_name)
+
+        if best_examples is not None:
+            return best_examples
+
+        best_examples = self._get_labels_dict(classifier)
+
+        for paragraph in paragraphs:
+            prob_dist = classifier.prob_classify(paragraph)
+            classification = prob_dist.max()
+            probability = prob_dist.prob(classification)
+
+            if probability > min_prob:
+                secho(classification.upper(), bold=True)
+                secho('%s\n\n' % paragraph)
+                best_examples[classification].append((probability, paragraph))
+                best_examples[classification].sort(reverse=True)
+        cache.update('best_%s' % train_name, best_examples)
+        return best_examples
+
+    def train_classifier(self, classifier, training_set, training_set_size,
+                         train_name=''):
         training_set = self._get_training_set(training_set, training_set_size)
         for idx in range(1, training_set_size + 1):
             secho("%s) Differences:" % idx)
@@ -89,14 +116,10 @@ class Command(BaseCommand):
                         self._sort_training_set(training_set, classifier)
                 except IndexError:
                     continue
-        cache.update('protocol_classifier_trained', True)
+        cache.update('%s_classifier_trained' % train_name, True)
         return classifier
 
     def supervisioned_train(self, paragraphs, classifier, train_name=''):
-        classified = cache.load_from_cache('%s_classified' % train_name)
-        if classified is None:
-            classified = self._get_labels_dict(classifier)
-
         unclassified = cache.load_from_cache('%s_unclassified' % train_name)
         if unclassified is None:
             unclassified = paragraphs
@@ -115,17 +138,13 @@ class Command(BaseCommand):
                 if yn_input('Are you agree? [Y/n] '):
                     classifier.update([(paragraph, label)])
                     unclassified.remove(paragraph)
-                    classified[label].append(paragraph)
                 else:
                     secho("Classifier's labels: %s" % str(classifier.labels()))
                     correct_label = input("What's the correct label? ")
                     if correct_label in classifier.labels():
                         classifier.update([(paragraph, correct_label)])
                         unclassified.remove(paragraph)
-                        classified[correct_label].append(paragraph)
-                print(classifier)
 
-                cache.update('%s_classified' % train_name, classified)
                 cache.update('%s_unclassified' % train_name, unclassified)
                 cache.update('%s_classifier' % train_name, classifier)
 
@@ -136,25 +155,26 @@ class Command(BaseCommand):
             if yn_input('Continue as unsupervisioned train? [Y/n] '):
                 return self.unsupervisioned_train(unclassified, classifier,
                                                   train_name)
-
-        return classified
+        return classifier
 
     def unsupervisioned_train(self, paragraphs, classifier, train_name=''):
-        classified = cache.load_from_cache('%s_classified' % train_name)
-        if classified is None:
-            classified = self._get_labels_dict(classifier)
-
         with progressbar(paragraphs, label='Unsupervisioned training') as data:
             for paragraph in data:
                 prob_dist = classifier.prob_classify(paragraph)
                 label = prob_dist.max()
                 classifier.update([(paragraph, label)])
                 paragraphs.remove(paragraph)
-                classified[label].append(paragraph)
-                cache.update('%s_classified' % train_name, classified)
                 cache.update('%s_unclassified' % train_name, paragraphs)
                 cache.update('%s_classifier' % train_name, classifier)
+        return classifier
 
+    def classify(self, paragraphs, classifier):
+        classified = self._get_labels_dict(classifier)
+        with progressbar(paragraphs, label='Classifying') as data:
+            for paragraph in data:
+                prob_dist = classifier.prob_classify(paragraph)
+                label = prob_dist.max()
+                classified[label].append(paragraph)
         return classified
 
     def _get_labels_dict(self, classifier):
@@ -178,6 +198,22 @@ class Command(BaseCommand):
         return Classifier([
             (self.text_examples['protocol_example'], 'protocol'),
             (self.text_examples['content_example'], 'content'),
+        ], feature_extractor=extractor)
+
+    def _theme_classifier(self):
+        return Classifier([
+            (self.text_examples['farming_example'], 'farming'),
+            (self.text_examples['health_example'], 'health'),
+            (self.text_examples['sport_example'], 'sport'),
+            (self.text_examples['education_example'], 'education'),
+            (self.text_examples['science_technology_example'],
+             'science_technology'),
+            (self.text_examples['economy_example'], 'economy'),
+            (self.text_examples['politics_example'], 'politics'),
+            (self.text_examples['environment_example'], 'environment'),
+            (self.text_examples['human_rights_example'], 'human_rights'),
+            (self.text_examples['security_example'], 'security'),
+            ('', 'others'),
         ], feature_extractor=extractor)
 
     def _load_initial_texts(self):
