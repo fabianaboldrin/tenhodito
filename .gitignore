@@ -21,3 +21,7 @@ src/tenhodito/__meta__.py
 
 # Testing and temporary files
 .tox/
+
+node_modules/
+assets/bundles/
+webpack-stats.json
