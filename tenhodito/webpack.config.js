@@ -9,18 +9,18 @@ module.exports = {
     //the entry point we created earlier. Note that './' means
     //your current directory. You don't have to specify the extension  now,
     //because you will specify extensions later in the `resolve` section
-    entry: './tenhodito/assets/js/index',
+    entry: './assets/js/index',
 
     output: {
         //where you want your compiled bundle to be stored
-        path: path.resolve('./tenhodito/assets/bundles/'),
+        path: path.resolve('./assets/bundles/'),
         //naming convention webpack should use for your files
         filename: '[name]-[hash].js',
     },
 
     plugins: [
         //tells webpack where to store data about your bundles.
-        new BundleTracker({filename: './tenhodito/webpack-stats.json'}),
+        new BundleTracker({filename: './webpack-stats.json'}),
         //makes jQuery available in every module
         new webpack.ProvidePlugin({
             $: 'jquery',

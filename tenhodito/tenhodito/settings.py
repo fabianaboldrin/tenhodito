@@ -157,3 +157,7 @@ WEBPACK_LOADER = {
         'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.json')
     }
 }
+
+REPOSITORY_DIR = os.path.dirname(BASE_DIR)
+NODE_MODULES = os.path.join(REPOSITORY_DIR, 'node_modules')
+WEBPACK_BIN = os.path.join(NODE_MODULES, '.bin/webpack')
