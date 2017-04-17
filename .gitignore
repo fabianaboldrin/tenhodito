@@ -23,5 +23,6 @@ src/tenhodito/__meta__.py
 .tox/
 
 node_modules/
-assets/bundles/
+tenhodito/assets/bundles/
+tenhodito/public/
 webpack-stats.json

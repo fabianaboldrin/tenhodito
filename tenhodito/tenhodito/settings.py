@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'compressor',
+    'compressor_toolkit',
 ]
 
 APPS = [
@@ -127,6 +129,13 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'public')
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'compressor.finders.CompressorFinder',
+)
 
 CONTEXT_PROCESSORS = [
     'django.template.context_processors.debug',
@@ -161,3 +170,11 @@ WEBPACK_LOADER = {
 REPOSITORY_DIR = os.path.dirname(BASE_DIR)
 NODE_MODULES = os.path.join(REPOSITORY_DIR, 'node_modules')
 WEBPACK_BIN = os.path.join(NODE_MODULES, '.bin/webpack')
+
+COMPRESS_PRECOMPILERS = (
+    ('text/x-scss', 'compressor_toolkit.precompilers.SCSSCompiler'),
+)
+
+COMPRESS_NODE_SASS_BIN = os.path.join(NODE_MODULES, '.bin/node-sass')
+COMPRESS_POSTCSS_BIN = os.path.join(NODE_MODULES, '.bin/postcss')
+COMPRESS_NODE_MODULES = NODE_MODULES
