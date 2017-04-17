@@ -1,14 +1,14 @@
-from django.contrib.staticfiles.management.commands import runserver
+from django.core.management.base import BaseCommand
 from django.conf import settings
 from subprocess import call
 
 
-class Command(runserver.Command):
+class Command(BaseCommand):
 
-    def inner_run(self, *args, **options):
+    def handle(self, *args, **options):
         return_code = call([
             settings.WEBPACK_BIN,
+            '-w',
             '--config',
             settings.BASE_DIR + '/webpack.config.js'
         ])
-        super(Command, self).inner_run(*args, **options)
