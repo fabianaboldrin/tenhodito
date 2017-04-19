@@ -1,13 +1,17 @@
 import React, { Component } from 'react';
 
+import Sidebar from '../sidebar';
+import MainContent from '../mainContent';
+
 class Application extends Component {
   render() {
     return (
       <div className="tenhodito-application">
-        Olar
+        <Sidebar />
+        <MainContent />
       </div>
     );
   }
 }
 
-export default Application
+export default Application;

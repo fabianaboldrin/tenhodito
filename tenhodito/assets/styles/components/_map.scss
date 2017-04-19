@@ -1,0 +1,25 @@
+.map__info-card {
+  background-color: $light-green;
+  width: 30em;
+  height: 10em;
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+}
+
+.map__states {
+  .state__path {
+    transition: fill 0.7s ease;
+    &.economia {
+      fill: green;
+    }
+
+    &.educacao {
+      fill: blue;
+    }
+
+    &.seguranca {
+      fill: red;
+    }
+  }
+}

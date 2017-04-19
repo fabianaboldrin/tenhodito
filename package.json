@@ -25,6 +25,8 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "webpack": "^2.3.3",
-    "webpack-bundle-tracker": "^0.2.0"
+    "webpack-bundle-tracker": "^0.2.0",
+    "d3": "^4.4.2",
+    "topojson": "^2.2.0"
   }
 }
