@@ -5,7 +5,7 @@ class Sidebar extends Component {
     return (
       <section className="sidebar">
         <div className="sidebar__header">
-          <h1 className="header__title">Tenho Dito</h1>
+          <img className="header__logo" src="/static/img/tenho-dito-vertical-logo.png" alt="tenhodito-logo" />
         </div>
       </section>
     )

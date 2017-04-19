@@ -1,11 +1,14 @@
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
 import { addClass, removeClass } from '../../utils/polyfills'
+import { convertEm } from '../../utils/convert'
 
 function d3Init() {
+  const paddingBottom = convertEm(2, document.querySelector('.js-map'));
+  console.log(paddingBottom);
   const map = {
     width: 750,
-    height: 650,
+    height: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - paddingBottom,
     selector: '.map',
   }
 
@@ -62,14 +65,32 @@ function d3Init() {
     const svg = d3.select(map.selector).append('svg')
         .attr('width', map.width)
         .attr('height', map.height);
+    const dropshadowFilter = svg.append('filter')
+      .attr('id', 'dropshadow')
+      .attr('height', '100%')
+
+    dropshadowFilter.append('feGaussianBlur')
+      .attr('in', 'SourceAlpha')
+      .attr('stdDeviation', '3')
+    dropshadowFilter.append('feOffset')
+      .attr('dx', '2')
+      .attr('dy', '2')
+      .attr('result', 'offsetblur')
+
+    const dropshadowFilterMerge = dropshadowFilter.append('feMerge')
+    dropshadowFilterMerge.append('feMergeNode')
+    dropshadowFilterMerge.append('feMergeNode')
+      .attr('in', 'SourceGraphic')
 
     svg.append('g')
         .attr('class', 'map__states')
+        .attr('style', 'filter:url(#dropshadow)')
       .selectAll('path')
         .data(states.features)
       .enter().append('path')
         .attr('class', 'state__path')
         .attr('d', path)
+        // .attr('style', 'filter:url(#dropshadow)')
         .on('mouseover', (data) => {
           const targetEl = d3.event.target;
           const theme = fakeData[data.properties.name];
