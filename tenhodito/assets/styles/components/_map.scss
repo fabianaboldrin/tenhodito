@@ -1,10 +1,57 @@
-.map__info-card {
-  background-color: $light-green;
-  width: 30em;
-  height: 10em;
-  position: fixed;
-  bottom: 1em;
-  right: 1em;
+.map__tooltip {
+  top: 0;
+  position: absolute;
+  text-align: center;
+  width: auto;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 3em;
+  background: white;
+  border: 0px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+
+  &.is-visible {
+    opacity: 1;
+  }
+
+  .tooltip__theme {
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 0 1.5em 0 1em;
+  }
+
+  .tooltip__icon {
+    background-color: white;
+    margin-left: 0.5em;
+    width: 1.5em;
+    height: 1.5em;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+
+    @each $category, $color in $color-category {
+      &.#{$category} {
+        background-color: $color;
+      }
+    }
+  }
+
+  &::after {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: -3em;
+    border-width: 1.5em;
+    border-style: solid;
+    border-color: transparent white transparent transparent;
+  }
 }
 
 .map {
@@ -15,23 +62,17 @@
   padding: 0 5em;
 
   .map__states {
-    fill: #006864;
-    stroke: #cbcfd1;
-    stroke-width: 3px;
+    fill: $map-background;
+    stroke: $map-stroke;
+    stroke-width: 2px;
     filter: drop-shadow( -5px -5px 5px #000 );
 
     .state__path {
-      transition: fill 0.7s ease;
-      &.economia {
-        fill: green;
-      }
-
-      &.educacao {
-        fill: blue;
-      }
-
-      &.seguranca {
-        fill: red;
+      transition: all 0.7s ease;
+      @each $category, $color in $color-category {
+        &.#{$category} {
+          fill: $color;
+        }
       }
     }
   }

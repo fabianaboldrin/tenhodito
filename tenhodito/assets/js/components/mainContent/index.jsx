@@ -6,15 +6,9 @@ class MainContent extends Component {
     return (
       <main className="main-content">
         <Map />
-        <div className="map__info-card js-map-info-card">
-          <div className="info-card__region-info">
-            <span className="region-info__state">Distrito Federal</span>
-            <span className="region-info__region">Centro-Oeste</span>
-          </div>
-          <div className="info-card__theme-info">
-            <i className="theme-info__icon"></i>
-            <span className="theme-info__title">Segurança</span>
-          </div>
+        <div className="map__tooltip js-map-tooltip">
+          <i className="tooltip__icon material-icons js-tooltip-icon">android</i>
+          <span className="tooltip__theme js-tooltip-theme">Testando Tema</span>
         </div>
       </main>
     )

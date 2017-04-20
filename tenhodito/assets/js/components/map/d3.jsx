@@ -5,7 +5,6 @@ import { convertEm } from '../../utils/convert'
 
 function d3Init() {
   const paddingBottom = convertEm(2, document.querySelector('.js-map'));
-  console.log(paddingBottom);
   const map = {
     width: 750,
     height: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - paddingBottom,
@@ -16,6 +15,10 @@ function d3Init() {
     'RIO GRANDE DO SUL': {
       slug: 'seguranca',
       theme: 'Segurança'
+    },
+    'PARÁ': {
+      slug: 'consumidor',
+      theme: 'Consumidor'
     },
     'RIO DE JANEIRO': {
       slug: 'economia',
@@ -29,27 +32,99 @@ function d3Init() {
       slug: 'educacao',
       theme: 'Educação'
     },
+    'RORAIMA': {
+      slug: 'educacao',
+      theme: 'Educação'
+    },
     'PARANÁ': {
-      slug: 'economia',
-      theme: 'Economia'
+      slug: 'relacoes-exteriores',
+      theme: 'Relações Exteriores'
+    },
+    'ACRE': {
+      slug: 'relacoes-exteriores',
+      theme: 'Relações Exteriores'
+    },
+    'DISTRITO FEDERAL': {
+      slug: 'relacoes-exteriores',
+      theme: 'Relações Exteriores'
     },
     'SÃO PAULO': {
       slug: 'seguranca',
       theme: 'Segurança'
+    },
+    'AMAPÁ': {
+      slug: 'seguranca',
+      theme: 'Segurança'
+    },
+    'ESPIRITO SANTO': {
+      slug: 'seguranca',
+      theme: 'Segurança'
+    },
+    'MATO GROSSO': {
+      slug: 'adm-publica',
+      theme: 'Administração Pública'
+    },
+    'BAHIA': {
+      slug: 'assistencia-social',
+      theme: 'Assistência Social'
+    },
+    'PIAUÍ': {
+      slug: 'cidades',
+      theme: 'Cidades'
+    },
+    'MARANHÃO': {
+      slug: 'ciencia',
+      theme: 'Ciência'
+    },
+    'TOCANTINS': {
+      slug: 'previdencia',
+      theme: 'Previdência'
+    },
+    'CEARÁ': {
+      slug: 'turismo',
+      theme: 'Turismo'
+    },
+    'RIO GRANDE DO NORTE': {
+      slug: 'trabalho',
+      theme: 'Trabalho'
+    },
+    'PARAÍBA': {
+      slug: 'seguranca',
+      theme: 'Segurança'
+    },
+    'PERNAMBUCO': {
+      slug: 'participacao-e-transparencia',
+      theme: 'Participação e Transparência'
+    },
+    'ALAGOAS': {
+      slug: 'seguranca',
+      theme: 'Segurança'
+    },
+    'RONDÔNIA': {
+      slug: 'participacao-e-transparencia',
+      theme: 'Participação e Transparência'
+    },
+    'SERGIPE': {
+      slug: 'seguranca',
+      theme: 'Segurança'
+    },
+    'GOIÁS': {
+      slug: 'familia',
+      theme: 'Família'
+    },
+    'MATO GROSSO DO SUL': {
+      slug: 'direitos-humanos',
+      theme: 'Direitos Humanos'
+    },
+    'AMAZONAS': {
+      slug: 'familia',
+      theme: 'Família'
     }
   }
 
-  const infoCardEl = document.querySelector('.js-map-info-card');
-  const infoCard = {
-    element: infoCardEl,
-    regionInfo: infoCardEl.querySelector('.info-card__region-info'),
-    infoState: infoCardEl.querySelector('.info-card__region-info > .region-info__state'),
-    infoRegion: infoCardEl.querySelector('.info-card__region-info > .region-info__region'),
-    themeInfo: infoCardEl.querySelector('.info-card__theme-info'),
-    themeIcon: infoCardEl.querySelector('.info-card__theme-info > .theme-info__icon'),
-    themeTitle: infoCardEl.querySelector('.info-card__theme-info > .theme-info__title'),
-  }
-  console.log(infoCard);
+  const mapTooltip = document.querySelector('.js-map-tooltip');
+  const mapTooltipIcon = mapTooltip.querySelector('.js-tooltip-icon');
+  const mapTooltipTheme = mapTooltip.querySelector('.js-tooltip-theme');
 
   function mapLoaded(error, br_states) {
     if (error) return console.error(error);
@@ -65,44 +140,69 @@ function d3Init() {
     const svg = d3.select(map.selector).append('svg')
         .attr('width', map.width)
         .attr('height', map.height);
-    const dropshadowFilter = svg.append('filter')
-      .attr('id', 'dropshadow')
-      .attr('height', '100%')
+    const mapDropshadowFilter = svg.append('filter')
+      .attr('id', 'mapDropshadow')
+      .attr('height', '200%')
+      .attr('width', '200%')
 
-    dropshadowFilter.append('feGaussianBlur')
+    mapDropshadowFilter.append('feGaussianBlur') // stdDeviation is how much to blur
       .attr('in', 'SourceAlpha')
-      .attr('stdDeviation', '3')
-    dropshadowFilter.append('feOffset')
-      .attr('dx', '2')
-      .attr('dy', '2')
+      .attr('stdDeviation', '1')
+    mapDropshadowFilter.append('feOffset') // how much to offset
+      .attr('dx', '1')
+      .attr('dy', '7')
       .attr('result', 'offsetblur')
 
-    const dropshadowFilterMerge = dropshadowFilter.append('feMerge')
-    dropshadowFilterMerge.append('feMergeNode')
-    dropshadowFilterMerge.append('feMergeNode')
+    const mapDropshadowFilterMerge = mapDropshadowFilter.append('feMerge')
+    mapDropshadowFilterMerge.append('feMergeNode')
+    mapDropshadowFilterMerge.append('feMergeNode')
       .attr('in', 'SourceGraphic')
 
+    const stateDropshadowFilter = svg.append('filter')
+      .attr('id', 'stateDropshadow')
+      .attr('height', '200%')
+      .attr('width', '200%')
+
+    stateDropshadowFilter.append('feGaussianBlur') // stdDeviation is how much to blur
+      .attr('in', 'SourceAlpha')
+      .attr('stdDeviation', '1')
+    stateDropshadowFilter.append('feOffset') // how much to offset
+      .attr('dx', '1')
+      .attr('dy', '3')
+      .attr('result', 'offsetblur')
+
+    const stateDropshadowFilterMerge = stateDropshadowFilter.append('feMerge')
+    stateDropshadowFilterMerge.append('feMergeNode')
+    stateDropshadowFilterMerge.append('feMergeNode')
+      .attr('in', 'SourceGraphic')
     svg.append('g')
         .attr('class', 'map__states')
-        .attr('style', 'filter:url(#dropshadow)')
+        .attr('style', 'filter:url(#mapDropshadow)')
       .selectAll('path')
         .data(states.features)
-      .enter().append('path')
+      .enter().insert('path')
         .attr('class', 'state__path')
         .attr('d', path)
-        // .attr('style', 'filter:url(#dropshadow)')
+        .attr('style', 'filter:url(#stateDropshadow)')
         .on('mouseover', (data) => {
           const targetEl = d3.event.target;
+          const elementBox = targetEl.getBoundingClientRect();
           const theme = fakeData[data.properties.name];
-          infoCard.infoState.innerText = data.properties.name;
-          infoCard.infoRegion.innerText = data.properties.region;
-          infoCard.themeTitle.innerText = theme.theme;
+          const top = elementBox.top + (elementBox.height / 2) - (mapTooltip.clientHeight / 2);
+          const left = elementBox.left + (elementBox.width + convertEm(1.5));
+          mapTooltip.style.left = `${left}px`;
+          mapTooltip.style.top = `${top}px`;
+          mapTooltipTheme.innerText = theme.theme;
+          addClass(mapTooltip, 'is-visible');
+          addClass(mapTooltipIcon, theme.slug);
           addClass(targetEl, theme.slug);
         })
         .on('mouseout', (data) => {
           const targetEl = d3.event.target;
           const theme = fakeData[data.properties.name];
+          removeClass(mapTooltip, 'is-visible');
           removeClass(targetEl, theme.slug);
+          removeClass(mapTooltipIcon, theme.slug);
         });
   }
 
