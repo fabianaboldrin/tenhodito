@@ -4,7 +4,7 @@ import { addClass, removeClass } from '../../utils/polyfills'
 import { convertEm } from '../../utils/convert'
 
 function d3Init() {
-  const paddingBottom = convertEm(2, document.querySelector('.js-map'));
+  const paddingBottom = convertEm(10, document.querySelector('.js-map'));
   const map = {
     width: 750,
     height: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - paddingBottom,
@@ -188,11 +188,20 @@ function d3Init() {
           const targetEl = d3.event.target;
           const elementBox = targetEl.getBoundingClientRect();
           const theme = fakeData[data.properties.name];
+          const viewportWidth = document.documentElement.clientWidth;
           const top = elementBox.top + (elementBox.height / 2) - (mapTooltip.clientHeight / 2);
-          const left = elementBox.left + (elementBox.width + convertEm(1.5));
+          mapTooltipTheme.innerText = theme.theme;
+
+          let left = elementBox.left + (elementBox.width + convertEm(1.5));
+          console.log(mapTooltip.offsetWidth)
+          console.log(viewportWidth - mapTooltip.offsetWidth - left)
+          if (viewportWidth - mapTooltip.offsetWidth - left < 100 ) {
+            left = elementBox.left - (mapTooltip.offsetWidth + convertEm(1.5));
+            addClass(mapTooltip, 'left');
+          }
+
           mapTooltip.style.left = `${left}px`;
           mapTooltip.style.top = `${top}px`;
-          mapTooltipTheme.innerText = theme.theme;
           addClass(mapTooltip, 'is-visible');
           addClass(mapTooltipIcon, theme.slug);
           addClass(targetEl, theme.slug);
@@ -201,6 +210,7 @@ function d3Init() {
           const targetEl = d3.event.target;
           const theme = fakeData[data.properties.name];
           removeClass(mapTooltip, 'is-visible');
+          removeClass(mapTooltip, 'left');
           removeClass(targetEl, theme.slug);
           removeClass(mapTooltipIcon, theme.slug);
         });

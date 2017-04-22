@@ -52,6 +52,16 @@
     border-style: solid;
     border-color: transparent white transparent transparent;
   }
+
+  &.left {
+    &::after {
+      right: 0;
+      left: initial;
+      margin-left: initial;
+      margin-right: -3em;
+      border-color: transparent transparent transparent white;
+    }
+  }
 }
 
 .map {
