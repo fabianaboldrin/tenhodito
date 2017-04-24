@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'compressor',
     'compressor_toolkit',
+    'djangobower',
 ]
 
 APPS = [
@@ -135,6 +136,7 @@ STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.FileSystemFinder',
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
     'compressor.finders.CompressorFinder',
+    'djangobower.finders.BowerFinder',
 )
 
 CONTEXT_PROCESSORS = [
@@ -178,3 +180,10 @@ COMPRESS_PRECOMPILERS = (
 COMPRESS_NODE_SASS_BIN = os.path.join(NODE_MODULES, '.bin/node-sass')
 COMPRESS_POSTCSS_BIN = os.path.join(NODE_MODULES, '.bin/postcss')
 COMPRESS_NODE_MODULES = NODE_MODULES
+
+BOWER_COMPONENTS_ROOT = os.path.join(BASE_DIR, 'assets/styles')
+BOWER_PATH = os.path.join(NODE_MODULES, '.bin/bower')
+
+BOWER_INSTALLED_APPS = (
+    'https://github.com/labhackercd/fontastic-labhacker.git',
+)

@@ -147,11 +147,22 @@ function d3Init() {
 
     mapDropshadowFilter.append('feGaussianBlur') // stdDeviation is how much to blur
       .attr('in', 'SourceAlpha')
-      .attr('stdDeviation', '1')
+      .attr('stdDeviation', '0')
     mapDropshadowFilter.append('feOffset') // how much to offset
       .attr('dx', '1')
       .attr('dy', '7')
-      .attr('result', 'offsetblur')
+      .attr('result', 'offsetBlur')
+    mapDropshadowFilter.append('feFlood')
+      .attr('flood-color', '#002926')
+      .attr('flood-opacity', '1')
+      .attr('operator', 'in')
+      .attr('result', 'offsetColor')
+    mapDropshadowFilter.append('feComposite')
+      .attr('in', 'offsetColor')
+      .attr('in2', 'offsetBlur')
+      .attr('operator', 'in')
+      .attr('result', 'offsetBlur')
+
 
     const mapDropshadowFilterMerge = mapDropshadowFilter.append('feMerge')
     mapDropshadowFilterMerge.append('feMergeNode')
@@ -168,13 +179,14 @@ function d3Init() {
       .attr('stdDeviation', '1')
     stateDropshadowFilter.append('feOffset') // how much to offset
       .attr('dx', '1')
-      .attr('dy', '3')
+      .attr('dy', '2')
       .attr('result', 'offsetblur')
 
     const stateDropshadowFilterMerge = stateDropshadowFilter.append('feMerge')
     stateDropshadowFilterMerge.append('feMergeNode')
     stateDropshadowFilterMerge.append('feMergeNode')
       .attr('in', 'SourceGraphic')
+
     svg.append('g')
         .attr('class', 'map__states')
         .attr('style', 'filter:url(#mapDropshadow)')
@@ -183,6 +195,7 @@ function d3Init() {
       .enter().insert('path')
         .attr('class', 'state__path')
         .attr('d', path)
+        .attr('stroke-linecap', 'round')
         .attr('style', 'filter:url(#stateDropshadow)')
         .on('mouseover', (data) => {
           const targetEl = d3.event.target;

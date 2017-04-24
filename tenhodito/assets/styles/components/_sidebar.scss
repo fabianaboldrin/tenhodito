@@ -11,4 +11,22 @@
       height: 10em;
     }
   }
+
+  .sidebar__body {
+    color: $sidebar-color;
+
+    .body__text {
+      padding-bottom: 2em;
+      border-bottom: 2px solid $dark-green;
+    }
+    .body__menu-list {
+      list-style-type: none;
+      padding: 1em 0;
+
+      .menu-list__item {
+        text-transform: uppercase;
+        font-weight: 800;
+      }
+    }
+  }
 }
