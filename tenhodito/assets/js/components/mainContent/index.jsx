@@ -7,7 +7,7 @@ class MainContent extends Component {
       <main className="main-content">
         <Map />
         <div className="map__tooltip js-map-tooltip">
-          <i className="tooltip__icon material-icons js-tooltip-icon">android</i>
+          <i className="tooltip__icon icon js-tooltip-icon"></i>
           <span className="tooltip__theme js-tooltip-theme">Testando Tema</span>
         </div>
       </main>

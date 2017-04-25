@@ -228,6 +228,7 @@ function d3Init() {
           mapTooltip.style.left = `${left}px`;
           mapTooltip.style.top = `${top}px`;
           addClass(mapTooltip, 'is-visible');
+          addClass(mapTooltipIcon, `icon-${theme.slug}`);
           addClass(mapTooltipIcon, theme.slug);
           addClass(targetEl, theme.slug);
         })
@@ -238,6 +239,7 @@ function d3Init() {
           removeClass(mapTooltip, 'left');
           removeClass(targetEl, theme.slug);
           removeClass(mapTooltipIcon, theme.slug);
+          removeClass(mapTooltipIcon, `icon-${theme.slug}`);
         });
   }
 
