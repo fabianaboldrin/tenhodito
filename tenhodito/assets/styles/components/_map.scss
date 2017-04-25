@@ -66,24 +66,36 @@
 
 .map {
   height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 0 5em;
 
   .map__states {
     fill: $map-background;
-    stroke: $map-stroke;
-    stroke-width: 2px;
-    filter: drop-shadow( -5px -5px 5px #000 );
+    transform: translate(1em, 1em);
 
     .state__path {
       transition: all 0.7s ease;
+      stroke-width: 2px;
+      stroke: $map-stroke;
+
       @each $category, $color in $color-category {
         &.#{$category} {
           fill: $color;
         }
       }
+    }
+  }
+
+  .map__background {
+    fill: $light-green;
+    transform: translate(1em, 1.1em);
+    .state__path {
+      fill: $light-green;
+      stroke-width: 2em;
+      stroke: $light-green;
+      stroke-linejoin: round;
     }
   }
 }

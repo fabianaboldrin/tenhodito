@@ -4,119 +4,120 @@ import { addClass, removeClass } from '../../utils/polyfills'
 import { convertEm } from '../../utils/convert'
 
 function d3Init() {
-  const paddingBottom = convertEm(10, document.querySelector('.js-map'));
+  const paddingBottom = convertEm(5, document.querySelector('.js-map'));
   const map = {
-    width: 750,
+    width: document.querySelector('.js-map').clientWidth,
+    // width: 750,
     height: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - paddingBottom,
     selector: '.map',
   }
 
   const fakeData = {
-    'RIO GRANDE DO SUL': {
+    'AC': {
       slug: 'seguranca',
       theme: 'Segurança'
     },
-    'PARÁ': {
+    'AL': {
       slug: 'consumidor',
       theme: 'Consumidor'
     },
-    'RIO DE JANEIRO': {
+    'AP': {
       slug: 'economia',
       theme: 'Economia'
     },
-    'MINAS GERAIS': {
+    'AM': {
       slug: 'educacao',
       theme: 'Educação'
     },
-    'SANTA CATARINA': {
+    'BA': {
       slug: 'educacao',
       theme: 'Educação'
     },
-    'RORAIMA': {
+    'CE': {
       slug: 'educacao',
       theme: 'Educação'
     },
-    'PARANÁ': {
+    'DF': {
       slug: 'relacoes-exteriores',
       theme: 'Relações Exteriores'
     },
-    'ACRE': {
+    'ES': {
       slug: 'relacoes-exteriores',
       theme: 'Relações Exteriores'
     },
-    'DISTRITO FEDERAL': {
+    'GO': {
       slug: 'relacoes-exteriores',
       theme: 'Relações Exteriores'
     },
-    'SÃO PAULO': {
+    'MA': {
       slug: 'seguranca',
       theme: 'Segurança'
     },
-    'AMAPÁ': {
+    'MT': {
       slug: 'seguranca',
       theme: 'Segurança'
     },
-    'ESPIRITO SANTO': {
+    'MS': {
       slug: 'seguranca',
       theme: 'Segurança'
     },
-    'MATO GROSSO': {
+    'MG': {
       slug: 'adm-publica',
       theme: 'Administração Pública'
     },
-    'BAHIA': {
+    'PA': {
       slug: 'assistencia-social',
       theme: 'Assistência Social'
     },
-    'PIAUÍ': {
+    'PB': {
       slug: 'cidades',
       theme: 'Cidades'
     },
-    'MARANHÃO': {
+    'PR': {
       slug: 'ciencia',
       theme: 'Ciência'
     },
-    'TOCANTINS': {
+    'PE': {
       slug: 'previdencia',
       theme: 'Previdência'
     },
-    'CEARÁ': {
+    'PI': {
       slug: 'turismo',
       theme: 'Turismo'
     },
-    'RIO GRANDE DO NORTE': {
+    'RJ': {
       slug: 'trabalho',
       theme: 'Trabalho'
     },
-    'PARAÍBA': {
+    'RN': {
       slug: 'seguranca',
       theme: 'Segurança'
     },
-    'PERNAMBUCO': {
+    'RS': {
       slug: 'participacao-e-transparencia',
       theme: 'Participação e Transparência'
     },
-    'ALAGOAS': {
+    'RO': {
       slug: 'seguranca',
       theme: 'Segurança'
     },
-    'RONDÔNIA': {
+    'RR': {
       slug: 'participacao-e-transparencia',
       theme: 'Participação e Transparência'
     },
-    'SERGIPE': {
+    'SC': {
       slug: 'seguranca',
       theme: 'Segurança'
     },
-    'GOIÁS': {
+    'SP': {
       slug: 'familia',
       theme: 'Família'
     },
-    'MATO GROSSO DO SUL': {
+    'SE': {
       slug: 'direitos-humanos',
       theme: 'Direitos Humanos'
     },
-    'AMAZONAS': {
+    'TO': {
       slug: 'familia',
       theme: 'Família'
     }
@@ -129,10 +130,11 @@ function d3Init() {
   function mapLoaded(error, br_states) {
     if (error) return console.error(error);
 
-    const states = topojson.feature(br_states, br_states.objects.states);
+    const states = topojson.feature(br_states, br_states.objects.estados);
+
 
     const projection = d3.geoMercator()
-        .fitSize([map.width, map.height], states);
+        .fitSize([map.width - convertEm(2.5), map.height - convertEm(2.5)], states);
 
     const path = d3.geoPath()
       .projection(projection);
@@ -150,7 +152,7 @@ function d3Init() {
       .attr('stdDeviation', '0')
     mapDropshadowFilter.append('feOffset') // how much to offset
       .attr('dx', '1')
-      .attr('dy', '7')
+      .attr('dy', '8')
       .attr('result', 'offsetBlur')
     mapDropshadowFilter.append('feFlood')
       .attr('flood-color', '#002926')
@@ -176,7 +178,7 @@ function d3Init() {
 
     stateDropshadowFilter.append('feGaussianBlur') // stdDeviation is how much to blur
       .attr('in', 'SourceAlpha')
-      .attr('stdDeviation', '1')
+      .attr('stdDeviation', '0')
     stateDropshadowFilter.append('feOffset') // how much to offset
       .attr('dx', '1')
       .attr('dy', '2')
@@ -188,19 +190,29 @@ function d3Init() {
       .attr('in', 'SourceGraphic')
 
     svg.append('g')
+        .attr('class', 'map__background')
+      .selectAll('path')
+        .data(states.features)
+      .enter().insert('path')
+        .attr('class', 'state__path')
+        .attr('stroke-alignment', 'outer')
+        .attr('d', path)
+
+    svg.append('g')
         .attr('class', 'map__states')
-        .attr('style', 'filter:url(#mapDropshadow)')
+        .attr('style', `filter:url(#mapDropshadow)`)
       .selectAll('path')
         .data(states.features)
       .enter().insert('path')
         .attr('class', 'state__path')
         .attr('d', path)
         .attr('stroke-linecap', 'round')
-        .attr('style', 'filter:url(#stateDropshadow)')
+        // .attr('style', 'filter:url(#stateDropshadow)')
         .on('mouseover', (data) => {
+          console.log(data)
           const targetEl = d3.event.target;
           const elementBox = targetEl.getBoundingClientRect();
-          const theme = fakeData[data.properties.name];
+          const theme = fakeData[data.id];
           const viewportWidth = document.documentElement.clientWidth;
           const top = elementBox.top + (elementBox.height / 2) - (mapTooltip.clientHeight / 2);
           mapTooltipTheme.innerText = theme.theme;
@@ -221,7 +233,7 @@ function d3Init() {
         })
         .on('mouseout', (data) => {
           const targetEl = d3.event.target;
-          const theme = fakeData[data.properties.name];
+          const theme = fakeData[data.id];
           removeClass(mapTooltip, 'is-visible');
           removeClass(mapTooltip, 'left');
           removeClass(targetEl, theme.slug);
