@@ -1,6 +1,5 @@
-import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
+import { HomeMap } from './components/map/d3';
 
-import Application from './components/application';
 
-ReactDOM.render(<Application />, document.getElementById('container'))
+const map = new HomeMap();
+map.setup();

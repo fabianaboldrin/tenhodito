@@ -1,0 +1,19 @@
+{% load render_bundle from webpack_loader %}
+{% load staticfiles compress %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tenho Dito</title>
+    {% compress css %}
+      <link rel="stylesheet" type="text/x-scss" href="{% static 'styles/app.scss' %}">
+    {% endcompress %}
+</head>
+<body>
+    {% block content %}
+    {% endblock content %}
+
+    {% render_bundle 'main' %}
+</body>
+</html>

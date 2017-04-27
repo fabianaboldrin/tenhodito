@@ -1,19 +1,30 @@
-{% load render_bundle from webpack_loader %}
-{% load staticfiles compress %}
+{% extends "base.html" %}
+{% load staticfiles %}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Django React</title>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    {% compress css %}
-      <link rel="stylesheet" type="text/x-scss" href="{% static 'styles/app.scss' %}">
-    {% endcompress %}
-</head>
-<body>
-    <div id="container"></div>
-
-    {% render_bundle 'main' %}
-</body>
-</html>
+{% block content %}
+  <div class="tenhodito-application">
+    <section class="sidebar">
+      <div class="sidebar__header">
+        <img src="{% static 'img/tenho-dito-vertical-logo.png' %}" alt="Tenho Dito" class="header__logo">
+      </div>
+      <div class="sidebar__body">
+        <p class="body__text">
+          Veja o que está sendo mais falado no cenário político brasileiro.
+          Clique nos estados para saber os temas mais abordados pelos deputados que os representam.
+          Ou selecione uma outra opção de visualização:</p>
+        <ul class="body__menu-list">
+          <li class="menu-list__item">Por Região</li>
+          <li class="menu-list__item">Por Partido</li>
+          <li class="menu-list__item">Por Tema</li>
+        </ul>
+      </div>
+    </section>
+    <main class="main-content">
+      <div class="map js-map" />
+      <div class="map__tooltip js-map-tooltip">
+        <i class="tooltip__icon icon js-tooltip-icon"></i>
+        <span class="tooltip__theme js-tooltip-theme">Testando Tema</span>
+      </div>
+    </main>
+  </div>
+{% endblock content %}

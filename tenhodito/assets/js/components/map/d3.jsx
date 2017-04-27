@@ -1,148 +1,102 @@
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
-import { addClass, removeClass } from '../../utils/polyfills'
-import { convertEm } from '../../utils/convert'
+import { addClass, removeClass } from '../../utils/polyfills';
+import { convertEm } from '../../utils/convert';
 
-function d3Init() {
-  const paddingBottom = convertEm(5, document.querySelector('.js-map'));
-  const map = {
-    width: document.querySelector('.js-map').clientWidth,
-    // width: 750,
-    height: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - paddingBottom,
-    selector: '.map',
+
+class HomeMap {
+  constructor() {
+    this.paddingBottom = convertEm(5, document.querySelector(this.selector));
+    this.width = document.querySelector('.js-map').clientWidth;
+    this.height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - this.paddingBottom;
+    this.selector = '.js-map';
+    this.data = this.getData();
   }
 
-  const fakeData = {
-    'AC': {
-      slug: 'seguranca',
-      theme: 'Segurança'
-    },
-    'AL': {
-      slug: 'consumidor',
-      theme: 'Consumidor'
-    },
-    'AP': {
-      slug: 'economia',
-      theme: 'Economia'
-    },
-    'AM': {
-      slug: 'educacao',
-      theme: 'Educação'
-    },
-    'BA': {
-      slug: 'educacao',
-      theme: 'Educação'
-    },
-    'CE': {
-      slug: 'educacao',
-      theme: 'Educação'
-    },
-    'DF': {
-      slug: 'relacoes-exteriores',
-      theme: 'Relações Exteriores'
-    },
-    'ES': {
-      slug: 'relacoes-exteriores',
-      theme: 'Relações Exteriores'
-    },
-    'GO': {
-      slug: 'relacoes-exteriores',
-      theme: 'Relações Exteriores'
-    },
-    'MA': {
-      slug: 'seguranca',
-      theme: 'Segurança'
-    },
-    'MT': {
-      slug: 'seguranca',
-      theme: 'Segurança'
-    },
-    'MS': {
-      slug: 'seguranca',
-      theme: 'Segurança'
-    },
-    'MG': {
-      slug: 'adm-publica',
-      theme: 'Administração Pública'
-    },
-    'PA': {
-      slug: 'assistencia-social',
-      theme: 'Assistência Social'
-    },
-    'PB': {
-      slug: 'cidades',
-      theme: 'Cidades'
-    },
-    'PR': {
-      slug: 'ciencia',
-      theme: 'Ciência'
-    },
-    'PE': {
-      slug: 'previdencia',
-      theme: 'Previdência'
-    },
-    'PI': {
-      slug: 'turismo',
-      theme: 'Turismo'
-    },
-    'RJ': {
-      slug: 'trabalho',
-      theme: 'Trabalho'
-    },
-    'RN': {
-      slug: 'seguranca',
-      theme: 'Segurança'
-    },
-    'RS': {
-      slug: 'participacao-e-transparencia',
-      theme: 'Participação e Transparência'
-    },
-    'RO': {
-      slug: 'seguranca',
-      theme: 'Segurança'
-    },
-    'RR': {
-      slug: 'participacao-e-transparencia',
-      theme: 'Participação e Transparência'
-    },
-    'SC': {
-      slug: 'seguranca',
-      theme: 'Segurança'
-    },
-    'SP': {
-      slug: 'familia',
-      theme: 'Família'
-    },
-    'SE': {
-      slug: 'direitos-humanos',
-      theme: 'Direitos Humanos'
-    },
-    'TO': {
-      slug: 'familia',
-      theme: 'Família'
+  get mapTooltip() {
+    return document.querySelector('.js-map-tooltip');
+  }
+
+  get mapTooltipIcon() {
+    return this.mapTooltip.querySelector('.js-tooltip-icon');
+  }
+
+  get mapTooltipTheme() {
+    return this.mapTooltip.querySelector('.js-tooltip-theme');
+  }
+
+  getData() {
+    $.ajaxSetup({async: false});
+    const response = $.getJSON('/static/home-data.json', (data) => {
+      $.ajaxSetup({async: true});
+      return data;
+    })
+    return response.responseJSON;
+  }
+
+  setup() {
+    d3.queue()
+      .defer(d3.json, '/static/br-states.json')
+      .await((error, brStates) => {
+        if (error) return console.error(error);
+        this._createSVG(brStates);
+        this._drawMap();
+      });
+  }
+
+  handleStateMouseOver(state) {
+    const targetEl = d3.event.target;
+    const elementBox = targetEl.getBoundingClientRect();
+    const theme = this.data[state.id];
+    const viewportWidth = document.documentElement.clientWidth;
+    const top = elementBox.top + (elementBox.height / 2) - (this.mapTooltip.clientHeight / 2);
+    this.mapTooltipTheme.innerText = theme.theme;
+
+    let left = elementBox.left + (elementBox.width + convertEm(1.5));
+    if (viewportWidth - this.mapTooltip.offsetWidth - left < 100 ) {
+      left = elementBox.left - (this.mapTooltip.offsetWidth + convertEm(1.5));
+      addClass(this.mapTooltip, 'left');
     }
+
+    this.mapTooltip.style.left = `${left}px`;
+    this.mapTooltip.style.top = `${top}px`;
+    addClass(this.mapTooltip, 'is-visible');
+    addClass(this.mapTooltipIcon, `icon-${theme.slug}`);
+    addClass(this.mapTooltipIcon, theme.slug);
+    addClass(targetEl, theme.slug);
   }
 
-  const mapTooltip = document.querySelector('.js-map-tooltip');
-  const mapTooltipIcon = mapTooltip.querySelector('.js-tooltip-icon');
-  const mapTooltipTheme = mapTooltip.querySelector('.js-tooltip-theme');
+  handleStateMouseOut(state) {
+    const targetEl = d3.event.target;
+    const theme = this.data[state.id];
+    removeClass(this.mapTooltip, 'is-visible');
+    removeClass(this.mapTooltip, 'left');
+    removeClass(targetEl, theme.slug);
+    removeClass(this.mapTooltipIcon, theme.slug);
+    removeClass(this.mapTooltipIcon, `icon-${theme.slug}`);
+  }
 
-  function mapLoaded(error, br_states) {
-    if (error) return console.error(error);
-
-    const states = topojson.feature(br_states, br_states.objects.estados);
-
-
+  _createSVG(brStates) {
+    this.states = topojson.feature(brStates, brStates.objects.estados);
     const projection = d3.geoMercator()
-        .fitSize([map.width - convertEm(2.5), map.height - convertEm(2.5)], states);
+        .fitSize([this.width - convertEm(2.5), this.height - convertEm(2.5)], this.states);
 
-    const path = d3.geoPath()
+    this.path = d3.geoPath()
       .projection(projection);
 
-    const svg = d3.select(map.selector).append('svg')
-        .attr('width', map.width)
-        .attr('height', map.height);
-    const mapDropshadowFilter = svg.append('filter')
+    this.svg = d3.select(this.selector).append('svg')
+        .attr('width', this.width)
+        .attr('height', this.height);
+  }
+
+  _drawMap() {
+    this._svgDropShadow();
+    this._svgMapBackground();
+    this._svgMap();
+  }
+
+  _svgDropShadow() {
+    const mapDropshadowFilter = this.svg.append('filter')
       .attr('id', 'mapDropshadow')
       .attr('height', '200%')
       .attr('width', '200%')
@@ -165,87 +119,38 @@ function d3Init() {
       .attr('operator', 'in')
       .attr('result', 'offsetBlur')
 
-
     const mapDropshadowFilterMerge = mapDropshadowFilter.append('feMerge')
     mapDropshadowFilterMerge.append('feMergeNode')
     mapDropshadowFilterMerge.append('feMergeNode')
       .attr('in', 'SourceGraphic')
+  }
 
-    const stateDropshadowFilter = svg.append('filter')
-      .attr('id', 'stateDropshadow')
-      .attr('height', '200%')
-      .attr('width', '200%')
-
-    stateDropshadowFilter.append('feGaussianBlur') // stdDeviation is how much to blur
-      .attr('in', 'SourceAlpha')
-      .attr('stdDeviation', '0')
-    stateDropshadowFilter.append('feOffset') // how much to offset
-      .attr('dx', '1')
-      .attr('dy', '2')
-      .attr('result', 'offsetblur')
-
-    const stateDropshadowFilterMerge = stateDropshadowFilter.append('feMerge')
-    stateDropshadowFilterMerge.append('feMergeNode')
-    stateDropshadowFilterMerge.append('feMergeNode')
-      .attr('in', 'SourceGraphic')
-
-    svg.append('g')
+  _svgMapBackground() {
+    this.svg.append('g')
         .attr('class', 'map__background')
       .selectAll('path')
-        .data(states.features)
+        .data(this.states.features)
       .enter().insert('path')
         .attr('class', 'state__path')
         .attr('stroke-alignment', 'outer')
-        .attr('d', path)
+        .attr('d', this.path)
+  }
 
-    svg.append('g')
+  _svgMap() {
+    this.svg.append('g')
         .attr('class', 'map__states')
         .attr('style', `filter:url(#mapDropshadow)`)
       .selectAll('path')
-        .data(states.features)
+        .data(this.states.features)
       .enter().insert('path')
         .attr('class', 'state__path')
-        .attr('d', path)
-        .attr('stroke-linecap', 'round')
-        // .attr('style', 'filter:url(#stateDropshadow)')
-        .on('mouseover', (data) => {
-          console.log(data)
-          const targetEl = d3.event.target;
-          const elementBox = targetEl.getBoundingClientRect();
-          const theme = fakeData[data.id];
-          const viewportWidth = document.documentElement.clientWidth;
-          const top = elementBox.top + (elementBox.height / 2) - (mapTooltip.clientHeight / 2);
-          mapTooltipTheme.innerText = theme.theme;
-
-          let left = elementBox.left + (elementBox.width + convertEm(1.5));
-          console.log(mapTooltip.offsetWidth)
-          console.log(viewportWidth - mapTooltip.offsetWidth - left)
-          if (viewportWidth - mapTooltip.offsetWidth - left < 100 ) {
-            left = elementBox.left - (mapTooltip.offsetWidth + convertEm(1.5));
-            addClass(mapTooltip, 'left');
-          }
-
-          mapTooltip.style.left = `${left}px`;
-          mapTooltip.style.top = `${top}px`;
-          addClass(mapTooltip, 'is-visible');
-          addClass(mapTooltipIcon, `icon-${theme.slug}`);
-          addClass(mapTooltipIcon, theme.slug);
-          addClass(targetEl, theme.slug);
-        })
-        .on('mouseout', (data) => {
-          const targetEl = d3.event.target;
-          const theme = fakeData[data.id];
-          removeClass(mapTooltip, 'is-visible');
-          removeClass(mapTooltip, 'left');
-          removeClass(targetEl, theme.slug);
-          removeClass(mapTooltipIcon, theme.slug);
-          removeClass(mapTooltipIcon, `icon-${theme.slug}`);
-        });
+        .attr('d', this.path)
+        .on('mouseover', (data) => {this.handleStateMouseOver(data)})
+        .on('mouseout', (data) => {this.handleStateMouseOut(data)})
+        .on('click', console.log('ois'));
   }
-
-  d3.queue()
-    .defer(d3.json, '/static/br-states.json')
-    .await(mapLoaded);
 }
 
-export default d3Init;
+export {
+  HomeMap
+}
