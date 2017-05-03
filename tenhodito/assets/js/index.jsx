@@ -1,4 +1,4 @@
-import { HomeMap } from './components/map/d3';
+import { HomeMap } from './components/map/home';
 
 
 const map = new HomeMap();

@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'compressor',
     'compressor_toolkit',
     'djangobower',
+    'django_js_reverse',
 ]
 
 APPS = [

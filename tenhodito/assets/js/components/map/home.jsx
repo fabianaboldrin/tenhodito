@@ -76,6 +76,10 @@ class HomeMap {
     removeClass(this.mapTooltipIcon, `icon-${theme.slug}`);
   }
 
+  handleStateClick(state) {
+    window.location.href = Urls.state(state.id)
+  }
+
   _createSVG(brStates) {
     this.states = topojson.feature(brStates, brStates.objects.estados);
     const projection = d3.geoMercator()
@@ -147,7 +151,7 @@ class HomeMap {
         .attr('d', this.path)
         .on('mouseover', (data) => {this.handleStateMouseOver(data)})
         .on('mouseout', (data) => {this.handleStateMouseOut(data)})
-        .on('click', console.log('ois'));
+        .on('click', (data) => {this.handleStateClick(data)});
   }
 }
 
