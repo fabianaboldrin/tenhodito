@@ -78,6 +78,7 @@
       transition: all 0.7s ease;
       stroke-width: 3px;
       stroke: $map-stroke;
+      cursor: pointer;
 
       @each $category, $color in $color-category {
         &.#{$category} {

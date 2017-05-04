@@ -54,7 +54,7 @@ class HomeMap {
 
     let left = elementBox.left + (elementBox.width + convertEm(1.5));
     if (viewportWidth - this.mapTooltip.offsetWidth - left < 100 ) {
-      left = elementBox.left - (this.mapTooltip.offsetWidth + convertEm(1.5));
+      left = elementBox.left - (this.mapTooltip.offsetWidth + convertEm(4.5));
       addClass(this.mapTooltip, 'left');
     }
 
@@ -77,7 +77,7 @@ class HomeMap {
   }
 
   handleStateClick(state) {
-    window.location.href = Urls.state(state.id)
+    window.location.href = Urls.state(state.id);
   }
 
   _createSVG(brStates) {

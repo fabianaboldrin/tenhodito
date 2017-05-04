@@ -9,7 +9,10 @@ module.exports = {
     //the entry point we created earlier. Note that './' means
     //your current directory. You don't have to specify the extension  now,
     //because you will specify extensions later in the `resolve` section
-    entry: './assets/js/index.jsx',
+    entry: {
+        main: './assets/js/index.jsx',
+        states: './assets/js/states.jsx',
+    },
 
     output: {
         //where you want your compiled bundle to be stored
