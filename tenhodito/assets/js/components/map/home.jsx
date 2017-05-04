@@ -81,7 +81,16 @@ class HomeMap {
   }
 
   _createSVG(brStates) {
+    const currentState = [];
+    $.each(brStates.objects.estados.geometries, (idx, state) => {
+      if (state.id === 'GO') {
+        currentState.push(state);
+      }
+    })
+    brStates.objects.estados.geometries = currentState;
+    console.log(brStates.objects.estados)
     this.states = topojson.feature(brStates, brStates.objects.estados);
+
     const projection = d3.geoMercator()
         .fitSize([this.width - convertEm(2.5), this.height - convertEm(2.5)], this.states);
 
