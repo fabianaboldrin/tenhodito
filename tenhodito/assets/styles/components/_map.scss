@@ -100,11 +100,33 @@
   }
 }
 
-.state-map {
-  width: 100%;
-  height: 100%;
+.states-map {
+  width: 70%;
+  height: 70%;
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
 
-  .state__path {
-    fill: red;
+  .map__states{
+    .state__path {
+      stroke-width: 8px;
+      stroke: $state-map-stroke;
+      fill: $state-map-background;
+      pointer-events: none;
+      transform: translate(1em, 1em);
+    }
+  }
+
+  .map__background {
+    fill: $light-green;
+    transform: translate(1em, 1.1em);
+    .state__path {
+      fill: $light-green;
+      stroke-width: 2em;
+      stroke: $light-green;
+      stroke-linejoin: round;
+    }
   }
 }

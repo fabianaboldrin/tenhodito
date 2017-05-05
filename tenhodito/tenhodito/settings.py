@@ -176,11 +176,13 @@ WEBPACK_BIN = os.path.join(NODE_MODULES, '.bin/webpack')
 
 COMPRESS_PRECOMPILERS = (
     ('text/x-scss', 'compressor_toolkit.precompilers.SCSSCompiler'),
+    ('module', 'compressor_toolkit.precompilers.ES6Compiler'),
 )
 
 COMPRESS_NODE_SASS_BIN = os.path.join(NODE_MODULES, '.bin/node-sass')
 COMPRESS_POSTCSS_BIN = os.path.join(NODE_MODULES, '.bin/postcss')
 COMPRESS_NODE_MODULES = NODE_MODULES
+COMPRESS_BROWSERIFY_BIN = os.path.join(NODE_MODULES, '.bin/browserify')
 
 BOWER_COMPONENTS_ROOT = os.path.join(BASE_DIR, 'assets/styles')
 BOWER_PATH = os.path.join(NODE_MODULES, '.bin/bower')

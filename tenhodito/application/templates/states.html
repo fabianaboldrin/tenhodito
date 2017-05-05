@@ -1,6 +1,5 @@
 {% extends "base.html" %}
-{% load staticfiles %}
-{% load render_bundle from webpack_loader %}
+{% load staticfiles compress %}
 
 {% block content %}
   <div class="tenhodito-application">
@@ -12,15 +11,17 @@
       </div>
     </section>
     <main class="main-content">
-      <div class="map js-map" />
-      <div class="map__tooltip js-map-tooltip">
-        <i class="tooltip__icon icon js-tooltip-icon"></i>
-        <span class="tooltip__theme js-tooltip-theme">Testando Tema</span>
-      </div>
+      <div class="states-map js-map"></div>
+      <div class="bubble-chart js-bubble-chart"></div>
     </main>
   </div>
 {% endblock content %}
 
 {% block javascript %}
-  {% render_bundle 'states' %}
+  <script>
+  var STATE = "{{ state }}";
+  </script>
+  {% compress js %}
+    <script type="module" src="{% static 'js/states.js' %}"></script>
+  {% endcompress %}
 {% endblock javascript %}

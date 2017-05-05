@@ -1,6 +1,5 @@
 {% extends "base.html" %}
-{% load staticfiles %}
-{% load render_bundle from webpack_loader %}
+{% load staticfiles compress %}
 
 {% block content %}
   <div class="tenhodito-application">
@@ -31,5 +30,7 @@
 {% endblock content %}
 
 {% block javascript %}
-  {% render_bundle 'main' %}
+  {% compress js %}
+    <script type="module" src="{% static 'js/index.js' %}"></script>
+  {% endcompress %}
 {% endblock javascript %}

@@ -1,0 +1,16 @@
+{
+  "themes": [
+    {
+      "saude": 78
+    },
+    {
+      "seguranca": 7
+    },
+    {
+      "educacao": 12
+    },
+    {
+      "turismo": 3
+    }
+  ]
+}
