@@ -1,16 +1,39 @@
 {
   "themes": [
     {
-      "saude": 78
+      "value": 45,
+      "name": "Segurança",
+      "slug": "seguranca"
     },
     {
-      "seguranca": 7
+      "value": 21,
+      "name": "Educação",
+      "slug": "educacao"
     },
     {
-      "educacao": 12
+      "value": 14,
+      "name": "Turismo",
+      "slug": "turismo"
     },
     {
-      "turismo": 3
+      "value": 20,
+      "name": "Economia",
+      "slug": "economia"
+    },
+    {
+      "value": 69,
+      "name": "Assistência Social",
+      "slug": "assistencia-social"
+    },
+    {
+      "value": 82,
+      "name": "Direitos Humanos",
+      "slug": "direitos-humanos"
+    },
+    {
+      "value": 32,
+      "name": "Relações Exteriores",
+      "slug": "relacoes-exteriores"
     }
   ]
 }
