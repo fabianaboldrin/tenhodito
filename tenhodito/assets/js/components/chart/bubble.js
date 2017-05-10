@@ -11,12 +11,13 @@ class BubbleChart {
     else this.width = document.querySelector(this.selector).clientWidth;
 
     if (height) this.height = height;
-    else this.height = document.querySelector(this.selector).clientHeight - this.paddingBottom;
+    else this.height = document.querySelector(this.selector).clientHeight;
 
   }
 
   prepareData(data) {
     const maxAmount = d3.max(data.themes, (d) => {return +d.value});
+    const aspectRatio = (window.innerHeight / window.innerWidth) * 5;
 
     const radiusScale = d3.scalePow()
           .exponent(0.5)
@@ -29,9 +30,9 @@ class BubbleChart {
         name: data.name,
         slug: data.slug,
         value: data.value,
-        radius: radiusScale(+data.value),
-        x: Math.random() * ( this.width - convertEm(5) ),
-        y: Math.random() * ( this.height - convertEm(5) )
+        radius: radiusScale(+data.value * aspectRatio),
+        x: Math.random() * ( this.width - convertEm(aspectRatio) ),
+        y: Math.random() * ( this.height - convertEm(aspectRatio) )
       })
     })
     prepared.sort(function (a, b) { return b.value - a.value; });
@@ -42,6 +43,8 @@ class BubbleChart {
     const center = {x: this.width / 2, y: this.height / 2};
     const forceStrength = 0.03;
     let bubbles = null;
+    let texts = null;
+    let bubbleInfos = null;
     function charge(d) {
       return -Math.pow(d.radius, 2.0) * forceStrength;
     }
@@ -61,8 +64,17 @@ class BubbleChart {
 
     function ticked() {
       bubbles
-        .attr('cx', function (d) { return d.x; })
-        .attr('cy', function (d) { return d.y; });
+        .attr('cx', (d) => { return d.x; })
+        .attr('cy', (d) => { return d.y; });
+      texts
+        .attr('x', (d) => { return d.x - d.radius; })
+        .attr('y', (d) => { return d.y - d.radius; })
+      bubbleInfos
+        .attr('style', (d) => {
+          const maxFontSize = 30;
+          let fontSize = d.radius * 0.20;
+          if (fontSize > maxFontSize) fontSize = maxFontSize;
+          return `font-size: ${fontSize}px`; })
     }
 
     const diameter = 500;
@@ -83,14 +95,35 @@ class BubbleChart {
         if (error) return console.error(error);
         const preparedData = this.prepareData(data);
         bubbles = svg.selectAll('.buble').data(preparedData);
-        const bubblesE = bubbles.enter().append('circle')
+        const bubbleGroups = bubbles.enter().append('g').attr('class', 'chart__bubbles');
+        const bubblesE = bubbleGroups.append('circle')
+          .attr('class', (d) => { return `bubble__circle ${d.slug}`; })
           .attr('r', 0)
-          .attr('class', (d) => { return `chart__bubble ${d.slug}`; })
 
         bubbles = bubbles.merge(bubblesE);
         bubbles.transition()
+          .duration(750)
+          .attr('r', function (d) { return d.radius; })
+          .ease();
+
+        texts = bubbleGroups.append('foreignObject')
+          .attr('x', (d) => { return d.x - d.radius })
+          .attr('y', (d) => { return d.y - d.radius })
+          .attr('width', (d) => { return d.radius * 2 })
+          .attr('height', (d) => { return d.radius * 2 })
+          .style('opacity', 0)
+
+        bubbleInfos = texts.append('xhtml:div')
+          .attr('class', 'bubble__info')
+            .append('xhtml:p')
+            .attr('class', 'info__name')
+            .text((d) => {return d.name;})
+
+        texts.transition()
+          .delay(500)
           .duration(1000)
-          .attr('r', function (d) { return d.radius; });
+          .style('opacity', 1)
+
         simulation.nodes(preparedData);
         simulation.force('x', d3.forceX().strength(forceStrength).x(center.x));
         simulation.alpha(1).restart();

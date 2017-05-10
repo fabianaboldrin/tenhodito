@@ -1,19 +1,36 @@
 .sidebar {
   background-color: $light-green;
-  padding: 3em;
-  width: 15em;
+  color: $sidebar-color;
+  padding: 3em 1.5em;
+  width: 25em;
+  overflow-y: auto;
+  overflow-y: overlay;
   .sidebar__header {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 
     .header__logo {
       height: 10em;
+      &--horizontal {
+        height: auto;
+        width: 15em;
+      }
+    }
+
+    .header__text {
+      text-align: center;
+      border-bottom: 1px solid $dark-green;
+      padding: 1em;
+
+      .text__highlight {
+        font-weight: 700;
+        color: $yellow;
+      }
     }
   }
 
   .sidebar__body {
-    color: $sidebar-color;
 
     .body__text {
       padding-bottom: 2em;
@@ -26,6 +43,75 @@
       .menu-list__item {
         text-transform: uppercase;
         font-weight: 800;
+      }
+    }
+  }
+}
+
+.deputies-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  .list__item {
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0.75em;
+    margin-top: 0.5em;
+
+    .item__info {
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+      margin-left: 1em;
+      width: 100%;
+
+      [class^="info"] {
+        margin: 0;
+      }
+
+      .info__name {
+        font-size: 1em;
+      }
+
+      .info__party {
+        font-size: 0.9em;
+      }
+
+      .info__theme {
+        color: white;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 0.8em;
+        padding: 0.1em 0.5em;
+        margin-left: -2px;
+        @each $category, $color in $color-category {
+          &.#{$category} {
+            background-color: $color;
+          }
+        }
+      }
+    }
+
+    .item__image {
+      width: 3.5em;
+      height: 3.5em;
+      display: flex;
+      overflow: hidden;
+      justify-content: center;
+      align-items: center;
+      border-radius: 50%;
+      border: 4px solid $sidebar-color;
+      position: relative;
+
+      .image__deputy {
+        height: 4em;
+        width: auto;
+        position: absolute;
+        top: 0;
       }
     }
   }

@@ -1,39 +1,54 @@
 {
   "themes": [
     {
-      "value": 45,
+      "value": 13,
       "name": "Segurança",
       "slug": "seguranca"
     },
     {
-      "value": 21,
+      "value": 7,
       "name": "Educação",
       "slug": "educacao"
     },
     {
-      "value": 14,
+      "value": 3,
       "name": "Turismo",
       "slug": "turismo"
     },
     {
-      "value": 20,
+      "value": 17,
       "name": "Economia",
       "slug": "economia"
     },
     {
-      "value": 69,
+      "value": 12,
       "name": "Assistência Social",
       "slug": "assistencia-social"
     },
     {
-      "value": 82,
+      "value": 8,
       "name": "Direitos Humanos",
       "slug": "direitos-humanos"
     },
     {
-      "value": 32,
+      "value": 6,
       "name": "Relações Exteriores",
       "slug": "relacoes-exteriores"
+    },
+    {
+      "value": 14,
+      "name": "Participação e Transparência",
+      "slug": "participacao-e-transparencia"
+    },
+    {
+      "value": 2,
+      "name": "Família",
+      "slug": "familia"
+    },
+    {
+      "value": 18,
+      "name": "Previdência",
+      "slug": "previdencia"
     }
   ]
 }

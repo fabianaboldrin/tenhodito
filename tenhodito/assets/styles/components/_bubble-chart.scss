@@ -8,7 +8,8 @@
   .chart {
     align-self: center;
 
-    .chart__bubble {
+    .chart__bubbles {
+      .bubble__circle {
         stroke: white;
         stroke-width: 5px;
 
@@ -17,6 +18,23 @@
             fill: rgba($color, 0.8);
           }
         }
+
+      }
+      .bubble__info {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        padding: 1em;
+        align-items: center;
+        justify-content: center;
+
+        .info__name {
+          text-align: center;
+          color: white;
+          font-weight: 700;
+          text-transform: uppercase;
+        }
+      }
     }
   }
 }

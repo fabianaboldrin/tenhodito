@@ -1,6 +1,7 @@
 .main-content {
   background-color: $dark-green;
   flex: 1;
+  overflow-y: auto;
   display: flex;
   justify-content: center;
   background-color: #00a89d;
