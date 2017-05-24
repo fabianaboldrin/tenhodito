@@ -1,0 +1,168 @@
+{% extends "base.html" %}
+{% load staticfiles compress %}
+
+{% block content %}
+<div class="tenhodito-application">
+  <section class="sidebar">
+    <div class="sidebar__header">
+      <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="header__logo--horizontal">
+      <p class="header__text">Veja os principais temas abordados pelos outros deputados do <span class="text__highlight">PR</span>.</p>
+    </div>
+    <div class="sidebar__body">
+      <ul class="deputies-list">
+        <li class="list__item">
+          <a class="item__link" href="{% url 'deputy' 1 %}">
+            <div class="item__info">
+              <h3 class="info__name">Dep. Aelton Freitas</h3>
+              <p class="info__party">PR - MG</p>
+              <p class="info__theme educacao">Educação</p>
+            </div>
+            <div class="item__image">
+              <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/141372.jpg" alt="">
+            </div>
+          </a>
+        </li>
+        <li class="list__item">
+          <a class="item__link" href="{% url 'deputy' 1 %}">
+            <div class="item__info">
+              <h3 class="info__name">Dep. Mauro Lopes</h3>
+              <p class="info__party">PMDB - MG</p>
+              <p class="info__theme participacao-e-transparencia">Participação e Transparência</p>
+            </div>
+            <div class="item__image">
+              <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/74749.jpg" alt="">
+            </div>
+          </a>
+        </li>
+        <li class="list__item">
+          <a class="item__link" href="{% url 'deputy' 1 %}">
+            <div class="item__info">
+              <h3 class="info__name">Dep. Rubens Pereira Júnior</h3>
+              <p class="info__party">PCdoB - MG</p>
+              <p class="info__theme direitos-humanos">Direitos Humanos</p>
+            </div>
+            <div class="item__image">
+              <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/178887.jpg" alt="">
+            </div>
+          </a>
+        </li>
+        <li class="list__item">
+          <a class="item__link" href="{% url 'deputy' 1 %}">
+            <div class="item__info">
+              <h3 class="info__name">Dep. Professora Dorinha Seabra Rezende</h3>
+              <p class="info__party">DEM - MG</p>
+              <p class="info__theme relacoes-exteriores">Relações Exteriores</p>
+            </div>
+            <div class="item__image">
+              <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/160639.jpg" alt="">
+            </div>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <main class="main-content deputy">
+    <div class="deputy-profile">
+      <div class="profile__info">
+        <div class="deputy__image">
+          <img class="deputy__photo" src="http://www.camara.gov.br/internet/deputado/bandep/160639.jpg" alt="">
+        </div>
+        <div class="info__text">
+          <h3 class="text__name">Dep. Professora Dorinha Seabra Rezende</h3>
+          <p class="text__party">DEM - MG</p>
+          <p class="text__stats"><span class="stats__highlight">125</span> Proposições analisadas</p>
+          <p class="text__stats"><span class="stats__highlight">143</span> Discursos analisados</p>
+        </div>
+      </div>
+      <div class="profile__data">
+        <ul class="data__themes-list">
+          <li class="theme__item">
+            <i class="item__icon icon icon-seguranca seguranca"></i>
+            <div class="item__info">
+              <h4 class="info__theme">Segurança</h4>
+              <div class="info__bar">
+                <span class="bar__label">Propostas</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--proposals seguranca" style="width: 76%;"></div>
+                </div>
+              </div>
+              <div class="info__bar">
+                <span class="bar__label">Discursos</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--speeches seguranca" style="width: 24%;"></div>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li class="theme__item">
+            <i class="item__icon icon icon-direitos-humanos direitos-humanos"></i>
+            <div class="item__info">
+              <h4 class="info__theme">Direitos Humanos</h4>
+              <div class="info__bar">
+                <span class="bar__label">Propostas</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--proposals direitos-humanos" style="width: 42%;"></div>
+                </div>
+              </div>
+              <div class="info__bar">
+                <span class="bar__label">Discursos</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--speeches direitos-humanos" style="width: 58%;"></div>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li class="theme__item">
+            <i class="item__icon icon icon-participacao-e-transparencia participacao-e-transparencia"></i>
+            <div class="item__info">
+              <h4 class="info__theme">Participação e Transparência</h4>
+              <div class="info__bar">
+                <span class="bar__label">Propostas</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--proposals participacao-e-transparencia" style="width: 20%;"></div>
+                </div>
+              </div>
+              <div class="info__bar">
+                <span class="bar__label">Discursos</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--speeches participacao-e-transparencia" style="width: 80%;"></div>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li class="theme__item">
+            <i class="item__icon icon icon-relacoes-exteriores relacoes-exteriores"></i>
+            <div class="item__info">
+              <h4 class="info__theme">Relações Exteriores</h4>
+              <div class="info__bar">
+                <span class="bar__label">Propostas</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--proposals relacoes-exteriores" style="width: 93%;"></div>
+                </div>
+              </div>
+              <div class="info__bar">
+                <span class="bar__label">Discursos</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--speeches relacoes-exteriores" style="width: 7%;"></div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </main>
+</div>
+{% endblock content %}
+
+{% block javascript %}
+  <script>
+  var STATE = "{{ state }}";
+  </script>
+  {% compress js %}
+    <script type="module" src="{% static 'js/deputy.js' %}"></script>
+  {% endcompress %}
+{% endblock javascript %}

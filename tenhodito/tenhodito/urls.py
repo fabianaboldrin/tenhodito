@@ -22,5 +22,7 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', TemplateView.as_view(template_name='home.html'), name='home'),
     url(r'^estado/(?P<state>[-\w]+)/$',
-        TemplateView.as_view(template_name='states.html'), name='state')
+        TemplateView.as_view(template_name='states.html'), name='state'),
+    url(r'^deputado/(?P<deputy_id>[\d]+)/$',
+        TemplateView.as_view(template_name='deputy.html'), name='deputy'),
 ]
