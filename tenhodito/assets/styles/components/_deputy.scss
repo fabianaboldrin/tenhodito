@@ -1,10 +1,14 @@
 .deputy-profile {
+  display: flex;
+  flex-direction: column;
+
   .profile__info {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 3em 0 1em 0;
     border-bottom: 2px solid $light-green;
+    flex: 0 0 auto;
 
     .info__text {
       margin-left: 2em;
@@ -61,11 +65,25 @@
     list-style-type: none;
     margin: 0;
     padding: 2em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 75em;
 
     .theme__item {
       background-color: $deputy-border-color;
       display: flex;
+      margin: 0 .75em;
       margin-bottom: 1.5em;
+      width: 35em;
+      max-width: 100%;
+
+      &:first-of-type {
+        width: calc(100% - 2.8em);
+        font-size: 1.25em;
+        margin: 0;
+        margin-bottom: 2em;
+      }
 
       .item__info {
         color: white;
@@ -81,6 +99,10 @@
           font-weight: 800;
           font-size: 1.1em;
           margin-bottom: 0.3em;
+
+          .theme__percentage {
+            color: $yellow;
+          }
         }
 
         .info__bar {
