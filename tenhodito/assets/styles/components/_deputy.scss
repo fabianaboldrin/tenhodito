@@ -70,6 +70,10 @@
     justify-content: center;
     width: 75em;
 
+    @include device('l-laptop') {
+      width: 38.5em;
+    }
+
     .theme__item {
       background-color: $deputy-border-color;
       display: flex;
