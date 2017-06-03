@@ -163,16 +163,8 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'assets'),
 )
 
-WEBPACK_LOADER = {
-    'DEFAULT': {
-        'BUNDLE_DIR_NAME': 'bundles/',
-        'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.json')
-    }
-}
-
 REPOSITORY_DIR = os.path.dirname(BASE_DIR)
 NODE_MODULES = os.path.join(REPOSITORY_DIR, 'node_modules')
-WEBPACK_BIN = os.path.join(NODE_MODULES, '.bin/webpack')
 
 COMPRESS_PRECOMPILERS = (
     ('text/x-scss', 'compressor_toolkit.precompilers.SCSSCompiler'),
