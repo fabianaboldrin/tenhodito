@@ -8,7 +8,20 @@
   .chart {
     align-self: center;
 
+    &.filter-active {
+      .chart__bubbles {
+        opacity: 0.5;
+        transition: opacity 0.3s ease;
+        &.active {
+          opacity: 1;
+          transition: opacity 0.3s ease;
+        }
+      }
+    }
+
     .chart__bubbles {
+      transition: opacity 0.3s ease;
+
       .bubble__circle {
         stroke: white;
         stroke-width: 5px;
@@ -21,6 +34,7 @@
 
       }
       .bubble__info {
+        cursor: pointer;
         width: 100%;
         height: 100%;
         display: flex;

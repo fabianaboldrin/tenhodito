@@ -1,6 +1,7 @@
 import $ from 'jquery';
 import * as d3 from 'd3';
 import { convertEm } from '../../utils/convert';
+import mixitup from 'mixitup';
 
 
 class BubbleChart {
@@ -13,6 +14,15 @@ class BubbleChart {
     if (height) this.height = height;
     else this.height = document.querySelector(this.selector).clientHeight;
 
+    self.mixer = mixitup('.js-mixer', {
+      selectors: {
+        target: '.js-mixer-item'
+      },
+      animation: {
+        duration: 100,
+        easing: 'cubic-bezier(0.645, 0.045, 0.355, 1)'
+      }
+    });
   }
 
   prepareData(data) {
@@ -77,6 +87,32 @@ class BubbleChart {
           return `font-size: ${fontSize}px`; })
     }
 
+    function checkFilter() {
+      const container = $('.js-bubble-chart').find('.chart');
+      console.log(container)
+      const filters = self.mixer.getState().activeFilter.selector;
+
+      if (filters === '.js-mixer-item') {
+        container.removeClass('filter-active');
+      } else {
+        container.addClass('filter-active');
+      }
+    }
+
+    function handleBubbleClick(data) {
+      const currentFilter = self.mixer.getState().activeFilter.selector;
+      const svgParent = $(`.bubble__circle.${data.slug}`).parent();
+
+      if (currentFilter.indexOf(`.${data.slug}`) !== -1) {
+        self.mixer.toggleOff(`.${data.slug}`).then(checkFilter);
+        svgParent.removeClass('active');
+      } else {
+        self.mixer.toggleOn(`.${data.slug}`).then(checkFilter);
+        svgParent.addClass('active');
+      }
+
+    }
+
     const diameter = 500;
 
     const bubble = d3.pack()
@@ -95,7 +131,8 @@ class BubbleChart {
         if (error) return console.error(error);
         const preparedData = this.prepareData(data);
         bubbles = svg.selectAll('.buble').data(preparedData);
-        const bubbleGroups = bubbles.enter().append('g').attr('class', 'chart__bubbles');
+        const bubbleGroups = bubbles.enter().append('g').attr('class', 'chart__bubbles')
+                                    .on('click', (data) => {handleBubbleClick(data)});
         const bubblesE = bubbleGroups.append('circle')
           .attr('class', (d) => { return `bubble__circle ${d.slug}`; })
           .attr('r', 0)
