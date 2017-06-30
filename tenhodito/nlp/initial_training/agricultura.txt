@@ -1,0 +1,516 @@
+Abate de animal
+Abatedouro
+Abigeato
+Animal
+Carcaça de animal
+Açougue
+Estabelecimento de carne
+Carne
+Adubação
+Adubação a lanço
+Adubação de cobertura
+Adubação de manutenção
+Adubação foliar
+Adubação verde
+Adubo
+Fertilizante
+Lavoura
+Agricultura de precisão
+Agricultura
+Agricultura de subsistência
+Agricultura familiar
+Agrobiodiversidade
+Biodiversidade agrícola
+Agroecologia
+Agricultura orgânica
+Agrofloresta
+Sistema agroflorestal (SAF)
+Agroindústria
+Indústria
+Agroindústria complexa
+Agroindústria rudimentar
+Indústria madeireira
+Agronegócio
+Atividade agrícola
+Empreendedorismo rural
+Máquina agrícola
+Parceria rural
+Atividade econômica
+Empregador rural
+Floricultura
+Produtividade agrícola
+Agronomia
+Engenharia agronômica
+Ciências agrárias
+Fitossanitarismo
+Agropecuária
+Atividade agropecuária
+Produto agropecuário
+Agrotóxico
+Defensivo agrícola
+Pesticida
+Praguicida
+Produto fitossanitário
+Poluente
+Pulverização aérea
+Vigilância sanitária
+Alimentação animal
+Alimentação
+Ração animal
+Silagem
+Alimento funcional
+Alimento
+Alimento orgânico
+Alimento sem lactose
+Produto sem lactose
+Animal bravio
+Animal feroz
+Animal de grande porte
+Animal marinho
+Animal morto
+Animal onívoro
+Animal polífago
+Animal vivo
+Aquicultura
+Carcinicultura
+Piscicultura
+Pecuária
+Área rural
+Zona rural
+Eletrificação rural
+Imóvel rural
+Perímetro urbano
+Regularização fundiária urbana (Reurb)
+Tração animal
+Atividade agrossilvipastoril
+Atividade agrossilvopastoril
+Atividade pecuária
+Aviário
+Granja
+Bebida
+Água potável
+Bebida alcoólica
+Bebida energética
+Bebida fria
+Bebida gaseificada
+Bebida hipercalórica
+Bebida hipocalórica
+Bebida não alcoólica
+Bebida quente
+Chá
+Refrigerante
+Suco de fruta
+Bebida alcoólica destilada
+Embriaguez
+Teor alcoólico
+Destilaria
+Microdestilaria
+Minidestilaria
+Bebida não-alcoólica
+Biofertilizante
+Briga entre animais
+Rinha
+Caça
+Caça amadorística
+Caça esportiva
+Caça para subsistência
+Caça profissional
+Carne de caça
+Extrativismo animal
+Pesca
+Caça de subsistência
+Cacauicultura
+Cadeia dominial
+Propriedade rural
+Carga perecível
+Veículo de carga
+Carga viva
+Carne para consumo humano
+Produto de origem animal
+Carne bovina
+Carne de frango
+Carne equina
+Carne suína
+Despojos
+Miúdos
+Ovinocaprinocultura
+Carreta agrícola
+Jerico (veículo)
+Veículo artesanal agrícola
+Carreta
+Veículo agrícola
+Caseína
+Leite
+Catástrofe natural
+Seguro rural
+Ceifa
+Colheita
+Censo agropecuário
+Dados estatísticos
+Certificado fitosanitário
+Certificado sanitário
+Vigilância fitossanitária
+Inspeção fitossanitária
+Certificado zoossanitário
+Vigilância sanitária animal
+Inspeção zootécnica
+Cobertura vegetal
+Vegetal
+Colheita mecânica
+Sangria
+Colheitadeira
+Produto agrícola
+Implemento agrícola
+Contrato de integração
+Contrato de integração vertical
+Contrato
+Contrato de parceria
+Contrato de safra
+Contrato por safra
+Contrato de trabalho agrícola
+Trabalhador rural
+Controle de natalidade animal
+Controle de natalidade de animal
+Cooperativa de pesca
+Sociedade cooperativa
+Corretivo (agricultura)
+Corretivo de acidez
+Corretivo de alcalinidade
+Corretivo de sodicidade
+Criadouro
+Biodiversidade
+Epidemiologia
+Foco transmissor
+Vetor biológico
+Cultivar
+Cultivar comercial
+Cultivar crioula
+Muda (agricultura)
+Semente
+Cultivar local
+Cultivar tradicional
+Defesa sanitária animal
+Defesa sanitária vegetal
+Defeso
+Salário-defeso
+Seguro-defeso
+Derivado do leite
+Laticínio
+Desperdício de alimentos
+Diversidade biológica
+Patrimônio genético
+Doença animal
+Doença em animal
+Doenças animais
+Enfermidade animal
+Patologia animal
+Doença
+Zoonose
+Saúde animal
+Educação pecuária
+Educação
+Educação agrícola
+Educação do campo
+Educação rural
+Embarcação estrangeira
+Embarcação
+Empreendedorismo
+Proprietário rural
+Turismo rural
+Empreendimento familiar rural
+Empreendimento
+Empresa familiar rural
+Entressafra
+Erva daninha
+Plantas
+Estabelecimento agrário
+Estabelecimento rural
+Estabelecimento comercial
+Estabelecimento agrícola
+Estabelecimento veterinário
+Medicina veterinária
+Estimulante (agricultura)
+Estoque
+Produtos
+Exigências fitossanitárias
+Requisitos fitossanitários
+Extrativismo
+Extrativismo vegetal
+Recursos naturais
+Recursos florestais
+Fauna sinantrópica nociva
+Fauna
+Inoculante (agricultura)
+Remineralizador (agricultura)
+Substrato (agricultura)
+Fitomelhoramento
+Melhoramento genético vegetal
+Frigorífico
+Local de trabalho
+Fruticultura
+Produto hortifrutigranjeiro
+Fumicultura
+Tabaco
+Gado
+Rebanho
+Ganso
+Gradação alcoólica
+Grão
+Horta
+Hortaliça
+Indústria alimentícia
+Indústria de alimentação
+Indústria borracheira
+Indústria da borracha
+Seringal
+Indústria de laticínio
+Indústria leiteira
+Indústria pesqueira
+Informação meteorológica
+Clima
+Meteorologia aplicada
+Tempo (meteorologia)
+Infração sanitária
+Inseticida
+Controle biológico
+Controle de praga
+Inseto
+Repelente
+Inspeção federal
+Inspeção industrial
+Inspeção sanitária
+Controle fitossanitário
+Registro genealógico
+Insumo agrícola
+Insumo
+Insumo agropecuário
+Lácteo
+Lacticínio
+Produto lácteo
+Leite modificado
+Pousio
+Queimada
+Safra
+Leite desnatado
+Leite humano
+Leite in natura
+Leite integral
+Leite materno
+Leite semidesnatado
+Amamentação
+Leite cru
+Luta entre animais
+Madeira
+Madeira compensada
+Madeira de construção
+Madeira de lei
+Madeira em tora
+Madeira serrada
+Madeira tropical
+Árvore
+Indústria moveleira
+Material reprodutivo
+Genética
+Recursos genéticos
+Meação
+Meeiro
+Melhoramento genético
+Melhoramento genético animal
+Melhoramento genético de plantas
+Produto transgênico
+Meteorologia
+Módulo fiscal
+Grande propriedade rural
+Média propriedade rural
+Módulo rural
+Pequena propriedade rural
+Nutrimento
+OGM
+Transgênico
+Olivicultura
+Organismo transgênico
+Zootecnia
+Parceria agrícola
+Parceria agroindustrial
+Parceria extrativa
+Parceria mista
+Parceria pecuária
+Pastagem
+Pasto
+Pastagem consorciada
+Pastagem cultivada
+Pastagem mista
+Pastagem nativa
+Pastagem natural
+Planta forrageira
+Patrimônio
+Patrimônio público
+Pecuária extensiva
+Pecuária intensiva
+Pecuária orgânica
+Crédito rural
+Pesca amadorística
+Pesca artesanal
+Pesca científica
+Pesca comercial
+Pesca de anzol
+Pesca de armadilha
+Pesca de rede
+Pesca esportiva
+Pesca marítima
+Pesca profissional
+Pesca subaquática
+Pescado
+Recursos pesqueiros
+Setor pesqueiro
+Terminal pesqueiro
+Pesca amadora
+Pesquisa agrícola
+Pesquisa científica
+Extensão rural
+Pesquisa pecuária
+Planta transgênica
+Recuperação florestal
+Vegetação secundária
+Processo produtivo
+Mercado de trabalho
+Produção econômica
+Produção animal
+Produtividade
+Produto de origem vegetal
+Produto agroalimentar
+Produto alimentício
+Produto embutido
+Produto in natura
+Produto não comestível
+Produto vegetal
+Produto de uso veterinário
+Receita veterinária
+Produto hortigranjeiro
+Propriedade improdutiva
+Propriedade produtiva
+Propriedade (direito civil)
+Conflito fundiário
+Função social da propriedade rural
+Reforma agrária
+Reserva legal
+Titulação
+Proteção sanitária vegetal
+Prova zootécnica
+Raticida
+Veneno
+Recursos vegetais
+Engenharia florestal
+Floresta
+Engenharia de pesca
+Reparação do solo
+Solo
+Proteção ambiental
+SAF
+Sanidade agropecuária
+Seguro agrícola
+Seguro
+Setor agrícola
+Setor cafeeiro
+Silvicultura
+Floresta plantada
+Florestamento
+Solo rural
+Solo urbano
+Teor de substância
+Informação nutricional
+Rótulo de alimento
+Tosa animal
+Fonte alternativa de energia
+Veículo de tração animal
+UFPA (Unidade Familiar de Produção Agrária)
+Unidade Familiar de Produção Agrária (UFPA)
+Valor calórico
+Vegetação
+Vegetação primária
+Bioma
+Flora
+Veículo terrestre
+Trator
+Vigilância zoosanitária
+Zoneamento agrícola
+Doença infectocontagiosa
+Acampamento agrário
+Acampamento rural
+AEIS
+Zona especial de interesse social (ZEIS)
+Irrigação
+Área de especial interesse social (AEIS)
+Assentado
+Assentamento rural
+Assentamento agrário
+Assentamento urbano
+Autorização de uso sustentável
+Autorização de uso
+CCU
+Contrato de Concessão de Uso (CCU)
+Colonização
+Conflito agrário
+Violência rural
+Crédito
+Confederação de cooperativas de crédito rural
+Crédito mercantil
+Direito real de laje
+Direito real
+Gleba
+Loteamento
+Terreno
+Imóvel
+Terra nua
+Legitimação fundiária
+Legitimação de posse
+Regularização fundiária
+Lote
+Loteamento fechado
+Medicamento veterinário
+Medicamento
+Pescador artesanal
+Política fundiária
+Meio ambiente
+Política habitacional
+Conjunto habitacional
+Habitação de interesse social
+Programa habitacional
+Proposta de Manifestação de Aquisição
+Titulação coletiva
+Título de domínio da terra
+Regularização fundiária por substituição
+Regularização fundiária rural
+Regularização fundiária de interesse específico
+Zoneamento urbano
+Regularização fundiária de interesse social
+Área urbana
+Reurb
+Cosseguro
+Plano de assistência funerária
+Resseguro
+Seguro coletivo
+Seguro de automóvel
+Seguro de crédito à exportação (SCE)
+Seguro facultativo
+Seguro habitacional
+Seguro individual
+Seguro obrigatório
+Seguro prestamista
+Seguro privado
+Seguro Responsabilidade Civil do Transportador Rodoviário de Cargas (Seguro RCTR-C )
+Seguro-desemprego
+Seguro-saúde
+Seguro-viagem
+Apólice de seguro
+Cobertura de seguro
+Prêmio de seguro
+Processo administrativo sancionador
+Seguradora
+Seguro-garantia
+Sinistro
+Terreno urbano
+Área pública
+Título definitivo
+Título provisório
+ZEIS

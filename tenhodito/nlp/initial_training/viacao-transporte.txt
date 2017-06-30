@@ -1,0 +1,762 @@
+Acessório de carro
+Acessório para veículo
+Acessório de veículo
+Acessório para carro
+Veículo terrestre
+Acidente aéreo
+Acidente aeronáutico
+Acidente de aeronave
+Desastre aéreo
+Desastre aeronáutico
+Incidente aéreo
+Incidente aeronáutico
+Acidente
+Aeronave
+Segurança aérea
+Acidente de trânsito
+Alcoolemia
+Bafômetro
+Crime de trânsito
+Homicídio culposo
+Pedestre
+Seguro de automóvel
+Teste de impacto
+Acidente fatal
+Acidente marítimo
+Naufrágio
+Segurança marítima
+Aeródromo
+Aeródromo civil
+Aeródromo militar
+Aeródromo privado
+Aeródromo público
+Heliponto
+Avião
+Zona de parada
+Zona de proteção
+Zona livre de obstáculos
+Aeroporto
+Aeromodelo
+Veículo aéreo
+Aeronave brasileira
+Aeronave civil
+Aeronave estrangeira
+Aeronave experimental
+Aeronave hostil
+Aeronave militar
+Aeróstato
+Helicóptero
+Veículo Aéreo Não Tripulado (VANT)
+Intercâmbio de aeronave
+Tripulação
+Voo
+Aeronave Remotamente Pilotada (ARP)
+ARP
+RPA (Remotely-Piloted Aircraft)
+Aeroporto internacional
+Aeroporto regional
+Operador aeroportuário
+Setor aeroportuário
+Balão
+Dirigível
+Aerovia
+Sistema viário
+Água de lastro
+Navio
+Transporte aquático
+Alameda
+Complexo viário
+Alarme automotivo
+Alarme sonoro
+Automóvel
+Segurança eletrônica
+Alça de ligação
+Trevo rodoviário
+Infraestrutura rodoviária
+Interseção rodoviária
+Concentração de álcool
+Concentração de álcool por litro de ar
+Concentração de álcool por litro de sangue
+Condução sob efeito de álcool
+Dosagem etílica
+Embriaguez
+Anel ferroviário
+Contorno ferroviário
+Ferrovia
+Anel rodoviário
+Anel viário
+Circunvalação
+Rodoanel
+Rodovia
+Aparador de linha antena corta-pipas
+Motocicleta
+Motofrete
+Motoneta
+Mototáxi
+Aparelho automotor
+Armador
+Marinha mercante
+Carro
+Veículo de passageiro
+Autódromo
+Autoridade portuária
+Atividade portuária
+Infraestrutura portuária
+Porto
+Segurança portuária
+Avenida
+Aviação
+Aviação agrícola
+Aviação civil
+Aviação geral
+Aviação militar
+Aviação privada
+Aviação pública
+Plano de voo
+Serviços aéreos
+Sistema de Pouso por Instrumentos (ILS)
+Transporte aéreo
+Check-in
+Passagem aérea
+Etilômetro
+Teste de alcoolemia
+Balão a gás
+Balão de ar quente
+Balão de Rozier
+Balão não tripulado
+Balão de retorno
+Balão sem dirigibilidade
+Balão rodoviário
+Rotatória rodoviário
+Balsa
+Veículo aquático
+Embarcação
+Barcaça
+Barcaça não propulsada
+Barcaça propulsada
+Barco
+Barreira eletrônica
+Equipamento de fiscalização eletrônica
+Fiscalização eletrônica de trânsito
+Beco
+Belonave
+Navio de guerra
+Bicicleta
+Veículo de propulsão humana
+Bicicletário
+Ciclofaixa
+Ciclovia
+Paraciclo
+Bilhete de passagem aérea
+Bloqueio viário
+Bloqueio viário policial
+Trânsito
+Polícia rodoviária federal
+Boia náutica
+BRT
+Transporte rápido por ônibus (BRT)
+Buggy
+Buggy-turismo
+Cabine de cobrança
+Pedágio
+Cabine leito
+Poltrona leito
+Serviço de leito
+Transporte
+Cadeira de segurança infantil
+Cadeirinha de segurança para criança
+Dispositivo de retenção para criança
+Cais
+Cais de atracação
+Cais acostável
+Calado da embarcação
+Câmbio automático
+Caminhão
+Veículo de carga
+Caminhão cavalo mecânico
+Caminhão cisterna
+Caminhão-baú
+Caminhão-caçamba
+Caminhão-cegonha
+Caminhão-grua
+Caminhão-pipa
+Caminhão-tanque
+Carreta
+Caminho de ferro
+Caminho-de-ferro
+Camioneta
+Veículo misto
+Cancela para controle de acesso
+Cancela de acesso
+Capacidade psicomotora
+Exame toxicológico
+Carga perecível
+Carga viva
+Carreta agrícola
+Jerico (veículo)
+Veículo artesanal agrícola
+Veículo agrícola
+Carro alegórico
+Carro de som
+Carro-forte
+Veículo Especial de Transporte de Valores (VETV)
+Veículo especial
+Carteira de motorista
+Carteira Nacional de Habilitação (CNH)
+CNH
+Documento de habilitação
+Categoria de habilitação
+Documento de identificação civil
+Exame de habilitação
+Infração de trânsito
+Cavalo de lata
+Veículo elétrico
+Certificado de Segurança Veicular
+CSV
+Segurança veicular
+Chassi
+Checagem de entrada
+Checagem de saída
+Check-out
+Empresa hoteleira
+Faixa especial
+Ciclomotor
+Classe de negócios
+Classe executiva
+Classe de viagem
+Classe econômica
+Primeira classe
+Viagem
+Combinação de veículo de carga (CVC)
+Companhia aérea
+Empresa de transporte aéreo
+Competição automobilística
+Disputa automobilística
+Competição automobilística ilegal
+Disputa automobilística ilegal
+Competição automobilística não autorizada
+Complexo portuário
+Malha rodoviária
+Ladeira
+Passarela
+Ponte
+Praça
+Rua
+Travessa
+Túnel
+Viaduto
+Viela
+Obra de arte (engenharia civil)
+Parque
+Concessionária de veículos
+Estabelecimento comercial
+Oficina mecânica
+Veículo novo
+Veículo usado
+Condução de veículo
+Condução defensiva
+Condução perigosa
+Condução sob efeito de substância psicoativa
+Simulador de direção veicular
+Direção defensiva
+Condução imprudente
+Condução temerária
+Direção perigosa
+Direção sob efeito de álcool
+Motorista alcoolizado
+Motorista embriagado
+Direção sob efeito de substância psicoativa
+Motorista drogado
+Construção naval
+Estaleiro
+Garantia de risco de performance
+Contorno rodoviário
+Cooperativa de transporte
+Sociedade cooperativa
+Corredor de ônibus
+Faixa exclusiva para ônibus
+Corrida de carros
+Cruzamento ferroviário
+Linha ferroviária
+Cruzamento rodoviário
+Interseção giratória
+Cruzeiro fluvial
+Cruzeiro turístico
+Cruzeiro marítimo
+Atração turística
+Curso de reciclagem
+Direito de dirigir
+Habilitação
+Motorista
+Depósito de veículos
+Sucata
+Veículo irrecuperável
+Desassoreamento
+Dragagem
+Desembarque
+Embarque
+Direção veicular
+Exame de direção veicular
+Direito ao transporte
+Direitos sociais
+Acessibilidade
+Pessoa com deficiência
+Dispositivo para transporte de carga
+Dispositivo tipo diamante
+Interseção losangular
+Dispositivo tipo trombeta
+Interconexão em trombeta
+Disputa automobilística não autorizada
+Pega
+Racha
+Permissão para dirigir
+DPVAT
+Seguro Obrigatório de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres (Seguro DPVAT)
+Dragagem hidroviária
+Dragagem portuária
+Drone
+Dutovia
+Educação de trânsito
+Educação para o trânsito
+Educação no trânsito
+Educação
+Segurança no trânsito
+Eixo do veículo
+Elevador
+Transporte vertical
+Embarcação arribada
+Embarcação estrangeira
+Embarcação existente
+Embarcação nova
+Embarcação offshore
+Embarcação pesqueira
+Embarcação tramp
+Eclusa
+Rebocador
+Seguro Obrigatório de Danos Pessoais causados por Embarcações ou por sua carga (Seguro DPEM)
+Embarcação de apoio offshore
+Embarcação de combate
+Embarque internacional
+Emplacamento de veículo
+Veículo
+Empresa aérea
+Empresa de transporte
+Empresa
+Empresa de transporte ferroviário
+Empresa de transporte marítimo
+Empresa de transporte rodoviário
+Franquia de bagagem
+Setor ferroviário
+Setor rodoviário
+Engenharia automotiva
+Engenharia
+Entroncamento rodoviário
+Interseção em T
+Interseção em Y
+Multa de trânsito
+Estação espacial
+Atividade espacial
+Espaço cósmico
+Missão espacial
+Estação ferroviária
+Terminal de transporte
+Estação rodoviária
+Estacionamento
+Estacionamento pago
+Estacionamento privado
+Estacionamento público
+Estacionamento rotativo
+Vaga de garagem
+Esteira de bagagem
+Bagagem
+Esteira rolante
+Transporte horizontal
+Estrada
+Estrada de rodagem
+Estrada variante
+Estrada vicinal
+Traçado (geografia)
+Travessia
+Trecho rodoviário
+Variante (estrada)
+Estrada-de-ferro
+Exame de aptidão física e mental
+Exame psicotécnico
+Exame escrito
+Faixa de circulação
+Faixa de rolamento
+Faixa de pedestre
+Faixa de travessia de pedestre
+Faixa de trânsito
+Faixa de domínio
+Pista de rolamento
+Faixa exclusiva
+Faixa exclusiva para transporte coletivo
+Faixa exclusiva de ônibus
+Faixa exclusiva de transporte coletivo
+
+Via férrea
+Malha ferroviária
+Ferrovia federal
+Trecho ferroviário
+Sinalização de trânsito
+Formação de condutor
+Frete
+GPS (Sistema de Posicionamento Global)
+Sistema de Posicionamento Global (GPS)
+Guarda portuária
+Polícia portuária
+Heliporto
+Heliponto civil
+Heliponto hospitalar
+Heliponto militar
+Heliponto público
+Hidrovia
+Hodômetro
+Hodômetro do veículo
+Indústria automobilística
+Indústria automotiva
+Indústria
+Infração grave
+Infração gravíssima
+Infração leve
+Infração média
+Auto de infração
+Infraestrutura aeronáutica
+Infraestrutura
+Infraestrutura aeroportuária
+Infraestrutura ferroviária
+Setor portuário
+Segurança rodoviária
+Transporte rodoviário
+Inspeção de segurança veicular
+Inspeção veicular ambiental
+Instalação portuária
+Instalação terrestre
+Interseção em trombeta
+Interconexão rodoviária
+Interseção com rótula
+Interseção em agulha
+Interseção em ângulo oblíquo
+Interseção em ângulo reto
+Interseção em desnível
+Interseção em níveis diferentes
+Interseção em diamante
+Interseção em nível
+Interseção (estrada)
+Interseção múltipla
+Interseção oblíqua
+Interseção (rodovia)
+Itinerário
+Trajeto
+Lacre
+Placa de identificação de veículo automotor
+Licenciamento anual veicular
+Light rail
+Veículo leve sobre trilhos (VLT)
+Limitador de velocidade
+Lombada eletrônica
+Radar eletrônico
+Velocidade
+Linha de ônibus
+Ônibus
+Linha férrea
+Local de destino
+Local
+Local de origem
+Redutor Eletrônico de Velocidade (REV)
+REV
+Malha rodoviária federal
+Meio de transporte
+Metrô
+Metropolitano
+Trem metropolitano
+Transporte metroviário
+Transporte coletivo
+Transporte de passageiro
+Transporte urbano
+Metrô leve
+Metropolitano de superfície
+Micro-ônibus
+Mobilidade urbana
+Transporte individual
+Monitor de transporte escolar
+Transporte escolar
+Moto frete
+Dispositivo de proteção para pernas e motor
+Moto-frete
+Motor
+Propulsor
+Motor de eficiência
+Motor elétrico
+Motor híbrido
+Teste de motor
+Propulsor de eficiência
+Veículo híbrido
+Motorcasa
+Motor-home
+Reboque
+Motorista recém-habilitado
+Prontuário
+Motorista bêbado
+Mototaxímetro
+Taxímetro
+Multa
+Navegação
+Navegação aérea
+Navegação aeroespacial
+Navegação de cabotagem
+Navegação de praticagem
+Navegação de travessia
+Navegação fluvial
+Navegação interior
+Navegação lacustre
+Navegação marítima
+Navio mercante
+Sobrestadia
+Norma de trânsito
+Obra de construção civil
+Obstáculo (viação)
+Ônibus convencional
+Ônibus executivo
+Ônibus leito
+Ônibus semi-leito
+Parada de ônibus
+Para-choque
+Parada obrigatória
+Ponto de parada
+Passageiro
+Passageiro com necessidade de assistência especial
+PNAE (Passageiro com necessidade de assistência especial)
+Passagem para viagem
+Passagem do transporte coletivo
+Passe estudantil
+Meia-entrada
+Pavimentação asfáltica
+Peça de reposição
+Peça sobressalente
+Peça nova
+Peças
+Peça original
+Peça usada
+Praça de pedágio
+Tráfego de pedestre
+Percurso
+Perícia móvel
+Serviço móvel de perícia
+Permissão internacional para dirigir
+Pesagem veicular
+Píer
+Píer de atracação
+Placa de carro
+Placa do carro
+Plataforma elevatória de acessibilidade
+Plataforma elevatória para acessibilidade
+Pneu
+Pneumático
+Pneu extralargo
+Pneu recapeado
+Pneu recauchutado
+Pneu reformado
+Pneu usado
+Polo naval
+Ponte rodoferroviária
+
+Porto delegado
+Porto flutuante
+Porto fluvial
+Porto lacustre
+Porto marítimo
+Porto organizado
+Porto seco
+Recinto alfandegado
+Terminal de Uso Privado (TUP)
+Posto de fiscalização
+Posto de fiscalização de trânsito
+Posto fiscal
+Posto de pesagem de veículo
+Posto de pesagem veicular
+Transporte de carga
+Prancha de surf
+Produto não-autopopulsor
+Produto não-autopropulsado
+Produto não-autopropelido
+Veículo autopropelido
+Prontuário médico
+Radar civil
+Radionavegação
+Equipamento eletrônico
+Radar fixo
+Radar móvel
+Radar militar
+Tráfego aéreo
+Rastreador de veículo
+Rastreador veicular
+Rastreador de veículo via celular
+Rastreador de veículo via satélite
+Trailer
+Alfândega
+Rodovia de pista dupla
+Rodovia de pista simples
+Rodovia estadual
+Rodovia federal
+Rodovia municipal
+Rota aérea
+Trecho aéreo
+Segurança aeronáutica
+Segurança de voo
+Segurança na aviação
+Segurança no transporte aéreo
+Segurança nos transportes
+Segurança da navegação
+Segurança de tráfego
+Segurança metroviária
+Barreira nos transportes
+Segurança pública
+Veículo adaptado
+Vistoria de identificação veicular
+Seguro DPEM
+Seguro DPVAT
+Seguro obrigatório
+Seguro trânsito
+Seguro RCTR-C
+Seguro Responsabilidade Civil do Transportador Rodoviário de Cargas (Seguro RCTR-C )
+Seguro
+Semáforo
+Sinal luminoso de trânsito
+Serviços de transporte
+Serviços
+Extravio de bagagem
+Serviços portuários
+Sirene automotiva
+Ambulância
+Luz intermitente
+Operação policial
+Veículo de segurança pública
+Dispositivo de rastreamento
+Via particular
+Via pública
+Via terrestre
+Tarifa de armazenagem
+Tarifa aeroportuária
+Tarifa de capatazia
+Tarifa de conexão
+Tarifa de embarque
+Tarifa de permanência
+Tarifa de pouso
+TAV
+Trem de alta velocidade (TAV)
+Táxi
+Táxi aéreo
+Aplicativo Uber
+Terminal de carga
+Terminal de Uso Privativo (TUP)
+TUP
+Tráfego
+Tráfego marítimo
+Calçada
+Transporte alternativo
+Transporte clandestino
+Transporte de emergência
+Transporte dutoviário
+Transporte especial
+Transporte ferroviário
+Transporte gratuito
+Transporte interestadual
+Transporte intermunicipal
+Transporte internacional
+Transporte interurbano
+Transporte metropolitano
+Transporte municipal
+Transporte privado
+Transporte público
+Transporte remunerado
+Transporte semiurbano
+Transporte terrestre
+Transporte do trabalhador
+Transporte informal
+Transporte aquaviário
+Transporte hidroviário
+Transporte de cabotagem
+Transporte fluvial
+Transporte lacustre
+Transporte marítimo
+Trecho aquático
+Zona de Praticagem (ZP)
+Transporte ilegal
+Transporte irregular
+Transporte de carga a granel
+Transporte de carga indivisível
+Transporte de produto perigoso
+Transporte de valores
+Transporte de criança
+Socorro de emergência
+Unidade móvel de saúde
+Segurança privada
+Transporte tubular
+Assistência estudantil
+Trecho fluvial
+Carona solidária
+Trecho marítimo
+Transporte particular
+Transporte público coletivo
+Transporte público individual
+Transporte terrestre fronteiriço de carga
+Travessia de pedestre
+Trem
+Veículo ferroviário
+Triciclo motorizado
+Cadeira de rodas
+Trólebus
+Turismo rural
+Turismo
+Empreendedorismo rural
+Uber
+Utilitário
+Veículo utilitário
+Van
+VANT
+Viatura
+Veículo de coleção
+Veículo estrangeiro
+Veículo importado
+Veículo nacional
+Veículo não motorizado
+Veículo particular
+Máquina agrícola
+Trator
+Implemento agrícola
+Veículo artesanal
+Veículo automotor
+Veículo autopropulsado
+Veículo blindado
+Proteção balística
+Veículo coletor de lixo
+Compactador de lixo
+Lixo
+Veículo com eixo erguido
+Veículo vazio
+Veículo com eixo suspenso
+Veículo de escolta
+Veículo de propulsão elétrica
+Veículo de representação
+Veículo oficial
+Viatura de segurança pública
+Viatura militar
+Veículo de tração animal
+Tração animal
+Veículo operacional
+VLT
+Imposto
+Administração pública
+Monitoramento ambiental
+Velocímetro
+Velocidade máxima
+Velocidade mínima
+Via privada
+Viagem de longa distância
+Voo comercial
+Voo internacional
+Voo livre
+Voo nacional
+ZP

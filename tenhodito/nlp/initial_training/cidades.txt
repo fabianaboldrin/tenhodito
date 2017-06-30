@@ -1,0 +1,416 @@
+Arborização
+Paisagismo
+Auditório
+Edifício
+Banheiro
+Toalete
+Banheiro familiar
+Banheiro feminino
+Banheiro masculino
+Banheiro privado
+Banheiro público
+Banheiro químico
+Vaso sanitário
+Banheiro particular
+Banheiro privativo
+Benfeitoria
+Benfeitoria necessária
+Benfeitoria útil
+Benfeitoria voluptuária
+Imóvel
+BIM
+Modelagem da informação na construção
+Casa flutuante
+Habitação flutuante
+Complexo arquitetônico
+Conjunto arquitetônico
+Arquitetura e Urbanismo
+Condomínio de lotes
+Condomínio
+Condomínio fechado
+Condomínio horizontal
+Loteamento fechado
+Condomínio urbano simples
+Conjunto habitacional
+Conjunto residencial
+Cooperativa habitacional
+Habitação de interesse social
+Política habitacional
+Construção-base
+Construção civil
+Laje
+Decoração
+Design de interiores
+Mobiliário
+Demarcação urbanística
+Zoneamento urbano
+Edifício anexo
+Edifício comercial
+Imóvel comercial
+Espaço físico
+Local
+Fortaleza (arquitetura)
+Forte (arquitetura)
+Fortificação (arquitetura)
+Palafita
+Habitação
+Imóvel abandonado
+Imóvel com destinação mista
+Imóvel confinante
+Imóvel de temporada
+Imóvel hipotecado
+Imóvel matriculado
+Imóvel novo
+Imóvel próprio
+Imóvel residencial
+Imóvel rural
+Imóvel urbano
+Imóvel usado
+Imóvel usucapiendo
+Administração predial
+Aluguel
+Avaliação de imóvel
+Bens imóveis
+Domínio
+Letra de Crédito Imobiliário (LCI)
+Mercado imobiliário
+Ocupante de imóvel
+Proposta de Manifestação de Aquisição
+Registro de imóvel
+Título dominial
+Edifício residencial
+Jardinagem
+Planta ornamental
+Localidade
+Lugar
+Local de destino
+Local de origem
+Local de trabalho
+Local privado
+Local público
+Área pública
+Memorial descritivo
+Obra civil
+Projeto básico
+Topografia
+Mobília
+Móveis
+Mobiliário urbano
+Bens móveis
+Especificação técnica
+Pavilhão
+Piscina
+Natação
+Projeto técnico (Construção civil)
+Alvará de funcionamento
+Desenho técnico
+Vaga de garagem
+Vaga em garagem
+Estacionamento
+Vila olímpica
+Jogos Olímpicos
+Olimpíadas
+Vila paralímpica
+Jogos Paralímpicos
+Abastecimento de água
+Água
+Área urbana consolidada
+Crise hídrica
+Monopólio da União
+Acidente de trânsito
+Acidente
+Alcoolemia
+Bafômetro
+Crime de trânsito
+Homicídio culposo
+Pedestre
+Seguro de automóvel
+Teste de impacto
+Acidente fatal
+Aglomeração urbana
+Cidade
+Estado (ente federado)
+Favela
+Microrregião
+Município
+Aglomerado subnormal
+ARE
+Área de Revitalização Econômica (ARE)
+Área metropolitana
+Região metropolitana
+Área urbana
+Zona urbana
+Perímetro urbano
+Regularização fundiária rural
+Reurbanização
+Solo urbano
+Urbanização
+Energia elétrica
+Esgoto sanitário
+Iluminação pública
+Resíduo sólido
+Auto de infração
+Infração de trânsito
+Infração trabalhista
+Inspeção do trabalho
+Multa
+Avenida
+Complexo viário
+Bicicletário
+Bicicleta
+Paraciclo
+Boca de lobo
+Bueiro
+Água pluvial
+Canal de drenagem
+Cabine de cobrança
+Pedágio
+Calçada
+Calçada ecológica
+Meio-fio
+Tráfego de pedestre
+Cancela de acesso
+Cancela para controle de acesso
+Sinalização de trânsito
+Capacidade excedente
+Infraestrutura compartilhada
+Produção econômica
+Carona solidária
+Aplicativo Uber
+Transporte individual
+Veículo de passageiro
+Centro histórico
+Cidade global
+Cidade litorânea
+Metrópole
+Megacidade
+Pichação
+Política urbana
+Litoral
+Coleta seletiva
+Recolha seletiva
+Lixo
+Posto de coleta
+Reciclagem
+Malha rodoviária
+Alameda
+Balão de retorno
+Beco
+Ladeira
+Passarela
+Ponte
+Praça
+Rua
+Travessa
+Túnel
+Viaduto
+Viela
+Obra de arte (engenharia civil)
+Parque
+Condomínio comercial
+Condomínio edilício
+Condomínio residencial
+Condomínio vertical
+Condômino
+Despesa condominial
+Fundo de reserva
+Síndico
+Taxa condominial
+Condução de veículo
+Condução defensiva
+Condução perigosa
+Condução sob efeito de álcool
+Condução sob efeito de substância psicoativa
+Simulador de direção veicular
+Direção defensiva
+Condução imprudente
+Condução temerária
+Direção perigosa
+Disputa automobilística ilegal
+Direção sob efeito de álcool
+Motorista alcoolizado
+Motorista embriagado
+Direção sob efeito de substância psicoativa
+Motorista drogado
+Construtora
+Material de construção
+Rocha de revestimento
+Rocha ornamental
+Tipologia construtiva
+Empresa
+Crash test
+Delito de trânsito
+Dados geoespaciais
+Dados
+Depósito de veículos
+Sucata
+Veículo irrecuperável
+Veículo terrestre
+Desenvolvimento econômico
+Desenvolvimento urbano
+Plano diretor
+Direito real de laje
+Direito real
+Dispositivo de proteção para pernas e motor
+Motocicleta
+Motofrete
+Motoneta
+Mototáxi
+Dispositivo de rastreamento
+Sistema de Posicionamento Global (GPS)
+Veículo
+Dispositivo para transporte de carga
+Distrito
+Divisão territorial
+Prédio
+Edifício escolar
+Edifício privado
+Edifício público
+Edifício particular
+Prédio público
+EIV
+Estudo prévio de impacto de vizinhança
+Engenharia civil
+Engenharia
+Hidrologia
+Obra de construção civil
+Obra de construção pesada
+Terraplenagem
+Equipamento sanitário
+Saneamento básico
+Estudo técnico
+Etilômetro
+Exame de alcoolemia
+Teste de alcoolemia
+Exame de sangue
+Concentração de substância psicoativa por litro de sangue
+Faixa de domínio
+Faixa de trânsito
+Pista de rolamento
+Faixa de pedestre
+Faixa de travessia de pedestre
+Guia de calçada
+Guia de calçada rebaixada
+Meio-fio rebaixado
+Moradia
+Unidade habitacional
+Programa habitacional
+Residência
+Habitação popular
+Iluminação intermitente
+Luz intermitente
+Faixa de segurança
+Infraestrutura
+Infraestrutura aeronáutica
+Infraestrutura aeroportuária
+Infraestrutura ferroviária
+Infraestrutura portuária
+Infraestrutura rodoviária
+Infraestrutura tecnológica
+Infraestrutura urbana
+Apoio logístico
+Infraestrutura convergente
+Alça de ligação
+Rodovia
+Segurança rodoviária
+Setor rodoviário
+Transporte rodoviário
+Trevo rodoviário
+Inundação
+Transbordamento
+Desastre ambiental
+Limitador de velocidade
+Lombada eletrônica
+Radar eletrônico
+Segurança no trânsito
+Velocidade
+Redutor Eletrônico de Velocidade (REV)
+REV
+Luz de rotação
+Luz vermelha intermitente
+Ambulância
+Operação policial
+Segurança pública
+Sirene automotiva
+Veículo de segurança pública
+Megalópole
+Motorista
+Motorista bêbado
+Motorista recém-habilitado
+Norma de trânsito
+Obra civil particular
+Obra particular
+Obra de construção civil particular
+Área rural
+Pesquisa Nacional por Amostra de Domicílios (PNAD)
+PNAD
+Crime contra o ordenamento urbano e o patrimônio cultural
+Planejamento urbano
+Urbanismo
+Administração municipal
+Poluição sonora
+Poluição
+Poste de iluminação pública
+Programa de habitação
+Aluguel social
+Política social
+Equipamento eletrônico
+Radar fixo
+Radar móvel
+Região administrativa
+Organização administrativa
+Reparação do solo
+Solo
+Saneamento
+Saneamento ambiental
+Saúde pública
+Vigilância sanitária
+Segurança nos transportes
+Segurança aérea
+Segurança marítima
+Segurança metroviária
+Transporte de passageiro
+Seguro DPVAT
+Seguro Obrigatório de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres (Seguro DPVAT)
+Seguro habitacional
+Seguro
+Semáforo
+Sinal luminoso de trânsito
+Sinalização
+Fiscalização eletrônica de trânsito
+Multa de trânsito
+Trânsito
+Alarme sonoro
+Solo rural
+Propriedade (direito civil)
+Sustentabilidade urbana
+Desenvolvimento sustentável
+Teste de bafômetro
+Capacidade psicomotora
+Serviço móvel de perícia
+Teste de colisão
+Segurança veicular
+ânsito
+Bloqueio viário
+Educação para o trânsito
+Posto de fiscalização de trânsito
+Tráfego
+Via terrestre
+Transporte de emergência
+Transporte
+Socorro de emergência
+Unidade móvel de saúde
+Usucapião
+Posse (direito civil)
+Veículo de coleção
+Veículo não motorizado
+Veículo de propulsão humana
+Veículo de tração animal
+Velocidade máxima
+Velocidade mínima
+Velocímetro
+Sistema viário
+Via terrestre rural
+Via terrestre urbana
+Regularização fundiária de interesse específico
+Regularização fundiária de interesse social

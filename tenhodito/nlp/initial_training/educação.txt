@@ -1,0 +1,930 @@
+Abandono escolar
+Evasão escolar
+Administração escolar
+Gestão escolar
+Agremiação estudantil
+Grêmio estudantil
+Agrimensão
+Agrimensura
+Agronomia
+Engenharia agronômica
+Ciências agrárias
+Fitossanitarismo
+Alfabetismo
+Alfabetização
+Analfabetismo
+Alfabetização básica
+Alfabetização funcional
+Alfabetização plena
+Alfabetização rudimentar
+Alimentação escolar
+Merenda escolar
+Alimentação
+Assistência estudantil
+Aluno
+Educando
+Aluno bolsista
+Aluno carente
+Aluno com deficiência
+Aluno egresso
+Aluno especial
+Aluno estrangeiro
+Aluno irregular
+Aluno regular
+Aprendizagem
+Avaliação do ensino
+Boletim escolar
+Carteira de Identificação Estudantil (CIE)
+Corpo discente
+Custo Aluno Qualidade Inicial (CAQi)
+Diplomado
+Documento acadêmico
+Escola
+Estudante
+Exercício domiciliar
+Frequência escolar
+Grupo de estudo
+Histórico escolar
+Material escolar
+Meia-entrada
+Orientação educacional
+Orientação vocacional
+Professor
+Progressão regular por série
+Recuperação da aprendizagem
+Recuperação escolar
+Rendimento escolar
+Trabalho escolar
+Bolsista
+Bolsa de estudo
+Estudante carente
+Atendimento educacional especializado
+Escola inclusiva
+Deficiência
+Pessoa com deficiência
+Pessoa com necessidade educacional especial
+Estudante egresso
+Ex-aluno
+Aluno não regular
+Estudante estrangeiro
+Ambiente escolar
+Edifício escolar
+Ambiente virtual de aprendizado
+Ambiente virtual de aprendizagem
+Espaço virtual de aprendizagem
+Educação a distância
+Universidade virtual
+Analfabetismo funcional
+Analfabetismo tecnológico
+Analfabeto
+Iletrismo
+Analfabetização funcional
+Analfabeto funcional
+Pessoa vulnerável
+
+Ano letivo
+Calendário escolar
+Antropologia
+Ciências humanas
+Estudos culturais
+Anuidade escolar
+Matrícula escolar
+Autoaprendizagem
+Atividade educativa
+Atividade extraclasse
+Aula
+Didática
+Educação
+Educador
+Ensino
+Estudo
+Intercâmbio educacional
+Pedagogia
+Prova objetiva
+Prova oral
+Prova prática
+Prova subjetiva
+Aproveitamento de estudos
+Currículo escolar
+Aproveitamento escolar
+Arqueologia
+Arquitetura e Urbanismo
+Ciências sociais aplicadas
+Complexo arquitetônico
+Decoração
+Desenho técnico
+Edifício
+Forte (arquitetura)
+Projeto técnico (Construção civil)
+Artes
+Ciência
+Artes cênicas
+Artes visuais e plásticas
+Arte pública
+Artesanato
+Atividade artística
+Atividade cultural
+Bens culturais
+Cores
+Obra de arte
+Patrimônio artístico
+Assédio ideológico
+Crime
+Ideologia política
+Proselitismo político
+Assistência ao educando
+Assistência ao estudante
+Assistência educacional
+Atendimento pedagógico
+Transporte escolar
+Assistência psicopedagógica
+Orientação psicológica
+Astronomia
+Ciências exatas e da terra
+Planetário
+Educação especial
+Estimulação precoce
+Atividade pedagógica
+Atestado de escolaridade
+Certidão de escolaridade
+Atividade extraescolar
+Trabalho extraclasse
+Dever de casa
+Ensino extraescolar
+Atividade extracurricular
+Proposta pedagógica
+Atraso escolar
+Aula de reforço
+Aula magna
+Aula particular
+Aula prática
+Aula teórica
+Vídeo-aula
+Hora-aula
+Plano de aula
+Sala de aula
+Ensino prático
+Autonomia universitária
+Universidade
+Auxílio-aluno
+Avaliação da aprendizagem
+Avaliação educacional
+Exame (ensino)
+Prova (ensino)
+Exame de proficiência
+Exame de seleção
+Bacharel
+Bacharelado
+Graduação
+Banca examinadora
+Concurso público
+Educação superior
+Banco de professor-equivalente
+Professor-equivalente
+Base Nacional Comum Curricular (BNCC)
+Base Nacional Comum do Currículo
+BNCC (Base Nacional Comum Curricular)
+Berçário
+Creche
+Biblioteca digital
+Biblioteca
+Preservação digital
+Biblioteca escolar
+Livro didático
+Biblioteca pública
+Biblioteca universitária
+Biblioteconomia
+Ciência da informação
+Biblioterapia
+Biofísica
+Ciências biológicas
+Biologia
+Bioquímica
+Biotecnologia
+Ciência multidisciplinar
+Conhecimento tradicional
+Caderneta escolar
+Bolsa aprendizagem
+Bolsa estágio
+Bolsa de ensino
+Bolsa de estímulo à inovação
+Bolsa de pesquisa
+Auxílio-educação
+Bolsa de estudo integral
+Bolsa de estudo parcial
+Bolsa de iniciação à docência
+Educação e formação profissional
+Bolsa de extensão universitária
+Bolsa de permanência
+Bolsa de qualificação profissional
+Seguro-desemprego
+Botânica
+Biodiversidade
+Braile
+Sistema Braille
+Braille
+Calendário
+Dia letivo
+Período letivo
+Semestre letivo
+Férias escolares
+Recesso escolar
+Campanha de informação
+Campanha educativa
+Sensibilização do público
+Campanha de saúde
+Informação
+Campus universitário
+Carga horária
+Crédito acadêmico
+Carteira de estudante
+CIE
+Casa Familiar Rural (CFR)
+CFR
+Centro Familiar de Formação por Alternância (CEEFA)
+CEEFA
+Censo escolar
+Dados estatísticos
+Escola Comunitária Rural (Ecor)
+Escola Família Agrícola (EFA)
+Educação do campo
+Escola privada
+Instituição de ensino comunitária
+Centro universitário
+Instituição de Ensino Superior (IES)
+Comprovante de escolaridade
+Declaração de escolaridade
+Certificado de conclusão de curso
+Diploma de conclusão de curso
+Certificado de qualificação para o trabalho
+Educação técnica
+Ciência da computação
+Arquitetura da informação
+Ciência e tecnologia de alimentos
+Engenharia de alimentos
+Ciência interdisciplinar
+Ciências ambientais
+Ciências dos materiais
+Ciência Política
+Estudos políticos
+Política
+Engenharia agrícola
+Engenharia de pesca
+Engenharia florestal
+Medicina veterinária
+Zootecnia
+Reforma agrária
+Ciências oceânicas
+Farmacologia
+Fisiologia
+Genética
+Imunologia
+Microbiologia
+Morfologia (ciências biológicas)
+Parasitologia
+Ciências da saúde
+Ciências radiológicas
+Educação física
+Enfermagem
+Farmácia (ciências da saúde)
+Fisioterapia
+Medicina
+Nutrição
+Odontologia
+Saúde coletiva
+Terapia ocupacional
+Ciências econômicas
+Economia
+Física (ciência)
+Geociências
+Matemática
+Probabilidade e Estatística
+Química (ciência)
+Filosofia
+Geografia
+História (ciência)
+Psicologia
+Sociologia
+Teologia
+Administração (ciência)
+Comunicação (ciência)
+Demografia (ciência)
+Desenho industrial
+Direito (ciência)
+Museologia
+Serviço Social
+Turismo (ciência)
+Estudos sociais
+Feminismo
+Código Braille
+Colação de grau
+Cerimônia
+Colegial
+Curso colegial
+Colégio
+Colégio militar
+Educação militar
+Escola militar
+Comunicação social
+Identidade visual
+Concurso vestibular
+Exame vestibular
+Congresso internacional
+Congresso
+Conferência internacional
+Conteúdo curricular
+Conteúdo programático
+Conteúdo educativo
+Programa educativo
+Programa de curso
+Programa do curso
+Curso (educação)
+Grade curricular
+Matéria (educação)
+Corpo docente
+Pessoal docente
+Magistério
+Profissional da educação
+Educação presencial
+Currículo mínimo
+Currículo pleno
+Cursinho pré-vestibular
+Curso pré-vestibular
+Educação de grau médio
+Curso de especialização
+Especialização
+Pós-graduação
+Curso de Extensão
+Extensão universitária
+Curso de formação
+Curso de formação inicial
+Curso de formação militar
+Curso prático
+Curso teórico
+Curso ginasial
+Ginasial
+Pré-vestibular
+Curso profissionalizante
+Curso técnico
+Educação profissional e tecnológica
+Curso secundário
+Ensino secundário
+Curso sequencial
+Curso superior de formação específica
+Curso superior
+Curso supletivo
+Educação de jovens e adultos
+Ensino teórico
+Ciência da população
+Índice de Desenvolvimento Humano (IDH)
+Dependência escolar
+Desempenho escolar
+Design
+Design gráfico
+Ilustração
+Leiaute
+Plotagem
+Desenvolvimento infantil
+Desenvolvimento psíquico
+Educação infantil
+Desenvolvimento integral
+Dever para casa
+Lição de casa
+Dicionário
+Diploma revalidado
+Ensino fundamental
+Ensino médio
+Direito à educação
+Direitos sociais
+Acesso à educação
+Direito à vida
+Princípio da gratuidade do ensino público
+Disciplina complementar
+Disciplina (educação)
+Disciplina obrigatória
+Disciplina optativa
+Ética e cidadania (educação)
+Tema transversal
+Disciplina em sala de aula
+Disciplina escolar
+Disciplina na escola
+Indisciplina escolar
+Declaração (documento administrativo)
+Doutorado
+Doutrinação ideológica
+Proselitismo
+Doutrinação política
+Ecologia
+Manejo ecológico
+Recursos naturais
+Economia (ciência)
+Economia agrícola
+Economia circular
+Economia clássica
+Economia criativa
+Economia da informação
+Economia de mercado
+Economia do cuidado
+Economia do trabalho
+Economia familiar
+Economia individual
+Economia internacional
+Economia keynesiana
+Economia marxiana
+Economia neoclássica
+Economia solidária
+Economia verde
+Macroeconomia
+Microeconomia
+Atividade econômica
+Investimento
+Setor produtivo
+Ecor
+Equipamento escolar
+Infraestrutura escolar
+Educação alimentar e nutricional
+Educação digital
+Educação em tempo integral
+Educação emocional
+Educação escolar
+Educação para o trânsito
+Educação sexual
+Educação tributária
+Educação agrícola
+Educação ambiental
+Educação artística
+Educação em saúde
+Educação esportiva
+Educação financeira
+Educação inclusiva
+Educação indígena
+Educação moral e cívica
+Educação moral e ética
+Educação pecuária
+Educação política
+Educação privada
+Educação pública
+Educação quilombola
+Evento educativo
+Gestão educacional
+Grau de escolaridade
+Instituição de ensino pública
+Ordem social
+Política educacional
+Psicologia educacional
+Radiodifusão educativa
+Recursos didáticos
+Rede de ensino
+Televisão educativa
+Ensino a distância
+Educação semipresencial
+Tutoria de ensino
+Ensino agrícola
+Reeducação alimentar
+Ensino de artes
+Ensino-educação
+Educação básica
+Ensino básico
+Índice de Desenvolvimento da Educação Básica (Ideb)
+Inspeção escolar
+Residência pedagógica
+Educação carcerária
+Educação prisional
+Educação (Ciência)
+Educação das emoções
+Exame de admissão
+Ensino supletivo
+Supletivo
+Exame supletivo
+Ensino regular
+Movimento Brasileiro de Alfabetização (Mobral)
+Educação de primeiro grau
+Ensino de primeiro grau
+Educação de trânsito
+Educação de 1º grau
+Plataforma digital
+Educação rural
+Escola rural
+Pedagogia de alternância
+Educação domiciliar
+Educação em casa
+Educação familiar
+Educação no lar
+Ensino domiciliar
+Educação em prisões
+Inteligência emocional
+Ensino especial
+Pessoa superdotada
+Orientação financeira
+Educação fiscal
+Esporte
+Esporte de formação
+Exame biométrico
+Serviço de apoio escolar
+Escola indígena
+Ensino infantil
+Pré-escola
+Educação pré-primária
+Idade pré-escolar
+Ensino militar
+Colégio naval
+Ensino profissional marítimo
+Escola naval
+Educação na cadeia
+Educação na prisão
+Educação no presídio
+Educação no sistema prisional
+Educação no trânsito
+Segurança no trânsito
+Trânsito
+Educação particular
+Educação pré-escolar
+Ensino presencial
+Rede particular de ensino
+Educação tecnológica
+Ensino tecnológico
+Educação tecnológica de graduação
+Educação tecnológica de pós-graduação
+Ensino profissionalizante
+Escola politécnica
+Pesquisa tecnológica
+Educação profissional técnica
+Educação profissional técnica de nível médio
+Educação profissional tecnológica de graduação
+Educação profissional tecnológica de pós-graduação
+Ensino público
+Rede pública de ensino
+Escola quilombola
+Educação religiosa
+Ensino religioso
+Ensino semipresencial
+Sexualidade
+Ensino superior
+Terceiro grau (escolaridade)
+Empresa júnior
+Faculdade
+Hospital universitário
+Instituição científica, tecnológica e de inovação (ICT)
+Instituto Federal de Ensino (IFE)
+Magistério superior
+Pesquisa científica
+Reforma do ensino superior
+Trote estudantil
+Vagas iniciais
+Ensino normal
+Ensino técnico
+Ensino técnico de grau médio
+Educador assistente
+Monitor de ensino
+EFA
+Encargo educacional
+Mensalidade escolar
+Assistência à saúde
+Assistência de enfermagem
+Enfermaria
+Engenharia aeroespacial
+Engenharia
+Engenharia biomédica
+Engenharia Cartográfica
+Cartografia
+Engenharia civil
+Hidrologia
+Obra de construção civil
+Obra de construção pesada
+Terraplenagem
+Engenharia de Agrimensura
+Engenharia de campo
+Engenharia de Cartografia
+Engenharia de materiais e metalúrgica
+Engenharia de minas
+Recursos pesqueiros
+Engenharia de produção
+Protótipo
+Engenharia de produção mecânica
+Engenharia mecânica
+Engenharia de tráfego
+Engenharia de transportes
+Engenharia elétrica
+Equipamento elétrico
+Microeletrônica
+Recursos florestais
+Engenharia genética
+Célula-tronco
+Transgênico
+Engenharia geológica
+Máquina
+Engenharia naval e oceânica
+Engenharia nuclear
+Engenharia química
+Engenharia sanitária
+Ensino diurno
+Ensino gratuito
+Ensino integral
+Ensino noturno
+Ensino obrigatório
+Ensino vocacional
+Ensino de 1º grau
+Primeiro grau (escolaridade)
+Ensino de segundo grau
+Ensino de 2º grau
+Segundo grau (escolaridade)
+Ensino em tempo integral
+Ensino pré-primário
+Ensino primário
+Idade escolar
+Secundário
+Equipamento didático
+Equipamento
+Equivalência de curso
+Estabelecimento de ensino
+Estabelecimento escolar
+Unidade de ensino
+Unidade escolar
+Estabelecimento educacional
+Instituição de ensino
+Escola pública
+Escola técnica e profissionalizante
+Escola classe
+Escola parque
+Escola agrotécnica federal
+Escola comunitária
+Escola confessional
+Instituição de ensino confessional
+Escola distrital
+Escola do campo
+Escola estadual
+Escola federal
+Escola filantrópica
+Instituição de ensino filantrópica
+Acessibilidade
+Escola municipal
+Escola particular
+Instituição de ensino particular
+Escola profissional
+Escola técnica
+Escola técnica e profissional
+Escola técnica federal
+Escolaridade
+Especialista da educação
+Especialista em educação
+Esporte educacional
+Desporto educacional
+Esporte estudantil
+Esporte universitário
+Estágio curricular supervisionado
+Estágio (educação)
+Estágio não obrigatório
+Estágio não remunerado
+Estágio obrigatório
+Estágio remunerado
+Estagiário
+Jovem aprendiz
+Trabalhador estudante
+Estudo dirigido
+Evento artístico
+Espetáculo
+Evento científico
+Evento
+Evento cultural
+Evento esportivo
+Evento desportivo
+Teste de proficiência
+Exame de suficiência
+Exame escolar
+Vestibular
+Regime de exercício domiciliar
+Gestante
+Fármaco
+Férias
+Colônia de férias
+Acelerador de partículas
+Assistência paramédica
+Osteopatia
+Formação acadêmica
+Frequência digital escolar
+Material reprodutivo
+Recursos genéticos
+Geologia
+Geofísica
+Sistema federal de ensino
+Regimento escolar
+Saúde na escola
+Segurança na escola
+Licenciatura curta
+Licenciatura plena
+Grau de escolarização
+Grau de formação
+Grau de instrução
+Nível de escolaridade
+Nível de escolarização
+Nível de formação
+Nível de instrução
+Contrato de aprendizagem
+Profissional licenciado
+Movimento estudantil
+História do Brasil
+História universal
+Biografia
+Vulto histórico
+Hora aula
+Hospital de ensino
+Hospital escola
+Hospital
+ICT
+Faixa etária
+Idade
+Ideb
+IDH
+IES
+IFE
+Indisciplina em sala de aula
+Indisciplina na escola
+Instituição científica
+Instituição científica e tecnológica [ICT]
+Instituição de pesquisa científica e tecnológica
+Núcleo de inovação tecnológica [NIT]
+Instituição de ensino superior pública
+Pesquisa acadêmica
+Instituição de Educação Superior (IES)
+Instituição educacional
+Instituição educativa
+Instituição de ensino estrangeira
+Instituição de ensino privada
+Instituição federal de ensino
+Instituição de ensino superior privada
+Instituição privada de ensino superior
+Instituição pública de ensino superior
+Universidade pública
+Instituição não universitária
+Instrutor de ensino
+Inteligência
+Inteligências múltiplas
+Intercâmbio estudantil
+Isolamento social
+Convivência social
+Jardim de Infância
+Letras (ciência)
+Língua estrangeira
+Idioma oficial
+Ortografia
+Vocabulário
+Levantamento bibliográfico
+Pesquisa bibliográfica
+LIBRAS
+Língua Brasileira de Sinais (LIBRAS)
+Deficiência auditiva
+Pessoa com deficiência auditiva
+País estrangeiro
+Língua materna
+Grupo indígena
+Índio
+Linguagem de sinais
+Livro
+Livro digital
+Acervo bibliográfico
+Autor (publicação)
+Documentação
+Edição
+Ficha catalográfica
+Impressão
+Informação bibliográfica
+Publicação
+Magistério distrital
+Magistério estadual
+Magistério federal
+Magistério municipal
+Matemática aplicada
+Raciocínio lógico
+Matéria escolar
+Material didático
+Material educativo
+Semestralidade escolar
+Transferência escolar
+Vaga na escola
+Estabelecimento veterinário
+Meia entrada
+Passe estudantil
+Mestrado
+Mestrado acadêmico
+Mestrado profissional
+Meteorologia aplicada
+Meteorologia
+Informação meteorológica
+Método Braille
+Mobral
+Mostra cultural
+Mostra (evento)
+Museu
+Obra rara
+Oceanografia
+Recursos marinhos
+Orientação profissional
+Teste de orientação profissional
+Passagem do transporte coletivo
+Inovação tecnológica
+Experimento científico
+Pesquisa agrícola
+Pesquisa astronômica
+Pesquisa pecuária
+Ética em pesquisa
+Pesquisa biomédica
+Pesquisa socioeconômica
+Pesquisa Nacional por Amostra de Domicílios (PNAD)
+PNAD
+Desenvolvimento tecnológico
+Pessoa com altas habilidades
+Deficiente
+Pessoa com necessidades especiais
+Pessoa deficiente
+Pessoa portadora de deficiência
+Pessoa portadora de necessidades especiais
+PNE (Portador de necessidade especial)
+Portador de deficiência
+Portador de necessidade especial
+Portador de necessidades especiais
+Pessoa
+Mudo
+Pessoa com deficiência física
+Pessoa com deficiência intelectual
+Pessoa com deficiência severa
+Pessoa com deficiência visual
+Pessoa com transtorno do espectro autista
+Acompanhante de pessoa com deficiência
+Auxílio-inclusão
+Barreira
+Cadeira de rodas
+Direito à assistência social
+Direito à mobilidade
+Direito à moradia
+Direito à saúde
+Direito ao esporte
+Direito ao lazer
+Direito ao trabalho
+Direito ao transporte
+Direito ao turismo
+Direitos culturais
+Direitos das minorias
+Pessoa com mobilidade reduzida
+Pessoa em situação de dependência
+Símbolo internacional de acesso
+Tomada de decisão apoiada
+Veículo adaptado
+Voz sintetizada
+PNIEDI
+Programa Nacional de Incentivo ao Exercício da Docência em Municípios do Interior do País (PNIEDI)
+Pós-doutorado
+Pós-graduação lato sensu
+Pós-graduação stricto sensu
+Fator de ponderação
+Indicador econômico
+Indicador social
+Tutor de ensino
+Profissional de educação
+Profissional de ensino
+Profissional do ensino
+Progressão continuada de ensino
+Atividade político-partidária
+Proselitismo religioso
+Religião
+Prova escolar
+Petroquímica
+Radioatividade
+Recesso
+Repetência escolar
+Reforma universitária
+Registro de diploma
+Residência médica
+Residência em saúde
+Educação médica
+Saúde escolar
+Segurança escolar
+Cego
+Identificação tátil
+Sistema de ensino distrital
+Sistema de ensino estadual
+Sistema de ensino federal
+Sistema de ensino municipal
+Sociedade cooperativa educacional
+Cooperativa educacional
+Telecentro
+Tecnologia da informação e comunicação (TIC)
+Teleconferência
+Telecomunicação
+Atividade terapêutica
+Transporte
+Monitor de transporte escolar
+Transporte de criança
+Trote universitário
+Tutoria educacional
+Uniforme escolar
+Uniforme (vestuário)
+Universidade estrangeira
+Universidade estadual
+Universidade federal
+Universidade municipal
+Vídeo
+Zoologia
+Ovinocaprinocultura
+Produção animal
+Prova zootécnica
+Rebanho

@@ -1,0 +1,1734 @@
+Abandono de emprego
+Abandono de serviço
+Demissão por justa causa
+Desídia
+Falta grave
+Notificação
+Abono
+Remuneração
+Salário
+Abono anual
+Abono de férias
+Abono salarial
+Gratificação natalina
+Abono de emergência
+Adicional por serviço de urgência ou emergência
+Abono de falta
+Atestado médico
+Desconto salarial
+Falta justificada
+Abono pecuniário
+Acordo coletivo do trabalho
+Férias
+Abono de Natal
+Abono de permanência em serviço
+Benefício previdenciário
+Empregado
+Servidor público
+Vantagem pecuniária
+Abono especial
+Aborto
+Crime contra a vida
+Aborto espontâneo
+Aborto legal
+Aborto provocado
+Aborto terapêutico
+Gravidez
+Licença à gestante
+Licença remunerada
+Nascimento
+Ação acidentária
+Acidente do trabalho
+Ação de reclamação
+Reclamação trabalhista
+Ação trabalhista
+Acidente de trabalho
+Acidente in itinere
+Ação previdenciária
+Equipamento de proteção individual
+Fator Acidentário de Prevenção (FAP)
+Indenização por morte
+Indenização trabalhista
+Prevenção de acidente do trabalho
+Previdência social
+Reabilitação profissional
+Seguro contra acidente do trabalho
+Acidente do trabalho de percurso
+Acidente do trabalho de trajeto
+Acordo trabalhista
+Contrato coletivo do trabalho
+Convenção coletiva do trabalho
+Data-base salarial
+Férias coletivas
+Acordo escrito
+Acordo expresso
+Acordo extrajudicial
+Acordo individual de trabalho
+Acordo tácito
+Acordo verbal
+Conflito trabalhista
+Acréscimo de salário
+Acréscimo salarial
+Adicional de atividade penosa
+Adicional de insalubridade
+Adicional de periculosidade
+Adicional por hora extra
+Adicional por tempo de serviço
+Hora de trabalho noturno
+Adicional de antiguidade
+Adicional pelo exercício de atividade penosa
+Adicional (vantagem pecuniária)
+Atividade penosa
+Adicional de férias
+Abono constitucional
+Terço constitucional
+Adicional pelo exercício de atividade insalubre
+Atividade insalubre
+Insalubridade
+Adicional de risco de morte
+Adicional de risco de vida
+Adicional pelo exercício de atividade perigosa
+Atividade perigosa
+Periculosidade
+Adicional de produtividade
+Adicional de sobreaviso
+Regime de sobreaviso
+Adicional de titulação
+Adicional de transferência
+Trabalhador
+Adicional de tempo de serviço
+Anuênio
+Quinquênio
+Tempo de serviço
+Adicional regional
+Adicional regional de confinamento
+Adicional regional temporário
+Administração sindical
+Conselho fiscal
+Estatuto social
+Sindicato
+Admissão de pessoal
+Admissão no emprego
+Contratação de empregado
+Agência de emprego
+Ambientação funcional
+Bônus de contratação
+Carteira de Trabalho e Previdência Social (CTPS)
+Curriculum vitae
+Demissão
+Exame de gravidez
+Exame médico admissional
+Experiência profissional
+Limite de idade
+Readmissão no emprego
+Recusa de entrega da CTPS
+Registro do empregado
+Adoção (direito civil)
+Adoção internacional
+Adoção monoparental
+Adoção multiparental
+Adoção múltipla
+Adoção tardia
+Adotante
+Apadrinhamento afetivo
+Família hospedeira
+Licença à adotante
+Processo de adoção
+Proteção à maternidade
+Guardião de menor
+Advertência
+Pena de advertência
+Penalidade disciplinar ao servidor público
+Advertência escrita
+Advertência verbal
+Afastamento ao trabalhador celetista
+Afastamento do serviço
+Cargo eletivo
+Licença ao trabalhador celetista
+Licença para exercício de mandato sindical
+Licença para serviço militar
+Afastamento do serviço com ônus
+Afastamento do serviço sem ônus
+Afastamento ao servidor
+Afastamento para participação em evento
+Agência
+Empresa
+Agência bancária
+Agência de crédito
+Agência de fomento
+Agência de turismo
+Agência de viagem
+Agência de viagem receptiva
+Estabelecimento comercial
+Filial
+Matriz (empresa)
+Sucursal
+Agência de colocação
+Recrutamento e seleção de pessoal
+Agente público
+Agente civil da administração pública
+Agente da administração pública
+Agente público civil
+Agente administrativo
+Agente credenciado
+Agente delegado
+Agente honorífico
+Agente político
+Ação administrativa
+Cargo em comissão
+Cargo público
+Conflito de interesses
+Direito de greve
+Função pública
+Funcionário público
+Militar
+Agentes nocivos
+Poluente
+Saúde do trabalhador
+Agressão
+Agressão injusta
+Agressor
+Ato lesivo à honra e boa fama
+Legítima defesa
+Lesão corporal
+Rixa
+Agressão física
+Violência física
+Agressão moral
+Violência moral
+Ajuda de custo
+Indenização (vantagem pecuniária)
+Diária
+Viagem a trabalho
+Alcoólatra
+Alcoolista
+Ébrio habitual
+Etilista
+Alcoolismo
+Embriaguez habitual
+Aleitamento materno
+Amamentação
+Aliciamento do trabalhador
+Emigração
+Alimentação do trabalhador
+Medicina do trabalho
+Refeitório
+Tutela do trabalho
+Lactação
+Banco de leite humano
+Lactante
+Lactente
+Leite
+Ambiente de trabalho
+Condições de trabalho
+Trabalho a céu aberto
+Vestiário
+Anuidade social
+Contribuição social
+Aperfeiçoamento de pessoal
+Educação e formação profissional
+Aposentado
+Inativo
+Servidor público inativo
+Adicional de inatividade
+Aposentadoria
+Pensionista
+Provento (remuneração)
+Servidor público civil
+Aposentadoria automática
+Aposentadoria compulsória
+Aposentadoria definitiva
+Aposentadoria dupla
+Aposentadoria especial
+Aposentadoria facultativa
+Aposentadoria parlamentar
+Aposentadoria por idade
+Aposentadoria por invalidez
+Aposentadoria por tempo de contribuição
+Aposentadoria por tempo de serviço
+Aposentadoria previdenciária
+Aposentadoria proporcional
+Aposentadoria provisória
+Aposentadoria voluntária
+Auxílio-acidente
+Auxílio-doença
+Instituto de Aposentadorias e Pensões
+Invalidez
+Invalidez permanente
+Pecúlio
+Tempo de contribuição
+Vacância
+Aposentadoria acidentária
+Contribuição dupla
+Aposentadoria espontânea
+Idade
+Aposentadoria por invalidez permanente
+Auxílio-invalidez
+Indenização por invalidez
+Aposentadoria voluntária por idade
+Aprendiz
+Jovem aprendiz
+Aprendizagem (direito do trabalho)
+Certificado de qualificação profissional
+Contrato de aprendizagem
+Programa de aprendizagem
+Trabalho do jovem aprendiz
+Aptidão física
+Capacidade física
+Capacidade de exercício
+Capacidade jurídica
+Capacidade laborativa
+Aptidão mental
+Aptidão psicológica
+Capacidade mental
+Ascensão profissional
+Carreira profissional
+Promoção por antiguidade
+Assédio moral
+Incontinência de conduta
+Assédio sexual
+Crime contra a dignidade sexual
+Atentado violento ao pudor
+Importunação ofensiva ao pudor
+Assembleia-geral
+Greve
+Trabalhador em greve
+Assentamento funcional
+Assentamento individual
+Registro funcional
+Informação funcional
+Assistência aos filhos e dependentes
+Assistência dentária
+Assistência odontológica
+Assistência farmacêutica
+Contribuição sindical
+Assistência hospitalar
+Assistência jurídica
+Assistência judiciária
+Assistência jurídica gratuita
+Assistência jurídica voluntária
+Assistência médica
+Assistência à saúde
+Assistência médico-hospitalar
+Assistência médico-odontológica
+Despesa médica
+Associação de classe
+Associação de classe profissional
+Associação profissional
+Categoria profissional
+Entidade de classe
+Órgão de classe profissional
+Associação profissional de grau superior
+Associação sindical de grau superior
+Associação profissional de primeiro grau
+Associação sindical
+Confederação sindical
+Federação sindical
+Associação sindical de primeiro grau
+Laudo médico
+Licença para tratamento da saúde
+Atividade cívica
+Serviços eleitorais
+Trabalho social
+Atividade de esforço repetitivo
+Doença ocupacional
+Atividade fim
+Atividade remunerada
+Terceirização
+Serviço insalubre
+Trabalho insalubre
+Grau de insalubridade
+Incapacidade trabalhista relativa
+Limite de tolerância
+Manuseio de material insalubre
+Segurança do trabalho
+Trabalho eventual
+Trabalho intermitente
+Atividade meio
+Atividade não remunerada
+Trabalho perigoso
+Manuseio de material perigoso
+Atividade portuária
+Estiva
+Trabalho portuário
+Autoridade portuária
+Serviços portuários
+Atividade profissional
+Atividade artística
+Atividade privativa
+Regulamentação profissional
+Atividade rural
+Trabalho rural
+Atividade sindical
+Atividade urbana
+Trabalho urbano
+Atividades essenciais
+Serviços essenciais
+Ato atentatório à segurança nacional
+Ato bilateral
+Ato unilateral
+Contrato de trabalho
+Contrato individual do trabalho
+Ato faltoso
+Falta disciplinar grave
+Ato faltoso do empregador
+Ato lesivo de direitos
+Trabalhador sindicalizado
+Ato Trabalhista
+Regime Centralizado de Execução (Ato Trabalhista)
+Atualização profissional
+Reciclagem profissional
+Aumento de salário
+Aumento salarial
+Reajuste salarial
+Ausência injustificada
+Falta injustificada
+Automação de processo
+Processo de trabalho
+Autonomia sindical
+Direito à livre associação sindical
+Auxílio escolar
+Auxílio-educação
+Auxílio-alimentação
+Auxílio-refeição
+Tíquete alimentação
+Tíquete refeição
+Auxílio-creche
+Creche
+Auxílio-desemprego
+Seguro-desemprego
+Auxílio-enfermidade
+Auxílio-pecuniário
+Auxílio-doença de dependente menor
+Auxílio-escola
+Bolsa de estudo
+Bolsa de pesquisa
+Educação
+Auxílio-funeral
+Benefício eventual
+Morte por acidente
+Avaliação de desempenho
+Assiduidade
+Capacidade de iniciativa
+Desempenho profissional
+Disciplina
+Ensino técnico
+Estabilidade no serviço público
+Estágio probatório
+Produtividade
+Produtividade profissional
+Progressão funcional
+Responsabilidade
+Aviso prévio
+Aviso prévio indenizado
+Aviso prévio proporcional
+Obrigação trabalhista
+Banco de horas
+Compensação de horas de trabalho
+Banco de talentos
+Benefício assistencial
+Benefício social
+Benefício assistêncial à pessoa com deficiência
+Benefício assistencial ao idoso
+Benefício de Prestação Continuada (BPC)
+Aluguel social
+Assistência social
+Auxílio especial
+Auxílio-cuidador
+Auxílio-inclusão
+Beneficiário
+Parâmetro para concessão de benefício
+Pensão
+Renda básica da cidadania
+Seguridade social
+Benefício trabalhista
+Décimo terceiro salário
+Vale-alimentação
+Vale-refeição
+Vale-transporte
+Luvas (Direito do trabalho)
+Atleta profissional
+Cadastro funcional
+Caderneta profissional
+Caderneta-matrícula
+CAEPI
+Certificado de Aprovação de Equipamento de Proteção Individual (CAEPI)
+Caixa de Aposentadoria e Pensões
+Cálculo trabalhista
+Campanha salarial
+Plano de cargos, carreiras e salários
+Candidato
+Candidato a cargo eletivo
+Candidato a cargo público
+Candidato à vaga de emprego
+Pré-candidato
+Candidata
+Emprego
+Capacidade de fato
+Capacidade de trabalho
+Capacidade plena
+Capacidade técnica
+Capacidade trabalhista
+Certificado de conclusão de curso
+Incapacidade absoluta
+Capacitação profissional
+Capacitação técnico-profissional
+Capital social
+Bens de capital
+Capitalização de lucro
+Capitalização de reserva
+Patrimônio líquido
+Carga horária
+Crédito acadêmico
+Hora-aula
+Cargo de chefia
+Cargo (direito do trabalho)
+Cargo de controle
+Chefe
+Cargo de confiança (direito do trabalho)
+Cargo de direção
+Cargo de gestão
+Cargo de diretoria
+Diretor
+Diretoria
+Cargo de gerência
+Gerente
+Cargo de representação profissional
+Carta de reconhecimento sindical
+Função (direito do trabalho)
+Cargo efetivo
+Cargo privativo
+Desvio de função
+Cargo de provimento efetivo
+Função comissionada
+Alistamento eleitoral
+Dirigente sindical
+Mandato eletivo
+Mandato sindical
+Cargo comissionado
+Cargo de confiança
+Cargo de livre nomeação
+Cargo de provimento em comissão
+Cargo de Direção e Assessoramento Superior (DAS)
+Cargo de Direção e Assistência Intermediária
+Cargo em comissão de natureza especial (CNE)
+Empregado público
+Emprego público
+Substituição de função
+Quadro de pessoal
+Carta de reconhecimento
+Carta sindical
+Cartão de ponto
+Registro de ponto
+Carteira de identidade profissional
+Carteira de identificação
+Carteira funcional
+Documento de identificação civil
+Identificação profissional
+Carteiro de Emprego e Previdência Social
+CTPS
+Identificação funcional
+Recusa de anotação na CTPS
+Classe de trabalhadores
+Classe profissional
+Categoria profissional diferenciada
+Enquadramento sindical
+Profissão liberal
+Quadro de Atividades e Profissões
+CCFGTS
+Conselho Curador do Fundo de Garantia por Tempo de Serviço (CCFGTS)
+Celetista
+Trabalhador celetista
+Central sindical
+Certidão Negativa de Débitos Trabalhistas (CNDT)
+CNDT
+Débito trabalhista
+Certidão Positiva de Débitos Trabalhistas
+Documento acadêmico
+Certidão de escolaridade
+Diploma de conclusão de curso
+Grau de escolaridade
+CES
+Comissão do Enquadramento Sindical (CES)
+Cessação coletiva de trabalho
+Chapa eleitoral
+Chapa conjunta
+Chapa da coligação partidária
+Chapa única
+Eleição sindical
+Sistema eleitoral majoritário
+CIPA
+Comissão Interna de Prevenção de Acidentes (CIPA)
+CODEFAT
+Conselho Deliberativo do Fundo de Amparo ao Trabalhador (CODEFAT)
+Código de ética
+Ética profissional
+Profissão
+Segredo profissional
+Sigilo profissional
+Colete à prova de balas
+Colete balístico
+Bala de arma
+Proteção balística
+Colete multiameaça
+Comissão de conciliação prévia
+Justiça do Trabalho
+Processo trabalhista
+Comissão de greve
+Comissão de Salário Mínimo
+
+Comissão Quadripartite para a Valorização do Salário Mínimo (2005)
+Salário mínimo
+Comissão do Imposto Sindical
+Comissão mista de consulta e colaboração
+Gestão empresarial
+Participação nos lucros
+Comissão salarial
+Compensação de faltas ao trabalho
+Compensação de horário de trabalho
+Compensação de jornada
+Jornada de trabalho
+Compensação pecuniária
+Conciliação judicial
+Conciliação trabalhista judicial
+Conciliação trabalhista
+Audiência de conciliação
+Conciliação prévia
+Conciliação trabalhista extrajudicial
+Núcleo Intersindical de Conciliação Trabalhista
+Eficácia liberatória geral
+Concordata
+Extinção da empresa
+Falência
+Condenação criminal transitada em julgado
+Condição degradante de trabalho
+Trabalho degradante
+Trabalho escravo
+Trabalho forçado
+Conforto térmico
+Critério da dupla visita
+Ergonomia
+Flexibilização do trabalho
+Higiene do trabalho
+Iluminação
+Instalação predial
+Instrumento de trabalho
+Local de trabalho
+Ruído
+Ventilação
+Contribuição confederativa
+Fundo de Garantia do Tempo de Serviço (FGTS)
+Fundo de Amparo ao Trabalhador (FAT)
+Conselheiro
+Constituição
+Norma jurídica
+Constituição analítica
+Constituição biomédica
+Constituição cesarista
+Constituição como estatuto do poder
+Constituição como garantia de status econômico e social
+Constituição como instrumento de realização da atividade estatal
+Constituição como meio de resolução de conflitos
+Constituição como ordem material e aberta da comunidade
+Constituição como processo público
+Constituição compromissória
+Constituição culturalista
+Constituição democrática
+Constituição dirigente
+Constituição eclética
+Constituição em branco
+Constituição empresarial
+Constituição escrita
+Constituição Estadual
+Constituição estruturalista
+Constituição Federal
+Constituição fixa
+Constituição flexível
+Constituição formal
+Constituição histórica
+Constituição imutável
+Constituição institucionalista
+Constituição instrumental
+Constituição jurídica
+Constituição jusnaturalista
+Constituição marxista
+Constituição material
+Constituição não escrita
+Constituição nominal
+Constituição normativa
+Constituição oral
+Constituição ortodoxa
+Constituição outorgada
+Constituição pactuada
+Constituição plástica
+Constituição política
+Constituição positivista
+Constituição pouco rígida
+Constituição reguladora do sistema político
+Constituição rígida
+Constituição semântica
+Constituição semirrígida
+Constituição sintética
+Constituição sociológica
+Constituição suave
+Constituição subconstitucional
+Constituição superrígida
+Constituição transitoriamente flexível
+Constituição unitária
+Constituição variada
+Ação Declaratória de Constitucionalidade
+Ação Direta de Inconstitucionalidade
+Ação Direta de Inconstitucionalidade por Omissão
+Aplicabilidade constitucional
+Assembleia Nacional Constituinte
+Bloco de constitucionalidade
+Constitucionalismo
+Constituinte
+Direito constitucional
+Dispositivo constitucional
+Eficácia constitucional
+Eficácia normativa
+Eficácia social
+Emenda constitucional
+Heteroconstituição
+Hierarquia constitucional
+Lei orgânica
+Permissão constitucional
+Texto constitucional
+Validade constitucional
+Vocatio constitutionis
+Conta bancária vinculada
+Conta vinculada do FGTS
+Conta Empresa
+Conta individualizada
+Conta Especial Emprego e Salário
+Conta inativa do FGTS
+Trabalhador optante pelo FGTS
+Trabalhador não optante pelo FGTS
+Conta vinculada do PASEP
+Conta vinculada do PIS
+Contracheque
+Holerite
+Ficha financeira
+Contraprestação do serviço
+Contrato de primeiro emprego
+Contrato de empreitada
+Empreitada
+Subempreitada
+Contrato de experiência
+Período de experiência
+Contrato de parceria
+Contrato
+Contrato de safra
+Contrato por safra
+Contrato de trabalho agrícola
+Trabalhador rural
+Contrato de trabalho de técnico estrangeiro
+Contrato de trabalho temporário
+Contrato por prazo determinado
+Contrato por prazo indeterminado
+Nulidade do contrato de trabalho
+Rescisão do contrato
+Rescisão por acordo
+Responsabilidade trabalhista
+Sucessão trabalhista
+Trabalho permanente
+Verba rescisória
+Contrato de trabalho por obra certa
+Contrato de trabalho provisório
+Trabalho temporário
+Contrato temporário
+Contribuição assistencial
+Contribuição associativa
+Filiação sindical
+Contribuição compulsória
+Contribuição previdenciária
+Contribuição máxima
+Contribuição mínima
+Contribuição patronal
+Contribuição sindical patronal
+Contribuição previdenciária patronal
+Período de graça
+Imposto sindical
+Contribuição sindical rural
+Fundo de greve
+Fundo Social Sindical
+Contribuição sindical laboral
+Mensalidade social
+Concurso de prognóstico
+Fundo de compensação do salário-família
+Controle de frequência do trabalhador
+Cooperativa
+Sociedade cooperativa
+Cooperativa de consumo
+Sociedade cooperativa de consumo
+Cooperativa de crédito
+Banco cooperativo
+Intervenção extrajudicial
+Liquidação extrajudicial
+Regime de administração especial temporária
+Regime especial de resolução das instituições financeiras (RER)
+Correção salarial
+Reajuste compensatório
+Crachá
+Instituição de ensino
+Berçário
+Educação infantil
+Idade pré-escolar
+Pré-escola
+Trabalho da mulher
+Crédito trabalhista
+Crime contra a organização do trabalho
+Crime
+Aliciamento de trabalhadores de um local para outro do território nacional
+Aliciamento para o fim de emigração
+Jornada exaustiva de trabalho
+Redução à condição análoga a de escravo
+Retenção dolosa do salário
+Retenção salarial
+Sabotagem no trabalho
+Servidão por dívida
+Trabalho infantil
+Curricula vitae
+CV (Curriculum vitae)
+Curso de formação inicial
+Curso de formação
+Dano causado pelo empregado
+Débito
+Dedicação exclusiva
+Dedicação integral
+Deficiência física
+Deficiência motora
+Deficiência
+Defeito físico
+Direitos do deficiente
+Pessoa com deficiência física
+Deficiência mental
+Deficiência intelectual
+Deficiente
+Pessoa com deficiência
+Delegacia sindical
+Delegacia especializada
+Delegado sindical
+Representação sindical
+Despedida
+Dispensa do trabalho
+Pena de demissão
+Demissão indireta
+Demissão obstativa da estabilidade
+Demissão por culpa recíproca
+Demissão por força maior
+Demissão sem justa causa
+Demissão voluntária
+Demissão voluntária incentivada
+Abandono de cargo
+Acumulação ilegal de cargos
+Exame médico demissional
+Despedida indireta
+Rescisão indireta
+Demissão involuntária
+Despedida obstativa da estabilidade
+Estabilidade decenal
+Despedida por força maior
+Dispensa por justa causa
+Justa causa
+Embriaguez em serviço
+Indisciplina
+Insubordinação
+Negociação habitual
+Prática constante de jogo de azar
+Despedida arbitrária
+Despedida injusta
+Despedida sem justa causa
+Dispensa arbitrária
+Dispensa sem justa causa
+Dependente
+Dependente econômico
+Companheira
+Companheiro
+Cônjuge
+Dependente designado
+Enteado
+Filho adotivo
+Filhos
+Irmãos
+Pais
+Ascendente
+Descendente
+Responsável legal
+Salário-família
+Depósito prévio
+Ação rescisória
+Depósito judicial
+Recurso administrativo
+Depósito recursal
+Depósito
+Descanso dominical
+Repouso dominical
+Descanso remunerado
+Repouso remunerado
+Descanso semanal
+Repouso semanal
+Desconto no salário
+Quebra de caixa
+Desempregado
+Trabalhador desempregado
+Desemprego
+Problema social
+Desemprego involuntário
+Preguiça
+Desobediência
+Dia de trabalho
+Viagem em missão oficial
+Diarista
+Trabalhador diarista
+Diferença salarial
+Equiparação salarial
+Diploma revalidado
+Equivalência de curso
+Profissional licenciado
+Registro de diploma
+Direito à sindicalização
+Direito de sindicalização
+Liberdade sindical
+Liberdade de associação
+Pluralidade sindical
+Direito à profissionalização
+Direito ao livre exercício profissional
+Livre exercício profissional
+Direitos coletivos
+Direito ao trabalho
+Greve nos serviços essenciais
+Direito do trabalho
+Direito trabalhista
+Direitos trabalhistas
+Direito privado interno
+Direito processual do trabalho
+Prescrição trintenária
+Reforma trabalhista
+Discriminação
+Discriminação de gênero
+Discriminação no trabalho
+Discriminação política
+Discriminação racial
+Discriminação religiosa
+Discriminação sexual
+Classe social
+Crime de intolerância
+Crime de ódio
+Preconceito
+Discriminação trabalhista
+Dissídio coletivo
+Dissídio trabalhista
+Dissídio individual
+Negociação coletiva de trabalho
+Doença do trabalho
+Doença profissional
+Moléstia profissional
+Doença
+Dona de casa
+Dona do lar
+Trabalho doméstico
+Duração diária do trabalho
+Duração do trabalho
+Duração normal do trabalho
+Educação profissional
+Formação profissional
+Habilitação profissional
+Profissionalização
+Qualificação profissional
+Requalificação profissional
+Treinamento de pessoal
+Treinamento profissional
+Treinamento multiprofissional
+Centro de capacitação profissional
+Ensino profissional
+Escola técnica e profissionalizante
+Estagiário
+Estágio profissional
+Formação de mão de obra
+Licença para capacitação
+Programa de capacitação profissional
+Perda de mandato sindical
+Migração
+Emigrante
+Empregado em domicílio
+Empregado substituto
+Empregador
+Ex-empregado
+Serviço efetivo
+Sucessão empresarial
+Empregado celetista
+Empregado de prontidão
+Trabalhador de prontidão
+Empregado de sobreaviso
+Trabalhador de sobreaviso
+Empregado diarista
+Empregado doméstico
+Trabalhador doméstico
+Empregado estudante
+Trabalhador estudante
+Empregado extranumerário
+Trabalhador extranumerário
+Empregado mensalista
+Trabalhador mensalista
+Empregado não optante (pelo FGTS)
+Empregado optante (pelo FGTS)
+Investido em emprego público
+Cargo isolado
+Carreira pública
+Classe (carreira pública)
+Concurso público
+Contrato de trabalho por prazo determinado
+Crime funcional
+Lotação
+Provimento de cargo público
+Quadro (carreira pública)
+Empregado rural
+Empregado sindicalizado
+Empregado terceirizado
+Trabalhador terceirizado
+Tomador de serviço
+Empregador doméstico
+Empregador rural
+Exploração do invento
+Poder de comando
+Poder de fiscalização
+Poder disciplinar
+Trabalhador autônomo
+Agronegócio
+Subemprego
+Empreitada coletiva
+Empreitada individual
+Empreiteiro
+Empresa binacional
+Empresa coletiva
+Empresa comercial
+Empresa de comunicação
+Empresa de grande porte
+Empresa de transporte
+Empresa estatal
+Empresa estrangeira
+Empresa individual
+Empresa individual de responsabilidade limitada
+Empresa industrial
+Empresa jornalística
+Empresa multinacional
+Empresa nacional
+Empresa operadora
+Empresa privada
+Empresa transnacional
+Média empresa
+Microempresa
+Pequena empresa
+Competitividade empresarial
+Construtora
+Custo operacional
+Desinvestimento
+Empresa sindicalizada
+Estrutura organizacional
+Fundo de comércio
+Grupo econômico
+Identidade visual
+Incubadora de empresas
+Parceiro comercial
+Parceria comercial
+Personalidade jurídica
+Pesquisa de mercado
+Pessoa jurídica
+Processo organizacional
+Qualificação econômico-financeira
+Razão social
+Responsabilidade social
+Seguradora
+Sociedade empresária
+Empresa cooperativa
+Encargo social
+Obrigação social
+Obrigações sociais
+Encargo
+Responsabilidade solidária
+Responsabilidade subsidiaria
+Encargo trabalhista
+Educação técnica
+Entidade patronal
+Sindicato dos empregadores
+Entidade sindical
+Entidade sindical de profissionais liberais
+Sindicato dos profissionais liberais
+Entidade sindical representativa
+EPI
+Equipamento de segurança
+Recurso de proteção individual
+Equipamento
+Luvas de proteção
+Máscara de proteção
+Óculos de proteção
+Roupa especial de proteção
+Uniforme profissional
+Equivalência salarial
+Igualdade de remuneração
+Igualdade salarial
+Isonomia salarial
+Paridade de vencimentos
+Princípio da isonomia salarial
+Inspeção do trabalho
+Riscos do trabalho
+Escala de revezamento de trabalho
+Escala de serviço
+Turno de revezamento
+Regime de plantão
+Escola técnica e profissional
+Estabilidade absoluta
+Estabilidade definitiva
+Estabilidade da gestante
+Estabilidade provisória
+Estabilidade de emprego
+Estabilidade no emprego
+Trabalhador estável
+Estabilidade do dirigente sindical
+Estabilidade sindical
+Estabilidade do membro da CIPA
+Estágio (educação)
+Estudante
+Estágio profissionalizante
+Aluno
+Corpo discente
+Exercício domiciliar
+Grupo de estudo
+Conduta profissional
+Exame de saúde
+Exame médico
+Colonoscopia
+Ecocardiograma
+Exame de imagem
+Exame físico
+Exame laboratorial
+Exame otorrinolaringológico
+Exame pré-operatório
+Exame psiquiátrico
+Necrópsia
+Teste da Orelhinha
+Teste de Glicemia Capilar
+Teste do coração
+Teste do Olhinho
+Teste do Pezinho
+Teste do Quadril
+Teste Tuberculínico
+Ultrassonografia
+Avaliação cardiológica
+Consulta médica
+Exame médico complementar
+Seguro doença
+Execução trabalhista
+Execução (direito civil)
+Prescrição intercorrente
+Exercício de atividade profissional
+Exercício profissional
+Exercício de profissão
+Exercício ilegal da profissão
+Exercício ilegal de profissão de saúde de nível superior
+Expediente de trabalho
+Invenção
+Extinção de estabelecimento
+Extinção de estabelecimento empresarial
+Falência (administração)
+Falência administrativa
+Falência (direito)
+Falência (direito comercial)
+Crédito extraconcursal
+Juízo de falência
+Liquidante
+Massa falida
+Plano de recuperação judicial
+Recuperação extrajudicial
+Recuperação judicial
+Falta ao emprego
+Falta ao trabalho
+Falta ao serviço
+Não comparecimento ao trabalho
+Falta disciplinar
+Falta
+Falta legal
+Justificação de falta
+FAT
+Fechamento de empresa
+Fechamento de estabelecimento empresarial
+Férias anuais
+Férias escolares
+Férias proporcionais
+Férias vencidas
+Férias não remuneradas
+Gozo de férias
+Período aquisitivo
+Período concessivo de férias
+Ferramenta
+FGTS
+Ficha de ponto
+Folha de ponto
+Sindicalização
+Fiscalização do trabalho
+Fiscalização educativa
+Multa administrativa trabalhista
+Flexibilização no direito do trabalho
+Trabalho a distância
+Folga dominical
+Folga remunerada
+Folga semanal
+Folha de pagamento
+Fonte pagadora
+Frigorífico
+Fundo de Garantia por Tempo de Serviço
+Gestação
+Gestante
+Grávida
+Controle Individual de Parto (CIP)
+Parto
+Parturiente
+Boas práticas
+Inteligência de negócios
+Planejamento estratégico
+Regime especial de gestão
+Gorjeta
+Taxa de serviço
+Gratificação
+Guelta
+Gratificação de Natal
+Gratificação (vantagem pecuniária)
+Escolaridade
+Grau de escolarização
+Grau de formação
+Grau de instrução
+Nível de escolaridade
+Nível de escolarização
+Nível de formação
+Nível de instrução
+Formação acadêmica
+Prenhez
+Cordão umbilical
+Embrião
+Feto
+Gravidez de risco
+Gravidez de substituição
+Idade gestacional
+Placenta
+Pré-natal
+Paralisação do trabalho
+Grevista
+Grupo de acompanhamento
+Grupo para acompanhamento
+Grupo de trabalho
+Leia mais: http://jus.com.br/artigos/32059/a-caracterizacao-de-grupo-economico-na-esfera-trabalhista-e-suas-implicacoes#ixzz3YcFEYfvP
+Higiene do local de trabalho
+Higiene no local de trabalho
+Higiene ocupacional
+Honorários
+Honorários advocatícios
+Honorários médicos
+Honorários periciais
+Horário noturno
+Trabalho noturno
+Hora excedente
+Hora extra
+Hora extraordinária
+Hora suplementar
+Horário extraordinário
+Jornada extraordinária
+Serviço extraordinário
+Horas in itinere
+Adicional por serviço extraordinário
+Trabalho externo
+Trabalho extraordinário
+Turno suplementar
+Hora para repouso ou refeição
+Intervalo para repouso ou refeição
+Horário de entrada
+Horário de saída
+Horário de trabalho
+Horas intinere
+Transporte do trabalhador
+Carteira de Identidade Militar das Forças Armadas
+Iluminação pública
+Imperícia
+Erro médico
+Negligência
+Improbidade profissional
+Imprudência
+Incapacidade laborativa
+Incapacidade permanente
+Incapacidade temporária
+Incapacidade parcial
+Incapacidade total
+INCRA
+Instituto Nacional de Colonização e Reforma Agrária (INCRA)
+Indenização adicional na dispensa sem justa causa
+Indenização por demissão sem justa causa
+Indenização por tempo de serviço
+Serviços alheios ao contrato de trabalho
+Infração trabalhista
+Auto de infração
+Inquirição
+Rol de testemunhas
+Parecer técnico
+Instalação elétrica
+Condutor de energia elétrica
+Instalação hidráulica
+Instalação sanitária
+Instituição sindical
+Instituto Nacional de Tecnologia (INT)
+INT
+Utensílio doméstico
+Intervalo de descanso
+Intervalo intrajornada
+Período de descanso
+Período para repouso
+Inventor
+Investidura
+Posse
+Irredutibilidade de salário
+Irredutibilidade do salário
+Irredutibilidade salarial
+Isonomia
+Princípio da isonomia
+Jornada de trabalho móvel e variável
+Regime de dedicação exclusiva
+Regime de dedicação integral
+Regime de tempo integral
+Regime de tempo parcial
+Regime de trabalho
+Regime especial de trabalho
+Remuneração proporcional
+Trabalho ininterrupto
+Turno de trabalho
+Jornada de trabalho especial
+Jornada de trabalho flexível
+Jornada de trabalho móvel
+Jornada de trabalho variável
+Menor aprendiz
+Jovem
+Primeiro emprego
+Jurisdição trabalhista
+Jurisdição
+Parecer médico
+Perícia médica
+Laudo técnico de avaliação
+Responsabilidade técnica
+Excludente de ilicitude
+Licença ao servidor
+Licença maternidade
+Licença-gestante
+Licença-maternidade
+Licença do parlamentar
+Parto antecipado
+Salário-maternidade
+Licença à guardiã judicial
+Licença gala
+Licença nojo
+Licença para alistamento eleitoral
+Licença para doação de sangue
+Licença sem remuneração
+Licença-paternidade
+Licença por motivo de casamento
+Licença médica
+Licença não remunerada
+Licença por motivo de falecimento do cônjuge ou familiares
+Licença por motivo de morte do cônjuge ou familiares
+Licença para exercício de atividade político-partidária
+Licença para o serviço militar
+Licença para tratamento de saúde
+Licença paternidade
+Licença por doença especificada em lei
+Limitação de idade
+Limitação etária
+Limite etário
+Princípio da igualdade
+Limpeza do local de trabalho
+Livre exercício da profissão
+Livre-iniciativa
+Profissional liberal
+Locação de serviço
+Prestação de serviços
+Local
+Fábrica
+Mandato
+Mandato parlamentar
+Atividade parlamentar
+Ato revogatório popular
+Atuação parlamentar
+Diploma eleitoral
+Soberania popular
+Material radioativo
+Matéria trabalhista
+Matéria
+Mediação de conflitos
+Mediação extrajudicial
+Mediação judicial
+Autocomposição (direito civil)
+Justiça restaurativa
+Especialidade médica
+Prevenção da fadiga
+Menor
+Menor de idade
+Ministro do Tribunal Superior do Trabalho
+Ministro do TST
+Magistrado
+Morte
+Falecimento
+Motivo de força maior
+Caso de força maior
+Multa
+Retenção de CTPS
+Negociação coletiva trabalhista
+Normas de proteção ao trabalho
+Notificação eletrônica
+Notificação pessoal
+Notificação por edital
+Notificação por jornal oficial
+Notificação postal
+Nulidade parcial do contrato de trabalho
+Núpcias
+Obrigação previdenciária
+Ocupante de cargo
+Ofensa física
+Ofensa moral
+Organização sindical
+Conselho de classe profissional
+Corporação profissional
+Autarquia
+Entidade paraestatal
+Registro profissional
+Representação profissional
+Pagamento de comissão
+Trabalho por comissão
+Pagamento em dinheiro
+Pagamento
+Dinheiro
+Pagamento mensal
+Mensalidade
+Pagamento por dia trabalhado
+Pagamento por unidade de tempo
+Pagamento quinzenal
+Pagamento semanal
+Pagamento suplementar
+Parecer
+Parecer jurídico
+Parecer administrativo
+Parecer (proposição legislativa)
+Participação popular
+Participação dos trabalhadores nos lucros e resultados das empresas
+Passagem para viagem
+Passagem aérea
+Penalidade disciplinar ao parlamentar
+Medida disciplinar
+Censura ao parlamentar
+Perda de mandato parlamentar
+Suspensão de prerrogativas regimentais
+Suspensão temporária do exercício do mandato
+Ato atentatório ao decoro parlamentar
+Ato incompatível com o decoro parlamentar
+Parlamentar
+Processo disciplinar (processo legislativo)
+Perda de mandato eletivo
+Cassação de mandato eletivo
+Perícia
+Avaliação biopsicossocial
+Licença-prêmio
+Período noturno de trabalho
+Pessoa com necessidades especiais
+Pessoa deficiente
+Pessoa portadora de deficiência
+Pessoa portadora de necessidades especiais
+Piso Nacional de Salários
+Piso salarial
+Piso salarial profissional
+Salário profissional
+Teto salarial
+Plano de cargos
+Plano de carreira
+Plano de carreiras e cargos
+Plano de trabalho
+Poder diretivo
+Poder administrativo
+Portador de deficiência
+Portador de necessidade especial
+Portador de necessidades especiais
+Posse em cargo eletivo
+Reassunção
+Termo de posse
+Precarização do trabalho
+Mercado de trabalho
+Processo administrativo
+Processo judicial
+Presença de pessoal
+Presidência do sindicato
+Prestador de serviço
+Previdência complementar
+Previdência privada
+Previdência suplementar
+Previdência aberta
+Previdência fechada
+Regime de Previdência Complementar
+Convênio de adesão
+Processo administrativo sancionador
+Taxa de administração
+Tributação progressiva
+Tributação regressiva
+Instituição previdenciária
+Regime Geral de Previdência Social (RGPS)
+Regime Próprio de Previdência Social (RPPS)
+Direito previdenciário
+Fundo previdenciário
+Período de carência
+Princípio da unicidade sindical
+Unicidade sindical
+Princípio constitucional
+Princípio da liberdade de associação
+Mão de obra
+Processo do trabalho
+Processo mecânico
+Automação industrial
+Prazo processual
+Profissão autônoma
+Trabalho autônomo
+Profissão regulamentada
+Profissional autônomo
+Promoção
+Critério de antiguidade
+Proprietário rural
+Proprietário
+Empreendedorismo rural
+Proteção ao trabalho
+Proteção pessoal
+Segurança pessoal
+Proteção pessoal especial
+Riscos (segurança)
+Segurança privada
+Segurança pública
+Quadro funcional
+Radiação solar
+Radiação ultravioleta
+Energia solar
+Reajustamento salarial coletivo
+Reajuste do salário
+Reajuste salarial anual
+Índice de reajuste
+Recibo de pagamento
+Reclamatória trabalhista
+Reclamado
+Reclamante
+Seleção de pessoal
+Requisição de pessoal
+Recurso de revista
+Recurso trabalhista
+Trabalho análogo ao escravo
+Crime contra a liberdade pessoal
+Estabelecimento de alimentação
+Refeição
+Reforma da legislação trabalhista
+Reforma do trabalho
+Reforma sindical
+Legislação trabalhista
+Regime de prontidão
+Tempo parcial
+Relógio de ponto
+Regulamentação de profissão
+Relação de emprego
+Vínculo empregatício
+Relação de trabalho
+Relator
+Relator setorial
+Relator substituto
+Relator-geral
+Relator-parcial
+Relatoria
+Relatório (processo legislativo)
+Voto do relator
+Retribuição pecuniária
+Remuneração direta
+Remuneração indireta
+Remuneração variável
+Vencimentos
+Consignação em folha de pagamento
+Rendimento
+Reposição ao erário
+Retribuição no exterior
+Soldo
+Subsídio (remuneração)
+Trabalho remunerado
+Verba de representação
+Remuneração flexível
+Rendimento bruto
+Rendimento líquido
+Rendimento tributável
+Base de cálculo
+Repouso semanal remunerado
+Representação do sindicato
+Representante sindical
+Requisição de empregado
+Rescisão contratual
+Rescisão de contrato
+Rescisão amigável
+Rescisão de pleno direito
+Rescisão judicial
+Rescisão unilateral
+Contrato administrativo
+Atividade técnica
+Representante legal
+Revogação parcial
+Revogação
+Revogação total
+Salário base
+Salário de contribuição
+Salário hora
+Salário in natura
+Salário nominal
+Salário real
+Conta salário
+Salário contratual
+Salário utilidade
+Salário médio real
+Salário mínimo de referência
+Salário mínimo profissional
+Salário mínimo regional
+Salário mínimo-hora
+Garantia de salário mínimo
+Nexo Técnico Epidemiológico Previdenciário (NTEP)
+Saúde ocupacional
+Secretaria da Procuradoria da Previdência Social
+Segurança no trabalho
+Dispositivo de segurança
+Engenharia de segurança do trabalho
+Seguro de acidente de trabalho
+Seguro coletivo
+Seguro
+Bolsa de qualificação profissional
+Sentença parcial
+Sentença judicial
+Serviço intermitente
+Serviço terceirizado
+Serviços de terceiros
+Serviços públicos
+Serviço voluntário
+Trabalho voluntário
+Voluntário
+Serviços continuados
+Serviços contínuos
+Serviços de execução continuada
+Serviços de natureza continuada
+Serviços
+Convocação para o serviço eleitoral
+Justiça eleitoral
+Sigilo
+Sindicato de classe
+Sindicato dos empregados
+Sindicato dos trabalhadores autônomos
+Instituição democrática
+Movimento sindical
+Sociedade cooperativa de trabalho
+Suspensão disciplinar
+Teletrabalho
+Certidão de tempo de serviço
+Progressão horizontal
+Prestação de garantia
+Terceirizado
+Trabalhador avulso
+Trabalhador extrativista
+Trabalhador temporário
+Trabalhador urbano
+Direitos do trabalhador
+Tratamento degradante
+Tratamento desumano
+Trabalhador a distância
+Trabalhador assalariado
+Trabalhador autônomo informal
+Trabalho informal
+Trabalho avulso
+Trabalhador em domicílio
+Trabalho em domicílio
+Trabalhador filiado ao sindicato
+Direitos do trabalhador rural
+Direitos do trabalhador urbano
+Trabalho
+Atividade laboral
+Atividade laborativa
+Trabalho desportivo
+Trabalho diurno
+Trabalho físico
+Trabalho intelectual
+Trabalho juvenil
+Trabalho não remunerado
+Trabalho ao relento
+Home office
+Trabalho remoto
+Trabalho assalariado
+Trabalho braçal
+Trabalho compulsório
+Trabalho contínuo
+Trabalho feminino
+Trabalho de natureza não econômica
+Atleta
+Esporte
+Trabalho ocasional
+Trabalho obrigatório
+Trabalho provisório
+Transporte
+Tripulação
+Aeronave
+Intercâmbio de aeronave
+TST
+Tribunal Superior do Trabalho (TST)
+Uniforme de trabalho
+Vestuário de trabalho
+Uniforme (vestuário)
+Lavagem de roupa
+Viagem a serviço
+Viagem de serviço
+Viagem
+Vista dos autos
+Autos
+Pedido de vista
+Comportamento humano
+Contribuição negocial
+Design
+Desenho industrial
+Encargo financeiro
+Encargo locatício
+Encargo setorial
+EPC
+Equipamento de proteção coletiva
+Equipamento de segurança coletiva
+Saída de emergência
+Sinalização
+Exame de suficiência
+Exame de proficiência
+Força-tarefa
+Geração de emprego
+Incentivo funcional
+Mão de obra especializada
+Egresso
+Política de emprego
+Processo produtivo
+Pesquisa Nacional por Amostra de Domicílios (PNAD)
+PNAD
+Pesquisa socioeconômica
+Pesquisa científica
+Política salarial
+Programa social
+Política trabalhista
+Administração pública
+Devido processo legal
+Igualdade na lei
+Igualdade perante a lei
+Salão-parceiro
+Salão de beleza
+Sociedade simples
+Confederação de cooperativas de crédito
+Cooperativa agrícola
+Cooperativa de eletrificação
+Cooperativa de pesca
+Cooperativa de transporte
+Cooperativa industrial
+Cooperativa mista
+Cooperativa pecuária
+Cooperado
+Sociedade de capital variável

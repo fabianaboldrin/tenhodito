@@ -1,6 +1,8 @@
 from django.core.management.base import BaseCommand
 from pygov_br.django_apps.camara_deputados.models import Speech
 from plagiarism import stopwords, tokenizers
+from gensim import corpora, models, similarities
+from gensim.models.ldamodel import LdaModel
 import textblob
 
 
@@ -14,9 +16,18 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         sentences = self.read_sentences()
-        for sentence in sentences:
-            print(sentence)
-        print(len(sentences))
+        print('sentences')
+        dictionary = corpora.Dictionary(sentences)
+        dictionary.save('cache.dic')
+        print('dict')
+        corpus = [dictionary.doc2bow(text) for text in sentences]
+        corpora.MmCorpus.serialize('cache.mm', corpus)
+        print('corpus')
+        lda = LdaModel(corpus, num_topics=15)
+        lda.save('lda')
+        import ipdb; ipdb.set_trace()
+        print('lda')
+
 
     def read_sentences(self):
         speeches = Speech.objects.all().values_list(

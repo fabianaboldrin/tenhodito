@@ -1,0 +1,740 @@
+Abalo sísmico
+Terremoto
+Açude
+Construção hidráulica
+Lago
+AEIS
+Zona especial de interesse social (ZEIS)
+Agente poluidor
+Poluente
+Agrofloresta
+Sistema agroflorestal (SAF)
+Água lixiviado
+Chorume
+Água lixiviante
+Água percolada
+Alagamento
+Desastre ambiental
+Chuva
+Ambientalismo
+Movimento ambientalista
+Movimento ecológico
+Movimento social
+Animal
+Animal de grande porte
+Animal domesticado
+Animal doméstico
+Animal exótico
+Animal feroz
+Animal marinho
+Animal morto
+Animal onívoro
+Animal selvagem
+Animal silvestre
+Animal transgênico
+Animal vivo
+Invertebrado
+Vertebrado
+Abate de animal
+Abigeato
+Alimentação animal
+Caça
+Carne de caça
+Controle de natalidade animal
+Equoterapia
+Espécie animal
+Fauna
+Higiene animal
+Jardim zoológico
+Produto de uso veterinário
+Ração animal
+Receita veterinária
+Rinha
+Sanidade agropecuária
+Semovente
+Silagem
+Terapia Assistida por Animais (TAA)
+Tosa animal
+Tração animal
+Vegetal
+Zoonose
+Animal de estimação
+Animal bravio
+Animal nativo
+APA
+Área de Proteção Ambiental (APA)
+APP (Área de preservação permanente)
+Área de preservação permanente (APP)
+Aquário
+Água
+Área de especial interesse social (AEIS)
+Unidade de conservação de uso sustentável
+Proteção ambiental
+Sítio espeleológico
+Área de Relevante Interesse Ecológico (ARIE)
+ARIE
+Área de risco
+Área insalubre
+Árvore
+Plantas
+Floresta
+Floresta plantada
+Madeira
+Árvore eólica
+Turbina eólica
+Aterro
+Aterro sanitário
+Lixo
+Autorização de uso sustentável
+Autorização de uso
+Biodiversidade
+Ciências biológicas
+Botânica
+Ecologia
+Oceanografia
+Zoologia
+Conhecimento tradicional
+Criadouro
+Ecossistema
+Etnobiologia
+Biogás
+Biocombustível
+Bioma
+Vegetação
+Caça profissional
+Calçada ecológica
+Calçada
+Carbono florestal
+Estoque de carbono
+Sequestro de carbono
+Catástrofe natural
+Seguro rural
+Certificação
+Certificação ambiental
+Certificação de boas práticas
+Certificação digital
+Selo de certificação
+Selo verde
+Líquido lixiviado
+Líquido lixiviante
+Líquido percolado
+Necrochorume
+Resíduo orgânico
+Água pluvial
+Enchente
+Erosão
+Tempestade
+Ciclone
+Furacão
+Tufão
+Clima
+Climatologia
+Informação meteorológica
+Meteorologia
+Mudança climática
+Satélite meteorológico
+Tempo (meteorologia)
+Combate à seca
+Seca
+Compactador de lixo
+Veículo coletor de lixo
+Compensação ambiental
+Compensação ecológica
+Licenciamento ambiental
+Dano ambiental
+Impacto ambiental
+Conspurcação
+Crime contra o ordenamento urbano e o patrimônio cultural
+Consumo de água
+Consumo hídrico
+Cobrança individual
+Conta de água
+Desperdício de água
+Hidrômetro
+Consumo sustentável
+Economia circular
+Economia verde
+Produção sustentável
+Controle de praga
+Controle biológico
+Inseticida
+Inseto
+Convivência com a seca
+Convivência com o semi-árido
+Convivência com o semiárido
+Cooperativa de reciclagem
+Reciclagem
+Corredor de biodiversidade
+Corredor ecológico
+Crime ambiental
+Crime contra o meio ambiente
+Crime
+Crime contra a administração ambiental
+Crime contra a fauna
+Crime contra a flora
+Poluição
+Meio ambiente
+Preservação ambiental
+Tráfico de animais silvestres
+Pichação
+Garimpagem
+Risco ambiental
+Dejeto
+Resíduo
+Desassoreamento
+Dragagem
+Desastre natural
+Desastre
+Inundação
+Maremoto
+Ressaca (meio ambiente)
+Tornado
+Tsunami
+Família desabrigada
+Desenvolvimento sustentável
+Obsolescência programada
+Qualidade de vida
+Sustentabilidade ambiental
+Sustentabilidade urbana
+Desmatamento
+Desmatamento ilegal
+Desmatamento manual
+Desmatamento mecânico
+Reflorestamento
+Desmatamento com correntão
+Desmatamento com corrente
+Desperdício de alimentos
+Alimento
+Alimentação
+Produtividade agrícola
+Detrito
+Doença animal
+Doença em animal
+Doenças animais
+Enfermidade animal
+Patologia animal
+Doença
+Saúde animal
+Dragagem hidroviária
+Dragagem portuária
+Drenagem
+Manejo ecológico
+Recursos naturais
+Economia
+Ecoturismo
+Turismo ecológico
+Turismo
+Estância hidromineral
+Estância termomineral
+Educação ambiental
+Educação
+Educação do campo
+Efeito estufa
+Gases de efeito estufa
+Efluente
+EIA
+Estudo de impacto ambiental
+Eletrificação rural
+Área rural
+Entulho
+Resíduo sólido extraordinário
+Esgoto sanitário
+Área urbana consolidada
+Espécie exótica
+Espécie exótica invasora
+Espécie vegetal
+Estação ecológica
+Unidade de conservação de proteção integral
+Estudo técnico
+Estudo de impacto de vizinhança
+Estudo de impacto na vizinhança
+Estudo prévio de impacto ambiental
+Exploração florestal
+Indústria madeireira
+Monitoramento ambiental
+Extrativismo
+Extrativismo animal
+Extrativismo vegetal
+Parceria rural
+Recursos florestais
+Família
+Fauna silvestre
+Fauna sinantrópica nociva
+FLONA
+Floresta Nacional (Flona)
+Flora
+Floresta nativa
+Florestamento
+Silvicultura
+Gás de efeito estufa
+Gás do efeito estufa
+Gases do efeito estufa
+Gerador de resíduo sólido
+Resíduo sólido
+Gestão ambiental
+Incêndio florestal
+Recuperação florestal
+Incêndio
+Queimada
+Índice de poluição
+Medição de poluente
+Padrão de emissão (Poluição)
+Agroindústria
+Indústria
+Indústria moveleira
+Meteorologia aplicada
+Repelente
+Transbordamento
+Invertebrado aquático
+Invertebrado terrestre
+Jardim botânico
+Licença ambiental
+Licença de instalação
+Licença de operação
+Licença prévia
+Licença prévia ambiental
+Órgão ambiental
+Lixeira
+Lixo comercial
+Lixo doméstico
+Lixo eletrônico
+Lixo hospitalar
+Lixo industrial
+Coleta seletiva
+Resíduo sólido ordinário
+Resíduo eletrônico e tecnológico
+Meio eletrônico
+Resíduo infectante
+Resíduo perigoso
+Logística reversa
+Madeira compensada
+Madeira de construção
+Madeira de lei
+Madeira em tora
+Madeira serrada
+Madeira tropical
+Manejo sustentável
+Matéria plastica
+Plástico
+Material biodegradável
+Resíduo biodegradável
+Material descartável
+Produto descartável
+Material plástico
+Material reciclado
+Ordem social
+Política fundiária
+Princípio da defesa do meio ambiente
+Produto biodegradável
+Responsabilidade social
+Geociências
+Radar meteorológico
+Microesfera de plástico
+Microplástico
+Veículo terrestre
+Monumento natural
+Cadáver
+Parque nacional
+Perigo
+Riscos (segurança)
+Cidade
+Planta exótica
+Planta medicinal
+Medicamento fitoterápico
+Planta ornamental
+Jardinagem
+Paisagismo
+Planta ornamental artificial
+Planta silvestre
+Erva daninha
+Planta psicotrópica
+Planta transgênica
+Petróleo
+Polícia militar ambiental
+Polícia militar
+Agrotóxico
+Agentes nocivos
+Poluição ambiental
+Poluição sonora
+População extrativista
+Reserva Extrativista (Resex)
+Posto de coleta
+Produtos
+Equipamento médico-hospitalar
+Material odontológico
+Produto industrializado
+Salão de beleza
+Reserva legal
+Lavoura
+Radiação solar
+Radiação ultravioleta
+Energia solar
+RDS
+Reserva de desenvolvimento sustentável (RDS)
+Embalagem retornável
+Material reciclável
+Recolha seletiva
+Recomposição florestal
+Regeneração florestal
+Pousio
+Recursos fitogenéticos
+Recursos genéticos
+Genética
+Material reprodutivo
+Recursos hídricos
+Águas públicas
+Coeficiente de distribuição
+Compensação financeira
+Reservatório d'água
+Recursos marinhos
+Recursos energéticos
+Recursos minerais
+Recursos vegetais
+Geologia
+REFAU
+Reserva de Fauna (Refau)
+Refinaria
+Combustível
+Indústria petroquímica
+Petroquímica
+Refúgio da vida silvestre
+Santuário ecológico
+Reserva biológica
+RESEX
+Propriedade rural
+Reserva Particular do Patrimônio Natural (RPPN)
+RPPN
+Resíduo combustível
+Resíduo gasoso
+Resíduo inerte
+Resíduo inorgânico
+Resíduo líquido
+Resíduo metálico
+Resíduo químico
+Resíduo radioativo
+Resíduo solúvel
+Resíduo térmico
+Resíduo tóxico
+Substância biodegradável
+Resíduo extraordinário
+Resíduo inflamável
+Resíduo ordinário
+Energia nuclear
+Material radioativo
+Limpeza pública
+Briga entre animais
+Luta entre animais
+SAF
+Saneamento
+Saneamento ambiental
+Saneamento básico
+Serviços ambientais
+Serviços culturais (ecossistema)
+Serviços de provisão
+Serviços de regulação
+Serviços de suporte
+Servidão ambiental
+Servidão
+Servidão florestal
+Setor energético
+Setor elétrico
+Setor mineral
+Política energética
+Setor sucroalcooleiro
+Mineração
+Agricultura
+Dados sísmicos
+Tráfico
+Usina eólica
+Unidade de conservação
+Zona de amortecimento
+Unidade de proteção integral
+Unidade de uso sustentável
+Vegetação primária
+Vegetação secundária
+Vegetação nativa
+Vegetação natural
+Cobertura vegetal
+ZEIS
+Zona costeira
+Litoral
+Praia
+Mar territorial
+Zona tampão
+Regularização fundiária de interesse social
+Doença infectocontagiosa
+ACL
+Ambiente de Contratação Livre (ACL)
+ACR
+Ambiente de Contratação Regulada (ACR)
+Adutora
+Aerogerador
+Gerador de energia
+Água de reúso
+Água do mar
+Água doce
+Água fluvial
+Água mineral
+Água salgada
+Água salobra
+Água subterrânea
+Abastecimento de água
+Consumo humano
+Crise hídrica
+Medidor de vazão de fluido
+Água residual
+Água residual doméstica
+Bueiro
+Água potável
+Bebida
+Dessalinização
+Aquífero
+Águas interiores
+Águas territoriais
+Águas internas
+Bens de uso comum do povo
+Águas internacionais
+Corrente d'água
+Fonte d'água
+Lagoa
+Nascente d'água
+Queda d'água
+Rio
+Zona contígua
+Zona econômica exclusiva
+Álcool etílico
+Etanol
+Energia elétrica
+Licitação
+Apagão
+Blecaute
+Aproveitamento hidrelétrico
+Energia hidrelétrica
+Usina hidrelétrica
+Autoprodutor de energia
+Fonte de energia
+Bacia hidrográfica
+Bacia (Relevo)
+Curso de água
+Bandeira tarifária
+Barragem
+Biodiesel
+Fonte alternativa de energia
+Bioenergia
+Gerador de emergência
+Boca de lobo
+Bomba de abastecimento de combustível
+Bomba para abastecimento de combustível
+Posto de gasolina
+Canal de drenagem
+Camada pré-sal
+Pré-sal
+Campo elétrico
+Campo eletromagnético
+Campo magnético
+Eletricidade
+Estação transmissora
+Exposição humana
+Campo marginal de gás natural
+Gás natural
+Campo marginal de petróleo
+CDE
+Conta de Desenvolvimento Energético (CDE)
+Central elétrica
+Usina
+Choque elétrico
+Acidente
+CLa
+Conteúdo Local de Bens para Uso Temporal (CLa)
+CLb
+Conteúdo Local de Bens (CLb)
+CLs
+Conteúdo Local de Serviços (CLs)
+Cobrança individualizada
+Cobrança
+Coeficiente de partição
+Combustível automotivo
+Gasolina
+Óleo diesel
+Querosene
+Fraturamento hidráulico
+Matriz energética
+Ações
+Liquidação financeira
+Mercado financeiro
+Condutor de energia elétrica
+Condutor de energia elétrica protegido
+Instalação elétrica
+Condutor de energia elétrica isolado
+Conexão elétrica
+Dique
+Eclusa
+Represa
+Consumo de energia
+Conta de energia elétrica
+Descontratação de energia elétrica
+Horário de verão
+Consumo próprio
+Saúde
+Conta de consumo
+Conta de telefone
+Conta telefônica
+Cooperativa de eletrificação
+Sociedade cooperativa
+Cooperativa de eletrificação rural
+Cota anual de reversão
+Quota anual de reversão
+Concessionária de serviço de energia elétrica
+Permissionário (administração pública)
+Crise de energia
+Crise energética
+Energia de reserva
+Energia elétrica excedente
+Mercado livre de energia elétrica
+Planta de dessalinização
+Diesel
+Drillship
+Navio-sonda
+Embarcação
+Eficiência energética
+Potência
+Encargo setorial
+Encargo
+Energia alternativa
+Energia atômica
+Energia convencional
+Fonte convencional de energia
+Energia das marés
+Energia maremotriz
+Energia de biomassa
+Energia termelétrica
+Gerador elétrico
+Iluminação pública
+Linha de distribuição
+Linha de transmissão
+Mecanismo de Realocação de Energia (MRE)
+Medidor de energia elétrica
+Microgeração distribuída
+Minigeração distribuída
+Monopólio da União
+Rede Elétrica Inteligente (REI)
+Risco hidrológico
+Sistema elétrico
+Subestação elétrica
+Energia eólica
+Energia geotermal
+Energia geotérmica
+Energia héliosolar
+Energia solar térmica
+Energia hidráulica
+Potencial hidráulico
+Potencial hidrelétrico
+Fissão nuclear
+Fusão nuclear
+Arma nuclear
+Usina termonuclear
+Energia renovável
+Energia solar fotovoltaica
+Geração solar distribuída
+Usina solar
+Energia solar concentrada
+Painel solar fotovoltaico
+Energia termossolar
+Usina termelétrica
+Equipamento sanitário
+Estação de repetição
+Estação repetidora
+Estação de transmissão
+Telecomunicações
+Estimulação hidráulica
+Destilaria
+Microdestilaria
+Minidestilaria
+Produto químico
+Saúde pública
+Extração mineral
+Lavra mineral
+Reserva mineral
+Fonte renovável de energia
+Produção independente de energia
+Unidade consumidora de energia
+Fracking
+Fratura hidráulica
+Fraturamento hidráulico convencional
+Fraturamento hidráulico não convencional
+Garimpo
+Jazida
+Gás canalizado
+Gás natural canalizado
+Gás de cozinha
+Gás Liquefeito de Petróleo (GLP)
+GLP
+Gás Natural Veicular (GNV)
+Hidrocarboneto fluido
+Operador de petróleo e gás
+Regime de partilha de produção
+Sonda de perfuração
+Tanque de gás
+Gasoduto
+GNV
+Gasóleo
+Nafta petroquímica
+Microgerador de energia
+Minigerador de energia
+Hidrocarboneto
+Poste de iluminação pública
+Iluminação
+Indústria de alúminio
+Indústria metalúrgica
+Indústria siderúrgica
+Joia
+Pedra preciosa
+Pedra semipreciosa
+Manuseio de material perigoso
+Mina
+Minério
+Monopólio estatal
+Monopólio natural
+Monopólio
+Nafta
+Operador de petróleo, gás e derivados
+Operadora de petróleo e gás
+Operadora de petróleo, gás e derivados
+Parque eólico
+Pedra ornamental
+Rocha ornamental
+Pesquisa de minério
+Pesquisa mineral
+Fundo de participação
+Participação especial
+Royalty
+Indústria química
+Química (ciência)
+Posto de abastecimento
+Posto de combustível
+Posto de revenda de combustível
+Posto de serviço
+REI
+Reservatório artificial
+Reservatório artificial d'água
+Reservatório artificial de água
+Reservatório artificial de grande porte
+Reservatório artificial de pequeno porte
+Rocha de revestimento
+Construção civil
+Sistema aberto (física)
+Sistema físico
+Sistema adiabático (física)
+Sistema fechado (física)
+Sistema isocórico (física)
+Sistema isolado (física)
+Termodinâmica
+Tarifa binômia
+Tarifa de energia elétrica
+Tarifa
+Tarifa monômia
+Tarifa de Uso do Sistema de Distribuição (TUSD)
+TUSD
+Usina hidroelétrica
+Usina nuclear
+Usina termoelétrica
