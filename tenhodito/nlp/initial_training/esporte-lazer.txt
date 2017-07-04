@@ -286,7 +286,6 @@ Perdedor
 Sorteio
 Pôquer
 Jogo de damas
-
 Jogo de xadrez
 Equipamento eletrônico
 Olímpiada

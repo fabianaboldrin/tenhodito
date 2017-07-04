@@ -146,7 +146,6 @@ Alíquota ad valorem
 Alíquota
 Faturamento
 Aluguel
-
 Seguro fiança locatícia
 Contrato
 Imobiliária

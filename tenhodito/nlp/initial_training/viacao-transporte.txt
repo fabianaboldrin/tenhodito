@@ -394,7 +394,6 @@ Faixa exclusiva
 Faixa exclusiva para transporte coletivo
 Faixa exclusiva de ônibus
 Faixa exclusiva de transporte coletivo
-
 Via férrea
 Malha ferroviária
 Ferrovia federal
@@ -561,7 +560,6 @@ Pneu reformado
 Pneu usado
 Polo naval
 Ponte rodoferroviária
-
 Porto delegado
 Porto flutuante
 Porto fluvial

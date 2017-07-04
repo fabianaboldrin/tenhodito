@@ -224,7 +224,6 @@ Microdestilaria
 Minidestilaria
 Bebida com gás
 Bem-estar
-
 Saúde
 Biblioterapia
 Biblioteca
@@ -911,7 +910,6 @@ Iluminação
 Prevenção da fadiga
 Saúde do trabalhador
 Tutela do trabalho
-
 Para tanto, utilizamos as chamadas câmaras hiperbáricas.
 Medicina laboratorial
 Melhoramento genético

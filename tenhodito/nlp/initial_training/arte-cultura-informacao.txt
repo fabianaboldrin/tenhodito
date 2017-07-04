@@ -464,7 +464,6 @@ Pacote de dados
 Infraestrutura Nacional de Dados Abertos (INDA)
 Coletor biométrico
 Identificação biométrica
-
 Informações pessoais
 Comunicação confidencial
 Comunicação privada
