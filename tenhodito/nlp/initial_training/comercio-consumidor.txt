@@ -1,205 +1,92 @@
 Abatimento no preço
-Desconto no preço
 Abuso do poder econômico
-Abuso de poder econômico
-Infração contra a ordem econômica
 Acompanhante de pessoa com deficiência
-Pessoa com deficiência
 Assinante
-Jornal
-Operadora de telefonia fixa
-Operadora de telefonia móvel
-Provedor de acesso
-Publicação
-Revista
-Televisão por assinatura
 Assistência técnica
-Apoio logístico
-Garantia do produto
-Produtos
-Serviços técnicos
-Visita técnica
 Atendimento ao consumidor
 Atendimento individualizado
 Atendimento não presencial
-Atendimento preferencial
-Atendimento presencial
-Atendimento telefônico
-Central de atendimento
-Consumidor
-Lista de espera
-Atendimento personalizado
 Atendimento não-presencial
+Atendimento personalizado
 Autoatendimento
 Autosserviço
-Serviços
 Aviso de risco
-Recall
 Bens de consumo
-Bens
-Obsolescência programada
 Bens duráveis
 Bônus de adimplência
-Bônus de adimplência fiscal
-Benefício fiscal
-Dívida
-Financiamento
-Pagamento
 Call center
 Cartilha com instruções
-Manual do usuário
-Empresa de call center
+Central de atendimento
 Certificado de garantia
-Garantia contratual
-Garantia do serviço
-Garantia estendida
-Garantia legal
 Chamamento
 Cláusula de fidelização
-Contrato
 Cliente
-Empresa tomadora de serviços
-Freguês
-Pesquisa de mercado
 Clube de benefícios
 Clube de descontos
 Clube de vantagens
-Marketing de relacionamento
 Cobertura de seguro
-Plano de assistência funerária
-Seguro
 Cobrança
 Cobrança antecipada
 Cobrança automática
 Cobrança indevida
-Cobrança individual
 Cobrança manual
 Código de barras
-Preço
 Comércio coercitivo
-Comércio
-Prática abusiva
 Comércio desleal
-Consumidor final
-Direito do consumidor
-Alienador
-Cessionário
-Comprador
-Consignatário
-Conta de consumo
-Crime contra as relações de consumo
-Direito de arrependimento
-Mercado de consumo
-Relações de consumo
+Consumidor
 Consumo próprio
-Consumo humano
 Consumo sustentável
-Economia circular
-Economia verde
-Produção sustentável
 Contrato de adesão
 Couvert artístico
-Espetáculo
-Estabelecimento de alimentação
+Crime contra as relações de consumo
 Crime contra o consumidor
-Cláusula abusiva
-Crime contra a ordem econômica
-Defesa do consumidor
-Venda casada
 Defeito do produto
-Vício do produto
 Defesa da concorrência
-Concorrência econômica
-Monopólio
-Oligopólio
-Redução no preço
-Desconto
+Desconto no preço
 Diferenciação de preços
-Venda a prazo
+Direito de arrependimento
+Direito do consumidor
 Embalagem do produto
-Embalagem de medicamento
 Embalagem econômica
 Embalagem plástica
 Embalagem retornável
-Informação ao consumidor
-Rótulo do produto
-Garrafa retornável
-Reciclagem
 Empresa administradora de cadastro de crédito
-Instituição de crédito
-Banco
-Crédito
-Empresa comercial
-Inadimplente
 Fila de espera
-Garantia do contrato
-Caução
-Compromisso de entrega de material ou equipamento
-Fiança bancária
-Seguro fiança locatícia
-Seguro patrimonial
-Seguro pessoal
-Seguro-garantia
-Contrato administrativo
-Perda da garantia
-Prestação de garantia
+Freguês
+Garantia contratual
+Garantia do produto
+Garantia do serviço
+Garantia estendida
+Garantia legal
 Ignorância do consumidor
+Informação ao consumidor
 Informação inadequada
 Informação insuficiente
 Juros abusivos
-Juros
 Liquidação antecipada de crédito
-Lista única de espera
-Atendimento médico
-Concurso público
-Direito de precedência
-Ordem cronológica
-Transplante de órgão ou tecido
+Lista de espera
 Manual de uso
-Manual de informações
+Manual do usuário
 Obsolescência planejada
-Desenvolvimento sustentável
+Obsolescência programada
 Peça de reposição
-Peça sobressalente
 Peça nova
-Peças
 Peça original
+Peça sobressalente
 Peça usada
+Peças
 Personagem licenciado
-Produto licenciado
-Serviço de assistência funerária
-Benefício eventual
-Empresa funerária
-Concorrência desleal
+Plano de assistência funerária
+Prática abusiva
 Prazo de validade
 Prazo de validade vencido
-Preço à vista
-Preço abusivo
-Preço básico
-Preço de mercado
-Preço de referência
-Preço de transferência
-Preço global
-Preço máximo
-Preço médio
-Preço mínimo
-Preço público
-Preço unitário
-Subfaturamento
-Superfaturamento
-Menor preço
-Pesquisa de preço
+Preço
 Pré-contrato
 Prejuízo ao consumidor
 Produto artesanal
-Produto industrializado
 Produto com defeito
-Produto defeituoso
 Produto in natura
-Produto alimentício
-Produto de origem animal
-Produto de origem vegetal
-Produto não comestível
+Produto licenciado
 Produto sem defeito
 Produto usado
 Programa de fidelidade
@@ -210,191 +97,102 @@ Publicidade institucional
 Publicidade legal
 Publicidade mercadológica
 Publicidade promocional
-Agência de modelo
-Logotipo
-Mensagem
-Plotagem
-Propaganda
-Slogan
-Apelo sexual
-Fornecedor
+Recall
+Redução no preço
 Rótulo de alerta
-Tarja de alerta
-Rótulo de alimento
+Rótulo do produto
 Segunda via
-Boleto bancário
+Serviço de assistência funerária
 Serviço de Proteção ao Crédito (SPC)
-SPC
 Sistema de proteção ao crédito
+SPC
+Tarja de alerta
 Termo de referência
-Acordo internacional
-Especificação técnica
-Licitação
-Orçamento de referência
 Usuário de serviços
-Conta de usuário
 Utensílio doméstico
-Instrumento de trabalho
-Vício oculto
+Vício do produto
 Vício do serviço
+Vício oculto
 Agência lotérica
-Casa lotérica
-Unidade lotérica
-Agência bancária
-Loteria
 Agente poluidor
-Poluente
 Alambique
-Destilaria
 Alarme automotivo
-Alarme sonoro
-Automóvel
-Segurança eletrônica
 Alarme residencial
-Sirene automotiva
+Alarme sonoro
 Alienação fiduciária
-Devedor fiduciante
 Amostra do produto
-Apelo erótico
+Apelo sexual
 Área industrial
-Indústria
 Armador
-Marinha mercante
 Arranjos Produtivos Locais (APLs)
-Microempresa
 Arrendamento mercantil
-Leasing
-Arrendamento
 Arrendamento mercantil financeiro
 Arrendamento mercantil operacional
-Contrato mercantil
-Letra de Arrendamento Mercantil (LAM)
 Artefato pirotécnico
 Artifício pirotécnico
-Fogo de artifício
 Atendimento domiciliar
 Atendimento em domicílio
-Concessionária de serviço de telecomunicação
+Atendimento presencial
+Atendimento telefônico
 Ativo imobilizado
-Ativo financeiro
 Automação de processo
-Processo de trabalho
 Automação industrial
-Processo mecânico
 Aval
-Devedor solidário
-Fiança
 Avalista
 Banca de jornal e revista
-Estabelecimento comercial
-Publicação periódica
 Bar
 Bebida
-Água potável
-Bebida alcoólica
 Bebida energética
 Bebida fria
-Bebida gaseificada
 Bebida hipercalórica
 Bebida hipocalórica
 Bebida não alcoólica
-Bebida quente
-Chá
-Refrigerante
-Suco de fruta
 Bebida não-alcoólica
 Benefício financeiro
-Incentivo fiscal
 BIM
-Modelagem da informação na construção
 Boas práticas de fabricação
-Vigilância sanitária
 Boate
-Casa noturna
 Camelô
-Comércio ambulante
 Cantina
-Lanchonete
 Capacidade excedente
-Infraestrutura compartilhada
-Produção econômica
 Carne de caça
-Carne
-Animal
-Caça
 Cartel
+Casa lotérica
+Casa noturna
 Certificação de boas práticas
-Certificação
-Controle de qualidade
 Certificação de Conteúdo Local
-Conteúdo Local
 Certificado de Conteúdo Local
 Cheque especial
-Cheque
 Cheque pré-datado
 Cláusula de exclusividade territorial
 Cláusula de raio
-Locatário
-Shopping
 Clínica de estética
 Clínica estética
 Clínica-parceira
-Procedimento médico
-Salão de beleza
-Clínica de fisioterapia
+Comércio
+Comércio ambulante
 Comércio atacadista
 Comércio eletrônico
 Comércio exterior
 Comércio ilegal
-Comércio interestadual
-Comércio internacional
 Comércio nacional
 Comércio varejista
 Comércio virtual
-E-commerce
-Meio eletrônico
-Plataforma digital
-Certificado de origem
-Defesa comercial
-Interposição fraudulenta de terceiros
-Letra de Comércio Exterior (LCE)
-Regime de origem
-Risco comercial
-Risco extraordinário
-Risco político
-Mercado interno
-Venda a varejo
 Commodities
-Mercadoria
-Produto primário
 Competitividade empresarial
-Empresa
 Complexo industrial
 Componente eletrônico
-Circuito integrado
-Equipamento eletrônico
 Compra direta
-Compra
 Concessionária de veículos
-Oficina mecânica
-Veículo novo
-Veículo terrestre
-Veículo usado
 Confeitaria
 Construtora
-Construção civil
-Habitação
-Água
-Alimento
-Dessalinização
-Saúde
+Consumidor final
+Consumo humano
 Conta de água
-Consumo de água
+Conta de consumo
 Conta de energia elétrica
-Conta telefônica
-Consumo de energia
 Conta de telefone
-Conteúdo nacional
+Conteúdo Local
 Conteúdo Local de Bens (CLb)
 Conteúdo Local de Bens para Uso Temporal (CLa)
 Conteúdo Local de Serviços (CLs)
@@ -402,25 +200,17 @@ Conteúdo Local na Etapa de Desenvolvimento
 Conteúdo Local na Fase de Exploração
 Contrato de parceria
 Contrato social
+Controle de qualidade
 Convênio
 Cooperação empresarial
-Cooperação internacional
 Cooperação industrial
 Copirraite
-Copyright
 Copyleft
-Direito autoral
-Acesso à informação
+Copyright
 Cosmético orgânico
-Cosmético
 Crédito comercial
-Prestação (pagamento)
-Crédito pessoal
-Venda
 Crédito industrial
 Crédito mercantil
-Capital de giro
-Crédito rural
 Custo
 Custo contábil
 Custo direto
@@ -429,221 +219,111 @@ Custo financeiro
 Custo indireto
 Custo operacional
 Custo social
+Defesa do consumidor
 Denominação social
-Nome comercial
-Razão social
-Sociedade comercial
 Depreciação acelerada
-Lucro real
 Desenho industrial
 Design
-Ciências sociais aplicadas
-Design gráfico
-Desenho técnico
-Ilustração
-Leiaute
 Desinvestimento
-Gestão empresarial
-Investimento
-Bebida alcoólica destilada
-Etanol
-Microdestilaria
-Minidestilaria
+Destilaria
 Direito antidumping
-Dumping
 Direito da propriedade industrial
 Direito de propriedade industrial
-Direito de propriedade
 Dispositivo de segurança
-Segurança de produto
-Segurança do trabalho
 Distintivo
-Uniforme (vestuário)
 Distribuidor
-Revendedor
-Dívida ativa
-Dívida bruta
-Dívida externa
-Dívida interna
-Dívida líquida
-Dívida pública
-Dívida vencida
-Dívida vincenda
-Política comercial
+Dívida
+Dumping
 Durabilidade
-Vida útil
+E-commerce
 Edifício comercial
-Imóvel comercial
-Medicamento
-Tampa inviolável
+Embalagem de medicamento
 Emblema
-Símbolo oficial
 Empreendedorismo
-Empreendedorismo rural
 Empreendimento
-Investidor-anjo
-Empreendimento familiar rural
 Empreendimento imobiliário
 Empreendimento industrial
-Empreendimento público
-Agência
+Empresa
 Empresa binacional
+Empresa brasileira
 Empresa coletiva
+Empresa comercial
+Empresa comercial exportadora
+Empresa controlada
+Empresa de call center
+Empresa de central de atendimento
 Empresa de comunicação
 Empresa de grande porte
-Empresa de transporte
-Empresa estatal
-Empresa estrangeira
-Empresa individual
-Empresa individual de responsabilidade limitada
-Empresa industrial
-Empresa jornalística
-Empresa multinacional
-Empresa nacional
-Empresa operadora
-Empresa privada
-Empresa transnacional
-Filial
-Matriz (empresa)
-Média empresa
-Pequena empresa
-Sucursal
-Conta individualizada
-Conta vinculada do FGTS
-Empresa sindicalizada
-Estrutura organizacional
-Fundo de comércio
-Grupo econômico
-Identidade visual
-Incubadora de empresas
-Liquidação extrajudicial
-Parceiro comercial
-Parceria comercial
-Personalidade jurídica
-Pessoa jurídica
-Processo organizacional
-Qualificação econômico-financeira
-Responsabilidade social
-Seguradora
-Sociedade empresária
-Sucessão empresarial
-Empresa brasileira
-Empresa comercial exportadora
-Encampação (direito comercial)
-Horário comercial
-Empresa industrial exportadora
-Empresa controlada
-Sociedade de economia mista
-Empresa de central de atendimento
-Empresa prestadora de serviço de call center
-Empresa prestadora de serviços
 Empresa de médio porte
 Empresa de pequeno porte
-Entidade estrangeira
-Indústria estrangeira
-Serviços funerários
-Sociedade unipessoal
-Jornalismo
+Empresa estrangeira
+Empresa funerária
+Empresa individual de responsabilidade limitada
+Empresa industrial
+Empresa industrial exportadora
+Empresa jornalística
 Empresa mista
-Capital estrangeiro
+Empresa multinacional
+Empresa nacional
 Empresa particular
-Setor privado
+Empresa prestadora de serviço de call center
+Empresa prestadora de serviços
+Empresa privada
 Empresa privada singular
+Empresa tomadora de serviços
+Empresa transnacional
+Encampação (direito comercial)
 Encargo
-Encargo financeiro
-Encargo locatício
-Encargo setorial
-Encargo social
-Obrigação trabalhista
 Encomenda
-Destinatário
-Remetente
-Serviços postais
 Entidade sem fim lucrativo
 Entidade sem fins lucrativos
-Entidade comunitária sem fins lucrativos
-Terceiro setor
-Utilidade pública
 Equipamento
-Equipamento de informática
-Equipamento de proteção individual
-Equipamento de som
-Equipamento elétrico
-Equipamento gráfico
-Equipamento musical
-Máquina
 Escrituração comercial
-Livro comercial
-Casa comercial
-Instituição comercial
-Unidade comercial
-Cyber café
-Estabelecimento agrário
-LAN house
-Mercado
-Padaria
-Estabelecimento de massagem
-Estabelecimento de sauna
-Quiosque
-Reboque
+Estabelecimento comercial
 Estaleiro
-Construção naval
-Embarcação
 Estoque
 Exposição do produto
 Fábrica
 Fabricante
-Local de trabalho
 Fast-food
-Refeição
-Financiamento público
-Custeio
-Fonte de financiamento
-Gravame
-Investimento coletivo (Crowfunding)
-Refinanciamento
+Financiamento
 Firma social
 Fiscalização orientadora
 Fiscalização orientativa
 Fiscalização preventiva
 Fiscalização punitiva
 Floresta plantada
-Floresta
-Reflorestamento
-Árvore
-Exploração florestal
-Florestamento
-Silvicultura
 Floricultura
-Agronegócio
-Explosivo
-Produto controlado
+Fogo de artifício
 Fornecedor estrangeiro
 Funerária
+Garrafa retornável
+Grupo econômico
 Guelta
-Gorjeta
-Incentivo funcional
-Remuneração
-Vantagem pecuniária
 Hipermercado
+Horário comercial
 Iluminação intermitente
-Luz intermitente
-Imóvel
-Imóvel com destinação mista
+Imóvel comercial
+Incubadora de empresas
 Índice de poluição
-Monitoramento ambiental
-Medição de poluente
-Padrão de emissão (Poluição)
 Índice de reajuste
-Contrato de locação
-Reajuste de preços
-Reajuste de tarifas
-Reajuste salarial
-Agroindústria
+Indústria
+Indústria automobilística
 Indústria automotiva
+Indústria borracheira
+Indústria calçadista
 Indústria da beleza
-Indústria da moda
+Indústria da borracha
+Indústria de alúminio
+Indústria de calçado
+Indústria de confecção
+Indústria de cosmético
+Indústria de higiene pessoal
+Indústria de perfumaria
+Indústria estrangeira
 Indústria farmacêutica
+Indústria farmacêutica nacional
+Indústria farmacêutica pública
 Indústria gráfica
 Indústria madeireira
 Indústria metalúrgica
@@ -652,317 +332,229 @@ Indústria nacional
 Indústria petroquímica
 Indústria química
 Indústria salineira
-Matéria-prima
-Indústria automobilística
-Indústria borracheira
-Indústria da borracha
-Indústria calçadista
-Indústria de calçado
-Seringal
-Indústria de alúminio
-Indústria de confecção
-Indústria de cosmético
-Indústria de perfumaria
-Indústria de higiene pessoal
-Sociedade estrangeira
-Laboratório farmacêutico
-Indústria farmacêutica nacional
-Indústria farmacêutica pública
-Produto farmacêutico
-Impressão gráfica
-Madeira
 Indústria siderúrgica
-Combustível
-Nafta petroquímica
-Petróleo
-Petroquímica
-Refinaria
-Produto químico
 Indústria têxtil
-Produto têxtil
 Informação falsa
-Declaração falsa
-Documento falso
-Informação sigilosa
 Iniciativa privada
 Insígnia
 Inspeção federal
-Inspeção industrial
-Inspeção sanitária
 Instituição civil
-Sociedade civil
 Insumo
-Insumo agrícola
-Insumo agropecuário
-Cadeia produtiva
-Índice de preço
+Investidor-anjo
 Junta comercial
-Registro de comércio
 Lançamento contábil
-Registro contábil
 Lavagem de roupa
 Lavanderia
-Uniforme profissional
 Lingerie
-Roupa
 Liquidante
-Falência
 Livre iniciativa
-Livre-iniciativa
 Livro caixa
-Livro mercantil
-Livro contábil
+Livro comercial
 Livro conta corrente
-Livro diário
-Livro razão
+Livro contábil
 Livro contábil digital
+Livro diário
 Livro fiscal
+Livro mercantil
+Livro razão
 Logística reversa
-Resíduo sólido
 Loja de conveniência
 Luz de rotação
+Luz intermitente
 Luz vermelha intermitente
-Ambulância
-Operação policial
-Segurança pública
-Veículo de segurança pública
+Madeira
 Madeira compensada
 Madeira de construção
 Madeira de lei
 Madeira em tora
 Madeira serrada
-Madeira tropical
 Maior desconto
-Engenharia mecânica
+Máquina
 Marca de comércio
 Marca de indústria
-Proteção especial temporária
+Marinha mercante
 Material biodegradável
-Resíduo biodegradável
+Matéria-prima
 Matéria-prima de origem regional
+Matriz (empresa)
+Média empresa
+Medição de poluente
 MEI
-Microempreendedor Individual (MEI)
-Mercearia
-Minimercado
-Supermercado
+Menor preço
+Mercado
 Mercado consumidor
+Mercado de consumo
 Mercado doméstico
+Mercado interno
 Mercado nacional
-Mercado internacional
-Mercadoria abandonada
+Mercadoria
 Mercadoria estrangeira
 Mercadoria nacional
-Nomenclatura Comum do Mercosul (NCM)
+Mercearia
 Micro e pequena empresa
-Cooperativa agrícola
+Microdestilaria
+Microempreendedor Individual (MEI)
+Microempresa
 Microempresário
-Memorial descritivo
-Projeto básico
+Minidestilaria
+Minimercado
+Modelagem da informação na construção
 Modelo de utilidade
-Patente de modelo de utilidade
-Monopólio da União
-Livre concorrência
-Mercado financeiro
-Princípio da livre concorrência
+Monitoramento ambiental
+Monopólio
 Motor
-Propulsor
-Motor de eficiência
-Motor elétrico
 Motor híbrido
-Teste de motor
-Veículo híbrido
+Nome comercial
 Nota fiscal eletrônica
-Nota fiscal
+Oligopólio
+Padaria
+Padrão de emissão (Poluição)
 Padrão de qualidade
+Parceiro comercial
+Parceria comercial
 Participação societária
-Participação acionária
-Sociedade (pessoa jurídica)
 Patente de invenção
-Patente de produto
-Propriedade intelectual
-Royalty
+Patente de modelo de utilidade
 Patrimônio líquido
-Capital próprio
-Capital social
-Juros sobre capital próprio
-Pessoa física
-Marketing
+Pequena empresa
+Personalidade jurídica
+Pesquisa de mercado
+Pesquisa de preço
 Plataforma eletrônica
 Plataforma intermediadora
+Política comercial
 Polo naval
-Agrotóxico
-Chorume
-Resíduo
-Agentes nocivos
-Lixo
-Poluição
-Poluição ambiental
+Poluente
 Portão eletrônico
 Posto de abastecimento
-Posto de gasolina
 Posto de combustível
+Posto de gasolina
 Posto de revenda de combustível
 Posto de serviço
-Bomba de abastecimento de combustível
-Gasolina
-Valor global
-Valor unitário
+Preço à vista
+Preço global
+Preço unitário
 Princípio da livre-iniciativa
-Princípio da livre iniciativa
 Processo decisório
-Decisão
-Administração (ciência)
-Administração pública
-Mapa estratégico
+Processo organizacional
 Produto básico
 Produto biodegradável
-Meio ambiente
-Produto descartável
+Produto defeituoso
 Produto derivado
 Produto elaborado
-Fármaco
+Produto farmacêutico
 Produto fitossanitário
 Produto industrial
-Produto semimanufaturado
-Imposto
-Produto semielaborado
+Produto industrializado
 Produto medicinal
-Produto terapêutico
-Vigilância farmacológica
+Produto não comestível
 Produto não perecível
 Produto não-autopopulsor
-Produto não-autopropulsado
 Produto não-autopropelido
-Veículo autopropelido
+Produto não-autopropulsado
 Produto perecível
-Exposição humana
+Produto primário
+Produto químico
 Produto semi-elaborado
+Produto semielaborado
 Produto semi-industrializado
-Produto assistivo
-Subproduto
-Indicação geográfica
+Produto semimanufaturado
+Produto têxtil
+Produtos
+Proteção especial temporária
 Protótipo
-Propriedade industrial
-Engenharia de produção
 Provador de roupa
-Trocador de roupa
+Quiosque
+Razão social
 Recuperação extrajudicial
 Recuperação judicial
+Refeição
 Refeição vegetariana
-Refeitório
-Restaurante
+Refrigerante
 Registro comercial
-Registro público
-Registro Civil
+Registro de comércio
+Relações de consumo
 Reprografia
+Responsabilidade social
 Responsabilidade social corporativa
 Responsabilidade social empresarial
 Revenda
-Cobertura de riscos
-Seguro de crédito à exportação (SCE)
-Vestuário
-Roupa típica
+Revendedor
+Risco comercial
+Roupa
 Saboaria artesanal
-Artesanato
-Atividade econômica
+Salão de beleza
 Salão-parceiro
 SCE
-Riscos (segurança)
-Exportação
+Segurança de produto
+Seguro de crédito à exportação (SCE)
 Serviços continuados
 Serviços contínuos
 Serviços de execução continuada
 Serviços de natureza continuada
-Cremação
-Exumação
-Sepultamento
-Cadáver
-Cemitério
-Falecimento
-Traslado funerário
+Serviços funerários
 Serviços privados
-Serviços públicos
+Serviços técnicos
 Setor de serviços
-Setor terciário
+Shopping
+Sociedade comercial
 Sociedade de capital
 Sociedade de capital autorizado
 Sociedade de capital fixo
-Sociedade de capital variável
-Sociedade anônima
-Sociedade em comandita por ações
-Sociedade limitada
-Sociedade por ações
 Sociedade de capital misto
-Sociedade cooperativa
+Sociedade de capital variável
 Sociedade de participação
-Sociedade de controle
 Sociedade de responsabilidade ilimitada
-Sociedade ilimitada
 Sociedade de responsabilidade limitada
 Sociedade de responsabilidade mista
-Sociedade em comandita simples
 Sociedade de simples participação
-Sociedade coligada
-Sociedade controlada
-Sociedade filiada
 Sociedade (direito civil)
-Ações
-Sociedade de pessoas
+Sociedade em comandita por ações
+Sociedade em comandita simples
 Sociedade em conta de participação
-Sociedade pluripessoal
-Sociedade de propósito específico (SPE)
+Sociedade estrangeira
+Sociedade filiada
+Sociedade ilimitada
+Sociedade limitada
 Sociedade mercantil
 Sociedade nacional
-Pessoa jurídica de direito privado
-Sociedade controladora
-Sociedade de inversão de capital
-Sociedade em comum
-Sociedade em nome coletivo
-Sociedade simples
+Sociedade (pessoa jurídica)
+Sociedade pluripessoal
+Sociedade por ações
 Sociedade subsidiária
 Sociedade subsidiária integral
-Apuração de haveres
-Carteira (direito comercial)
-Regime societário
-Empresa subsidiária
 Sócio majoritário
-Sócio-cotista
 Sócio minoritário
-Sócio
-Faturamento
+Sócio-cotista
+Subfaturamento
+Subproduto
 Substância biodegradável
+Superfaturamento
+Supermercado
 Suspensão temporária de serviços
 Tampa de segurança
+Tampa inviolável
 Tarifa
-Tarifa aeroportuária
-Tarifa de energia elétrica
-Taxa
 Telemarketing
 Teor alcoólico
-Gradação alcoólica
 Transparência contábil
 Transparência de dados contábeis
-Demonstração contábil
 Transporte de corpo
 Traslado de corpo
-Farda
-Fardamento
-Uniforme escolar
-Uniforme militar
+Traslado funerário
+Trocador de roupa
+Unidade lotérica
+Uniforme (vestuário)
 Valor comercial
-Valor
 Valor individual
+Valor unitário
+Veículo híbrido
+Venda a prazo
+Venda a varejo
+Venda casada
 Venda direta
-Defesa sanitária
-Vigilância em saúde
-Certificado sanitário
-Vigilância fitossanitária
-Vigilância sanitária animal
-Controle sanitário
-Infração sanitária
-Registro sanitário
-Saneamento básico
-Saneante
-Sanidade agropecuária
+Vestuário
+Vida útil
+Vigilância sanitária
+Visita técnica
 Zona franca tecnológica
-Zona franca

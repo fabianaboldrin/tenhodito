@@ -1,33 +1,17 @@
 Academia de dança
-Dança
 Academia de fisioculturismo
 Academia de ginástica
-Exercício físico
 Antidopagem
 Antidoping
-Doping
-Esporte
 Arco e flecha
-Tiro com arco
 Arquibancada
-Cadeira numerada
-Estádio esportivo
 Arremesso
-Atletismo
 Arte marcial
 Artes marciais
-Caratê
-Jiu-jítsu
-Judô
-Luta greco-romana
 Artes marciais mistas (MMA)
-Mixed Martial Arts (MMA)
-MMA
 Atividade esportiva
 Atividade física
-Esporte de participação
 Atividade turfística
-Turfe
 Atleta
 Atleta amador
 Atleta autônomo
@@ -39,485 +23,384 @@ Atleta nacional
 Atleta não profissional
 Atleta olímpico
 Atleta paralímpico
+Atleta paraolímpico
 Atleta profissional
 Atleta-guia
-Bolsa de desenvolvimento esportivo
-Ex-atleta
-Trabalho desportivo
-Esporte amador
-Esporte de rendimento
-Atleta paraolímpico
-Bônus de contratação
-Direito de arena
-Esporte profissional
-Corrida
-Salto
-Esporte olímpico
-Esporte paralímpico
+Atletismo
 Autódromo
-Automóvel
-Disputa automobilística
 Badminton
 Basquetebol
 Basquetebol em cadeira de rodas
 Bicicross
-Ciclismo BMX
+Bolsa de desenvolvimento esportivo
 Boxe
 Bridge (jogo de cartas)
-Jogo de cartas
 Brinquedoteca
-Biblioteca
-Brinquedo
-Sala de cinema
+Cadeira numerada
 Campeonato
-Evento desportivo
 Campo de futebol
-Futebol
 Canoagem
 Canoagem slalom
 Canoagem velocidade
-Paracanoagem
-Karatê
+Caratê
 Carro alegórico
-Veículo terrestre
 Carteira de marítimo
-Documento de viagem
 Carteira de marítimo consular
 Casa noturna
-Boate
-Estabelecimento comercial
 Ciclismo
+Ciclismo BMX
 Ciclismo de estrada
 Ciclismo de pista
 Ciclismo mountain bike
 Ciclista
-Triatlo
 Ciclovia
-Bicicleta
 Circuito completo de equitação
-Hipismo CCE
 Clube de esporte
-Clube esportivo
 Clube de lazer
-Clube social
 Clube desportivo
-Comissão técnica esportiva
-Dirigente esportivo
-Entidade desportiva
-Escudo esportivo
-Time esportivo
-Torcida
+Clube esportivo
 Clube recreativo
-Clube de leitura
+Clube social
 Colônia de férias
-Férias escolares
-Equipe técnica esportiva
+Comissão técnica esportiva
 Competição automobilística
 Competição esportiva
 Competição esportiva internacional
-Copa do Brasil
-Jogos Escolares da Juventude
-Jogos Olímpicos
-Jogos Pan-Americanos
-Jogos Paralímpicos
-Jogos Parapan-Americanos
-Jogos Sul-Americanos
-Jogos Sul-Americanos de Praia
-Olimpíadas
-Título esportivo
-Copa do Mundo
-Copa Sul-Americana
 Concurso de prognóstico
-Timemania
-Contribuição social
-Loteria
+Copa do Brasil
+Copa do Mundo
 Copa do Mundo da Fifa
 Copa do Mundo de Futebol
+Copa Sul-Americana
 Copa Sul-Americana de Futebol
-Pentatlo moderno
+Corrida
 Corrida de carros
 Corrida de cavalos
-Artes cênicas
-Frevo
-Samba
+Dança
 Desporte
 Desporto
+Desporto de formação
 Desporto de participação
 Desporto de rendimento
 Desporto educacional
-Esporte educacional
 Desporto militar
-Esporte militar
 Desporto Nacional
-Esporte nacional
 Desporto não-profissional
 Desporto profissional
 Desporto virtual
-Esporte virtual
 Direito ao esporte
-Direitos sociais
-Pessoa com deficiência
 Direito ao lazer
-Direito à vida
-Lazer
-Turismo social
-Direito à imagem
-Direito da personalidade
-Responsabilidade pessoal
-Disputa automobilística ilegal
+Direito de arena
+Dirigente esportivo
+Disputa automobilística
 Dopagem
-Justiça Desportiva Antidopagem (JAD)
+Doping
 Educação esportiva
-Educação
-Educação física
 Emblema
-Símbolo oficial
-Uniforme (vestuário)
 Entidade de administração do desporto
-Entidade desportiva profissional
+Entidade de prática desportiva
+Entidade desportiva
 Entidade desportiva internacional
+Entidade desportiva profissional
+Entidade esportiva
 Entidade estadual de administração do desporto
 Entidade nacional de administração do desporto
 Entidade regional de administração do desporto
-Entidade de prática desportiva
-Entidade esportiva
-Instituição desportiva
-Instituição esportiva
+Equipe técnica esportiva
+Escudo esportivo
 Esgrima
 Esgrima em cadeira de rodas
 Espectador
 Espectador não pagante
 Espectador pagante
-Audiência na mídia
-Ingresso
-Prática desportiva
+Esporte
+Esporte amador
+Esporte da mente
 Esporte de competição
 Esporte de formação
+Esporte de participação
+Esporte de performance
+Esporte de rendimento
+Esporte estudantil
+Esporte intelectual
+Esporte militar
+Esporte nacional
 Esporte náutico
+Esporte olímpico
+Esporte paralímpico
+Esporte paraolímpico
+Esporte profissional
 Esporte radical
 Esporte subaquático
 Esporte terrestre
 Esporte universitário
-Ioga
-Justiça desportiva
-Modalidade esportiva
-Ordem social
-Paradesporte
-Pilates
-Quadra esportiva
-Qualidade de vida
-Troféu
-Esporte da mente
-Esporte intelectual
-Jogo de tabuleiro
-Jogo eletrônico
-Esporte de performance
-Esporte estudantil
-Kitesurfe
-Windsurfe
-Ginástica artística
-Ginástica de trampolim
-Ginástica rítmica
-Golfe
-Handebol
-Hipismo de adestramento
-Hipismo de salto
-Hóquei sobre a grama
-Levantamento de peso
-Luta estilo livre
-Maratona aquática
-Nado sincronizado
-Natação
-Polo aquático
-Remo
-Rugby
-Saltos ornamentais
-Taekwondo
-Tênis
-Tênis de mesa
-Tiro esportivo
-Vela (esporte)
-Vôlei de praia
-Voleibol
-Esporte paraolímpico
+Esporte virtual
+Estádio de futebol
+Estádio esportivo
+Evento ao ar livre
+Evento desportivo
+Evento público
+Exame biométrico
+Ex-atleta
+Exercício físico
+Futebol
+Futebol de campo
+Futebol de salão
 Futebol de 5
 Futebol de 7
-Goalball
-Halterofilismo
-Rugby em cadeira de rodas
-Tênis em cadeira de rodas
-Voleibol sentado
-Estádio de futebol
-Ginásio de esporte
-Evento ao ar livre
-Evento
-Acessibilidade
-Medida de segurança
-Evento esportivo
-Evento público
-Concurso de beleza
-Espetáculo
-Exame biométrico
-Futebol de campo
 Futebol feminino
 Futebol society
 Futsal
-Gol (esporte)
-Futebol de salão
+Ginásio de esporte
+Ginástica artística
+Ginástica de trampolim
+Ginástica rítmica
 Go (jogo de tabuleiro)
+Goalball
+Gol (esporte)
+Golfe
+Halterofilismo
+Handebol
 Hino
-Hino estrangeiro
-Hino Nacional
 Hipismo
+Hipismo CCE
+Hipismo de adestramento
+Hipismo de salto
 Hóquei
+Hóquei sobre a grama
 Iatismo
 Infração disciplinar (esporte)
-Transgressão (esporte)
-Infrator
-Yoga
+Instituição desportiva
+Instituição esportiva
+Ioga
 JAD
-Jujútsu
+Jiu-jítsu
 Jogo
-Jogo de azar
-Jogo de habilidade
-Apostador
-Ganhador
-Perdedor
-Sorteio
-Pôquer
+Jogo de cartas
 Jogo de damas
+Jogo de habilidade
+Jogo de tabuleiro
 Jogo de xadrez
-Equipamento eletrônico
-Olímpiada
-Tocha olímpica
-Vila olímpica
+Jogo eletrônico
+Jogos Escolares da Juventude
+Jogos Olímpicos
+Jogos Pan-Americanos
+Jogos Paralímpicos
 Jogos Paraolímpicos
-Paralimpíadas
-Tocha paralímpica
-Vila paralímpica
+Jogos Parapan-Americanos
+Jogos Sul-Americanos
+Jogos Sul-Americanos de Praia
+Judô
+Jujútsu
+Justiça desportiva
+Justiça Desportiva Antidopagem (JAD)
+Karatê
 Kitesurf
-Evento de lazer
-Hotel de lazer
+Kitesurfe
+Lazer
 Lema
+Levantamento de peso
+Loteria
 Loteria esportiva
 Loteria estadual
-Loteria federal
 Loteria social
-Agência lotérica
-Prêmio de concurso e sorteio
+Luta estilo livre
+Luta greco-romana
+Maratona aquática
 Mascote
-Piscina
+Mixed Martial Arts (MMA)
+MMA
+Modalidade esportiva
+Nado sincronizado
+Natação
+Olímpiada
+Olimpíadas
+Paracanoagem
+Paradesporte
 Paradesporto
+Paralimpíadas
 Paraolimpíadas
 Parque
 Parque aquático
 Parque de diversões
 Parque de rodeio
 Parque infantil
-Parque temático
-Complexo viário
-Rodeio
+Pentatlo moderno
 Pesca esportiva
-Pesca
+Pilates
+Piscina
+Polo aquático
 Ponteiro
+Pôquer
 Prancha de surf
+Prática desportiva
 Profissional de Educação Física
+Quadra esportiva
 Quadra poliesportiva
 Recorde esportivo
+Recorde internacional
 Recorde mundial
 Recorde nacional
-Recorde internacional
+Remo
+Rodeio
 Rodeio crioulo
-Bandeira Nacional
-Identidade visual
-Símbolo nacional
+Rugby
+Rugby em cadeira de rodas
+Salto
+Saltos ornamentais
+Símbolo oficial
+Sorteio
 Taek won do
-Torcedor
-Torcida organizada
+Taekwondo
+Tênis
+Tênis de mesa
+Tênis em cadeira de rodas
+Time esportivo
+Timemania
 Tiro ao alvo
+Tiro com arco
+Tiro esportivo
+Título esportivo
+Tocha olímpica
+Tocha paralímpica
 Tocha paraolímpica
+Torcedor
+Torcida
+Torcida organizada
 Torcida uniformizada
-Trabalho
+Trabalho desportivo
+Transgressão (esporte)
+Triatlo
+Turfe
+Vela (esporte)
 Viagem de negócio
-Viagem
 Viagem de turismo
-Turismo
 Vídeo-loteria
+Vôlei de praia
+Voleibol
+Voleibol sentado
 Voo
-Voo comercial
-Voo internacional
 Voo livre
-Voo nacional
-Aeronave
-Transporte aéreo
 Windsurf
+Windsurfe
+Yoga
 Acampamento turístico
-Camping
-Empresa hoteleira
 Agência de turismo
-Agência de viagem atacadista
-Agência de viagem maiorista
-Serviços turísticos
-Agência
 Agência de viagem
-Agência de viagem receptiva
-Operadora de turismo
+Agência de viagem atacadista
 Agência de viagem e turismo
+Agência de viagem maiorista
+Agência de viagem receptiva
 Agência operadora de turismo
 Albergue de turismo
-Hostel
 Apart-hotel
 Atração turística
-Cruzeiro turístico
 Bagageiro
 Bagagem
 Bagagem acompanhada
 Bagagem de mão
 Bagagem não acompanhada
-Esteira de bagagem
-Extravio de bagagem
-Franquia de bagagem
 Bangalô
 Buggy-turismo
-Buggy
 Calendário turístico
-Calendário
-Datas comemorativas
-Festa popular
-Usos e costumes
 Cama e café
+Camping
 Casa de câmbio
-Moeda estrangeira
 Centro de informações turísticas
-Informação turística
 Chalé
 Checagem de entrada
-Check-in
 Checagem de saída
+Check-in
 Check-out
-Avião
-Navio
-Passagem aérea
 Cheque de viagem
-Traveler's checks
-Traveller's cheques
-Cheque
 Classe de negócios
-Classe executiva
 Classe de viagem
 Classe econômica
-Primeira classe
-Transporte
+Classe executiva
 Classificação hoteleira
 Comércio turístico
 Cruzeiro fluvial
 Cruzeiro marítimo
-Transporte aquático
+Cruzeiro turístico
 Diária de hospedagem
 Diária de hotel
-Hospedagem
-Hotel
 Direito ao turismo
-Salvo-conduto
+Documento de viagem
 Eco hotel
 Ecoturismo
-Turismo ecológico
-Estância hidromineral
-Estância termomineral
 Empresa de hospedagem
 Empresa de hotelaria
-Flat
-Hospedaria
-Motel
-Pensão (turismo)
-Pensionato
-Pousada
-Quartos leitos
-Hóspede
-Imóvel locado
-Setor hoteleiro
+Empresa hoteleira
 Empresa prestadora de serviço turístico
-Prestador de serviço turístico
 Entretenimento turístico
+Estância hidromineral
 Estância mineral
+Estância termomineral
 Estância turística
 Excursão de turismo
 Excursão turística
-Serviços de transporte
+Extravio de bagagem
+Flat
+Franquia de bagagem
 Franquia de bagagem por peça
 Franquia de bagagem por peso
-Empresa de transporte aéreo
+Hospedagem
+Hospedaria
+Hóspede
+Hostel
+Hotel
+Hotel de lazer
 Hotel de saúde
 Hotel histórico
 Hotel-cassino
 Hotel-fazenda
+Imóvel locado
+Informação turística
+Motel
+Oferta turística
+Operadora de turismo
+Operadora turística
+Parque temático
+Passagem do transporte coletivo
+Patrimônio
+Patrimônio religioso
+Pensão (turismo)
+Pensionato
+Pousada
+Prestador de serviço turístico
+Prestadora de serviço turístico
+Primeira classe
+Quartos leitos
 Resort
 Resorte
+Serviços de transporte
+Serviços turísticos
+Setor hoteleiro
 Spa
-Encargo locatício
-Oferta turística
-Operadora turística
-Empresa operadora
-Passagem do transporte coletivo
-Passe estudantil
-Patrimônio
-Acervo patrimonial
-Patrimônio ambiental
-Patrimônio arqueológico
-Patrimônio arquitetônico
-Patrimônio arquivístico
-Patrimônio artístico
-Patrimônio bibliográfico
-Patrimônio cultural
-Patrimônio de afetação
-Patrimônio espeleológico
-Patrimônio etnográfico
-Patrimônio genético
-Patrimônio histórico
-Patrimônio ilícito
-Patrimônio imaterial
-Patrimônio indígena
-Patrimônio material
-Patrimônio natural
-Patrimônio paisagístico
-Patrimônio privado
-Patrimônio público
-Patrimônio religioso
-Patrimônio turístico
-Patrimônio urbano
-Curadoria
-Livro do tombo
-Tombamento
-Prestadora de serviço turístico
-Serviços
-Setor terciário
 Transfer
-Traslado
 Translado
-Turismo receptivo
+Traslado
+Traveler's checks
+Traveller's cheques
+Turismo
 Turismo cultural
 Turismo de aventura
 Turismo doméstico
+Turismo ecológico
 Turismo educacional
 Turismo internacional
-Turismo nacional
-Turismo rural
-Turismo sexual
-Evento turístico
-Turista
 Turismo interno
+Turismo nacional
 Turismo pedagógico
-Crime contra a dignidade sexual
-Exploração sexual
-Prostituição
-Inclusão social
-Visitante
-Viagem a trabalho
+Turismo receptivo
+Turismo sexual
+Turismo social
+Turista
+Viagem
 Viagem de longa distância
-Viagem em missão oficial
 Viagem internacional
-Viagem oficial
-Desembarque
-Embarque
+Visitante
 Visto de turista
-Visto consular
+Voo comercial
+Voo internacional
+Voo nacional

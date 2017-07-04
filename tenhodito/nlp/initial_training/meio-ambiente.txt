@@ -1,740 +1,568 @@
 Abalo sísmico
-Terremoto
 Açude
-Construção hidráulica
-Lago
 AEIS
-Zona especial de interesse social (ZEIS)
 Agente poluidor
-Poluente
 Agrofloresta
-Sistema agroflorestal (SAF)
 Água lixiviado
-Chorume
 Água lixiviante
 Água percolada
 Alagamento
-Desastre ambiental
-Chuva
 Ambientalismo
-Movimento ambientalista
-Movimento ecológico
-Movimento social
 Animal
-Animal de grande porte
+Animal de estimação
 Animal domesticado
 Animal doméstico
 Animal exótico
 Animal feroz
 Animal marinho
-Animal morto
-Animal onívoro
+Animal nativo
 Animal selvagem
 Animal silvestre
-Animal transgênico
-Animal vivo
-Invertebrado
-Vertebrado
-Abate de animal
-Abigeato
-Alimentação animal
-Caça
-Carne de caça
-Controle de natalidade animal
-Equoterapia
-Espécie animal
-Fauna
-Higiene animal
-Jardim zoológico
-Produto de uso veterinário
-Ração animal
-Receita veterinária
-Rinha
-Sanidade agropecuária
-Semovente
-Silagem
-Terapia Assistida por Animais (TAA)
-Tosa animal
-Tração animal
-Vegetal
-Zoonose
-Animal de estimação
-Animal bravio
-Animal nativo
 APA
-Área de Proteção Ambiental (APA)
 APP (Área de preservação permanente)
-Área de preservação permanente (APP)
 Aquário
-Água
 Área de especial interesse social (AEIS)
-Unidade de conservação de uso sustentável
-Proteção ambiental
-Sítio espeleológico
+Área de preservação permanente (APP)
+Área de Proteção Ambiental (APA)
 Área de Relevante Interesse Ecológico (ARIE)
-ARIE
 Área de risco
 Área insalubre
+ARIE
 Árvore
-Plantas
-Floresta
-Floresta plantada
-Madeira
 Árvore eólica
-Turbina eólica
 Aterro
 Aterro sanitário
-Lixo
 Autorização de uso sustentável
-Autorização de uso
 Biodiversidade
-Ciências biológicas
-Botânica
-Ecologia
-Oceanografia
-Zoologia
-Conhecimento tradicional
-Criadouro
-Ecossistema
-Etnobiologia
 Biogás
-Biocombustível
 Bioma
-Vegetação
 Caça profissional
 Calçada ecológica
-Calçada
 Carbono florestal
-Estoque de carbono
-Sequestro de carbono
 Catástrofe natural
-Seguro rural
 Certificação
 Certificação ambiental
-Certificação de boas práticas
-Certificação digital
-Selo de certificação
-Selo verde
-Líquido lixiviado
-Líquido lixiviante
-Líquido percolado
-Necrochorume
-Resíduo orgânico
-Água pluvial
-Enchente
-Erosão
-Tempestade
+Chorume
+Chuva
 Ciclone
-Furacão
-Tufão
 Clima
 Climatologia
-Informação meteorológica
-Meteorologia
-Mudança climática
-Satélite meteorológico
-Tempo (meteorologia)
 Combate à seca
-Seca
 Compactador de lixo
-Veículo coletor de lixo
 Compensação ambiental
 Compensação ecológica
-Licenciamento ambiental
-Dano ambiental
-Impacto ambiental
 Conspurcação
-Crime contra o ordenamento urbano e o patrimônio cultural
 Consumo de água
 Consumo hídrico
-Cobrança individual
-Conta de água
-Desperdício de água
-Hidrômetro
 Consumo sustentável
-Economia circular
-Economia verde
-Produção sustentável
 Controle de praga
-Controle biológico
-Inseticida
-Inseto
 Convivência com a seca
 Convivência com o semi-árido
 Convivência com o semiárido
 Cooperativa de reciclagem
-Reciclagem
-Corredor de biodiversidade
+corredor de biodiversidade
 Corredor ecológico
 Crime ambiental
-Crime contra o meio ambiente
-Crime
 Crime contra a administração ambiental
 Crime contra a fauna
 Crime contra a flora
-Poluição
-Meio ambiente
-Preservação ambiental
-Tráfico de animais silvestres
-Pichação
-Garimpagem
-Risco ambiental
+Crime contra o meio ambiente
+Crime contra o ordenamento urbano e o patrimônio cultural
+Dano ambiental
 Dejeto
-Resíduo
 Desassoreamento
-Dragagem
+Desastre ambiental
 Desastre natural
-Desastre
-Inundação
-Maremoto
-Ressaca (meio ambiente)
-Tornado
-Tsunami
-Família desabrigada
 Desenvolvimento sustentável
-Obsolescência programada
-Qualidade de vida
-Sustentabilidade ambiental
-Sustentabilidade urbana
 Desmatamento
+Desmatamento com correntão
+Desmatamento com corrente
 Desmatamento ilegal
 Desmatamento manual
 Desmatamento mecânico
-Reflorestamento
-Desmatamento com correntão
-Desmatamento com corrente
+Desperdício de água
 Desperdício de alimentos
-Alimento
-Alimentação
-Produtividade agrícola
 Detrito
 Doença animal
 Doença em animal
 Doenças animais
-Enfermidade animal
-Patologia animal
-Doença
-Saúde animal
-Dragagem hidroviária
-Dragagem portuária
+Dragagem
 Drenagem
-Manejo ecológico
-Recursos naturais
-Economia
+Ecologia
+Economia verde
+Ecossistema
 Ecoturismo
-Turismo ecológico
-Turismo
-Estância hidromineral
-Estância termomineral
 Educação ambiental
-Educação
-Educação do campo
 Efeito estufa
-Gases de efeito estufa
 Efluente
 EIA
-Estudo de impacto ambiental
 Eletrificação rural
-Área rural
+Enchente
+Enfermidade animal
 Entulho
-Resíduo sólido extraordinário
+Erosão
 Esgoto sanitário
-Área urbana consolidada
+Espécie animal
 Espécie exótica
 Espécie exótica invasora
 Espécie vegetal
 Estação ecológica
-Unidade de conservação de proteção integral
-Estudo técnico
+Estoque de carbono
+Estudo de impacto ambiental
 Estudo de impacto de vizinhança
 Estudo de impacto na vizinhança
 Estudo prévio de impacto ambiental
+Etnobiologia
 Exploração florestal
-Indústria madeireira
-Monitoramento ambiental
 Extrativismo
-Extrativismo animal
 Extrativismo vegetal
-Parceria rural
-Recursos florestais
-Família
+Família desabrigada
 Fauna silvestre
 Fauna sinantrópica nociva
 FLONA
-Floresta Nacional (Flona)
 Flora
+Floresta Nacional (Flona)
 Floresta nativa
+Floresta plantada
 Florestamento
-Silvicultura
+Furacão
 Gás de efeito estufa
 Gás do efeito estufa
+Gases de efeito estufa
 Gases do efeito estufa
 Gerador de resíduo sólido
-Resíduo sólido
 Gestão ambiental
+Impacto ambiental
 Incêndio florestal
-Recuperação florestal
-Incêndio
-Queimada
 Índice de poluição
-Medição de poluente
-Padrão de emissão (Poluição)
-Agroindústria
-Indústria
+Indústria madeireira
 Indústria moveleira
-Meteorologia aplicada
-Repelente
-Transbordamento
+Informação meteorológica
+Inseto
+Inundação
+Invertebrado
 Invertebrado aquático
 Invertebrado terrestre
 Jardim botânico
+Jardim zoológico
 Licença ambiental
 Licença de instalação
 Licença de operação
 Licença prévia
 Licença prévia ambiental
-Órgão ambiental
+Licenciamento ambiental
+Líquido lixiviado
+Líquido lixiviante
+Líquido percolado
 Lixeira
+Lixo
 Lixo comercial
 Lixo doméstico
 Lixo eletrônico
 Lixo hospitalar
 Lixo industrial
-Coleta seletiva
-Resíduo sólido ordinário
-Resíduo eletrônico e tecnológico
-Meio eletrônico
-Resíduo infectante
-Resíduo perigoso
 Logística reversa
+Madeira
 Madeira compensada
 Madeira de construção
 Madeira de lei
 Madeira em tora
 Madeira serrada
 Madeira tropical
+Manejo ecológico
 Manejo sustentável
+Maremoto
 Matéria plastica
-Plástico
 Material biodegradável
-Resíduo biodegradável
 Material descartável
-Produto descartável
 Material plástico
 Material reciclado
-Ordem social
-Política fundiária
-Princípio da defesa do meio ambiente
-Produto biodegradável
-Responsabilidade social
-Geociências
-Radar meteorológico
+Medição de poluente
+Meio ambiente
+Meteorologia
+Meteorologia aplicada
 Microesfera de plástico
 Microplástico
-Veículo terrestre
+Monitoramento ambiental
 Monumento natural
-Cadáver
+Movimento ambientalista
+Movimento ecológico
+Mudança climática
+Necrochorume
+Órgão ambiental
+Padrão de emissão (Poluição)
 Parque nacional
+Patologia animal
 Perigo
-Riscos (segurança)
-Cidade
+Pichação
 Planta exótica
 Planta medicinal
-Medicamento fitoterápico
 Planta ornamental
-Jardinagem
-Paisagismo
 Planta ornamental artificial
 Planta silvestre
-Erva daninha
-Planta psicotrópica
-Planta transgênica
-Petróleo
+Plantas
+Plástico
 Polícia militar ambiental
-Polícia militar
-Agrotóxico
-Agentes nocivos
+Poluente
+Poluição
 Poluição ambiental
-Poluição sonora
 População extrativista
-Reserva Extrativista (Resex)
 Posto de coleta
-Produtos
-Equipamento médico-hospitalar
-Material odontológico
-Produto industrializado
-Salão de beleza
-Reserva legal
-Lavoura
+Preservação ambiental
+Produção sustentável
+Produto biodegradável
+Produto descartável
+Proteção ambiental
+Queimada
+Radar meteorológico
 Radiação solar
 Radiação ultravioleta
-Energia solar
 RDS
-Reserva de desenvolvimento sustentável (RDS)
-Embalagem retornável
-Material reciclável
+Reciclagem
 Recolha seletiva
 Recomposição florestal
-Regeneração florestal
-Pousio
+Recuperação florestal
 Recursos fitogenéticos
 Recursos genéticos
-Genética
-Material reprodutivo
 Recursos hídricos
-Águas públicas
-Coeficiente de distribuição
-Compensação financeira
-Reservatório d'água
 Recursos marinhos
-Recursos energéticos
-Recursos minerais
+Recursos naturais
 Recursos vegetais
-Geologia
 REFAU
-Reserva de Fauna (Refau)
 Refinaria
-Combustível
-Indústria petroquímica
-Petroquímica
+Reflorestamento
 Refúgio da vida silvestre
-Santuário ecológico
+Regeneração florestal
 Reserva biológica
-RESEX
-Propriedade rural
+Reserva de desenvolvimento sustentável (RDS)
+Reserva de Fauna (Refau)
+Reserva Extrativista (Resex)
+Reserva legal
 Reserva Particular do Patrimônio Natural (RPPN)
-RPPN
+RESEX
+Resíduo
+Resíduo biodegradável
 Resíduo combustível
+Resíduo eletrônico e tecnológico
+Resíduo extraordinário
 Resíduo gasoso
 Resíduo inerte
+Resíduo infectante
+Resíduo inflamável
 Resíduo inorgânico
 Resíduo líquido
 Resíduo metálico
+Resíduo ordinário
+Resíduo orgânico
+Resíduo perigoso
 Resíduo químico
 Resíduo radioativo
+Resíduo sólido
+Resíduo sólido extraordinário
+Resíduo sólido ordinário
 Resíduo solúvel
 Resíduo térmico
 Resíduo tóxico
-Substância biodegradável
-Resíduo extraordinário
-Resíduo inflamável
-Resíduo ordinário
-Energia nuclear
-Material radioativo
-Limpeza pública
-Briga entre animais
-Luta entre animais
+Ressaca (meio ambiente)
+Rinha
+Risco ambiental
+RPPN
 SAF
 Saneamento
 Saneamento ambiental
-Saneamento básico
+Santuário ecológico
+Saúde animal
+Selo de certificação
+Selo verde
+Sequestro de carbono
 Serviços ambientais
 Serviços culturais (ecossistema)
 Serviços de provisão
 Serviços de regulação
 Serviços de suporte
 Servidão ambiental
-Servidão
 Servidão florestal
 Setor energético
-Setor elétrico
 Setor mineral
-Política energética
-Setor sucroalcooleiro
-Mineração
-Agricultura
-Dados sísmicos
-Tráfico
-Usina eólica
+Sistema agroflorestal (SAF)
+Sítio espeleológico
+Substância biodegradável
+Sustentabilidade ambiental
+Sustentabilidade urbana
+Tempestade
+Tempo (meteorologia)
+Terremoto
+Tornado
+Tráfico de animais silvestres
+Transbordamento
+Tsunami
+Tufão
+Turbina eólica
 Unidade de conservação
-Zona de amortecimento
+Unidade de conservação de proteção integral
+Unidade de conservação de uso sustentável
 Unidade de proteção integral
 Unidade de uso sustentável
-Vegetação primária
-Vegetação secundária
+Vegetação
 Vegetação nativa
 Vegetação natural
-Cobertura vegetal
+Vegetação primária
+Vegetação secundária
+Vegetal
+Vertebrado
 ZEIS
 Zona costeira
-Litoral
-Praia
-Mar territorial
+Zona de amortecimento
+Zona especial de interesse social (ZEIS)
 Zona tampão
-Regularização fundiária de interesse social
-Doença infectocontagiosa
+Zoonose
 ACL
-Ambiente de Contratação Livre (ACL)
 ACR
-Ambiente de Contratação Regulada (ACR)
 Adutora
 Aerogerador
-Gerador de energia
+Água
 Água de reúso
 Água do mar
 Água doce
 Água fluvial
-Água mineral
+Água pluvial
+Água potável
+Água residual
+Água residual doméstica
 Água salgada
 Água salobra
 Água subterrânea
-Abastecimento de água
-Consumo humano
-Crise hídrica
-Medidor de vazão de fluido
-Água residual
-Água residual doméstica
-Bueiro
-Água potável
-Bebida
-Dessalinização
-Aquífero
 Águas interiores
-Águas territoriais
 Águas internas
-Bens de uso comum do povo
-Águas internacionais
-Corrente d'água
-Fonte d'água
-Lagoa
-Nascente d'água
-Queda d'água
-Rio
-Zona contígua
-Zona econômica exclusiva
+Águas públicas
+Águas territoriais
 Álcool etílico
-Etanol
-Energia elétrica
-Licitação
+Ambiente de Contratação Livre (ACL)
+Ambiente de Contratação Regulada (ACR)
 Apagão
-Blecaute
 Aproveitamento hidrelétrico
-Energia hidrelétrica
-Usina hidrelétrica
+Aquífero
 Autoprodutor de energia
-Fonte de energia
 Bacia hidrográfica
 Bacia (Relevo)
-Curso de água
 Bandeira tarifária
 Barragem
+Biocombustível
 Biodiesel
-Fonte alternativa de energia
 Bioenergia
-Gerador de emergência
+Blecaute
 Boca de lobo
 Bomba de abastecimento de combustível
 Bomba para abastecimento de combustível
-Posto de gasolina
-Canal de drenagem
+Bueiro
 Camada pré-sal
-Pré-sal
 Campo elétrico
 Campo eletromagnético
 Campo magnético
-Eletricidade
-Estação transmissora
-Exposição humana
 Campo marginal de gás natural
-Gás natural
 Campo marginal de petróleo
+Canal de drenagem
 CDE
-Conta de Desenvolvimento Energético (CDE)
 Central elétrica
-Usina
 Choque elétrico
-Acidente
 CLa
-Conteúdo Local de Bens para Uso Temporal (CLa)
 CLb
-Conteúdo Local de Bens (CLb)
 CLs
-Conteúdo Local de Serviços (CLs)
+Cobrança individual
 Cobrança individualizada
-Cobrança
+Coeficiente de distribuição
 Coeficiente de partição
+Combustível
 Combustível automotivo
-Gasolina
-Óleo diesel
-Querosene
-Fraturamento hidráulico
-Matriz energética
-Ações
-Liquidação financeira
-Mercado financeiro
+Compensação financeira
 Condutor de energia elétrica
-Condutor de energia elétrica protegido
-Instalação elétrica
 Condutor de energia elétrica isolado
+Condutor de energia elétrica protegido
 Conexão elétrica
-Dique
-Eclusa
-Represa
+Construção hidráulica
 Consumo de energia
+Consumo humano
+Conta de água
+Conta de Desenvolvimento Energético (CDE)
 Conta de energia elétrica
-Descontratação de energia elétrica
-Horário de verão
-Consumo próprio
-Saúde
-Conta de consumo
 Conta de telefone
-Conta telefônica
 Cooperativa de eletrificação
-Sociedade cooperativa
 Cooperativa de eletrificação rural
 Cota anual de reversão
-Quota anual de reversão
-Concessionária de serviço de energia elétrica
-Permissionário (administração pública)
 Crise de energia
 Crise energética
-Energia de reserva
-Energia elétrica excedente
-Mercado livre de energia elétrica
-Planta de dessalinização
+Crise hídrica
+Descontratação de energia elétrica
+Dessalinização
 Diesel
+Dique
 Drillship
-Navio-sonda
-Embarcação
+Eclusa
 Eficiência energética
-Potência
+Eletricidade
 Encargo setorial
-Encargo
 Energia alternativa
 Energia atômica
 Energia convencional
-Fonte convencional de energia
 Energia das marés
-Energia maremotriz
 Energia de biomassa
-Energia termelétrica
-Gerador elétrico
-Iluminação pública
-Linha de distribuição
-Linha de transmissão
-Mecanismo de Realocação de Energia (MRE)
-Medidor de energia elétrica
-Microgeração distribuída
-Minigeração distribuída
-Monopólio da União
-Rede Elétrica Inteligente (REI)
-Risco hidrológico
-Sistema elétrico
-Subestação elétrica
+Energia de reserva
+Energia elétrica
+Energia elétrica excedente
 Energia eólica
 Energia geotermal
 Energia geotérmica
 Energia héliosolar
-Energia solar térmica
 Energia hidráulica
-Potencial hidráulico
-Potencial hidrelétrico
-Fissão nuclear
-Fusão nuclear
-Arma nuclear
-Usina termonuclear
+Energia hidrelétrica
+Energia maremotriz
+Energia nuclear
 Energia renovável
-Energia solar fotovoltaica
-Geração solar distribuída
-Usina solar
+Energia solar
 Energia solar concentrada
-Painel solar fotovoltaico
+Energia solar fotovoltaica
+Energia solar térmica
+Energia termelétrica
 Energia termossolar
-Usina termelétrica
 Equipamento sanitário
 Estação de repetição
-Estação repetidora
 Estação de transmissão
-Telecomunicações
+Estação repetidora
+Estação transmissora
 Estimulação hidráulica
-Destilaria
-Microdestilaria
-Minidestilaria
-Produto químico
-Saúde pública
+Etanol
+Exposição humana
 Extração mineral
-Lavra mineral
-Reserva mineral
+Fissão nuclear
+Fonte alternativa de energia
+Fonte convencional de energia
+Fonte de energia
 Fonte renovável de energia
-Produção independente de energia
-Unidade consumidora de energia
 Fracking
 Fratura hidráulica
+Fraturamento hidráulico
 Fraturamento hidráulico convencional
 Fraturamento hidráulico não convencional
+Fusão nuclear
+Garimpagem
 Garimpo
-Jazida
 Gás canalizado
-Gás natural canalizado
 Gás de cozinha
 Gás Liquefeito de Petróleo (GLP)
-GLP
+Gás natural
+Gás natural canalizado
 Gás Natural Veicular (GNV)
-Hidrocarboneto fluido
-Operador de petróleo e gás
-Regime de partilha de produção
-Sonda de perfuração
-Tanque de gás
 Gasoduto
-GNV
 Gasóleo
-Nafta petroquímica
-Microgerador de energia
-Minigerador de energia
+Gasolina
+Geração solar distribuída
+Gerador de emergência
+Gerador de energia
+Gerador elétrico
+GLP
+GNV
 Hidrocarboneto
-Poste de iluminação pública
-Iluminação
+Hidrocarboneto fluido
+Hidrômetro
+Horário de verão
+Iluminação pública
 Indústria de alúminio
 Indústria metalúrgica
+Indústria petroquímica
 Indústria siderúrgica
 Joia
-Pedra preciosa
-Pedra semipreciosa
-Manuseio de material perigoso
+Lavra garimpeira
+Lavra mineral
+Linha de distribuição
+Linha de transmissão
+Material radioativo
+Material reciclável
+Matriz energética
+Mecanismo de Realocação de Energia (MRE)
+Mercado livre de energia elétrica
+Microgeração distribuída
 Mina
+Mineração
 Minério
+Minigeração distribuída
+Minigerador de energia
+Monopólio da União
 Monopólio estatal
 Monopólio natural
-Monopólio
 Nafta
+Nafta petroquímica
+Navio-sonda
+Óleo diesel
+Operador de petróleo e gás
 Operador de petróleo, gás e derivados
 Operadora de petróleo e gás
 Operadora de petróleo, gás e derivados
+Painel solar fotovoltaico
 Parque eólico
 Pedra ornamental
-Rocha ornamental
+Pedra preciosa
+Pedra semipreciosa
 Pesquisa de minério
 Pesquisa mineral
-Fundo de participação
-Participação especial
-Royalty
-Indústria química
-Química (ciência)
+Petróleo
+Petroquímica
+Planta de dessalinização
+Política energética
+Poste de iluminação pública
 Posto de abastecimento
 Posto de combustível
+Posto de gasolina
 Posto de revenda de combustível
 Posto de serviço
+Potencial hidráulico
+Potencial hidrelétrico
+Pré-sal
+Produção independente de energia
+Querosene
+Quota anual de reversão
+Recursos energéticos
+Rede Elétrica Inteligente (REI)
+Regime de partilha de produção
 REI
+Represa
 Reservatório artificial
 Reservatório artificial d'água
 Reservatório artificial de água
 Reservatório artificial de grande porte
 Reservatório artificial de pequeno porte
+Reservatório d'água
+Risco hidrológico
 Rocha de revestimento
-Construção civil
+Rocha ornamental
+Setor elétrico
+Setor sucroalcooleiro
 Sistema aberto (física)
-Sistema físico
 Sistema adiabático (física)
+Sistema elétrico
 Sistema fechado (física)
+Sistema físico
 Sistema isocórico (física)
 Sistema isolado (física)
-Termodinâmica
+Sonda de perfuração
+Subestação elétrica
+Tanque de gás
 Tarifa binômia
 Tarifa de energia elétrica
-Tarifa
-Tarifa monômia
 Tarifa de Uso do Sistema de Distribuição (TUSD)
+Tarifa monômia
+Termodinâmica
 TUSD
+Unidade consumidora de energia
+Usina
+Usina eólica
+Usina hidrelétrica
 Usina hidroelétrica
 Usina nuclear
+Usina solar
+Usina termelétrica
 Usina termoelétrica
+Usina termonuclear
+Comunidade Rural
+Complexo hidroelétrico
+Complexo hidroelétrico tapalós
+Políticas sustentáveis

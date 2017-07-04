@@ -1,267 +1,121 @@
 Abastecimento de água
-Água
-Área urbana consolidada
-Crise hídrica
-Monopólio da União
 Aborto espontâneo
-Aborto
 Aborto legal
 Abrigo para idosos
-Instituição de longa permanência para idosos (ILPI)
 Academia de dança
-Dança
 Academia de ginástica
-Academia de fisioculturismo
-Exercício físico
 Acidente
-Acidente aéreo
 Acidente aquático
-Acidente de trânsito
 Acidente fatal
-Acidente marítimo
-Choque elétrico
-Afogamento
 Ácido desoxirribonucleico (DNA)
-DNA
 Ácido Ribonucleico (RNA)
-Código genético
-Material genético
-RNA
 Aconselhamento genético
-Doença genética
 Acuidade auditiva
-Audição
-Deficiência auditiva
 Acuidade visual
-Grau de visão
 Acuidade visual máxima
 Acuidade visual mínima
-Visão
-Grau de visão máximo
-Grau de visão mínino
-Cegueira
-Deficiência visual
 Acupuntura
-Especialidade médica
+Afogamento
 Água sanitária
-Saneante
 Alcoólatra
 Alcoolista
-Ébrio habitual
-Etilista
-Alcoolismo
 Alergologia
 Alimentação
-Alimentação animal
 Alimentação humana
-Alimentação escolar
 Alimento
-Desperdício de alimentos
-Educação alimentar e nutricional
-Hábito alimentar
-Índice de Massa Corporal (IMC)
-Informação nutricional
-Nutrição
-Segurança alimentar e nutricional
-Sobrepeso
-Glúten
+Alimento diet
 Alimento dietético
+Alimento enlatado
 Alimento enriquecido
+Alimento fortificado
 Alimento funcional
 Alimento in natura
 Alimento industrializado
 Alimento infantil
-Alimento light
-Alimento orgânico
-Alimento saudável
-Consumo humano
-Estoque
-Nutrimento
-Padaria
-Processo produtivo
-Produto alimentício
-Produto não comestível
-Registro sanitário
-Rótulo de alimento
-Valor calórico
-Alimento diet
-Alimento enlatado
-Alimento fortificado
-Alimento manufaturado
 Alimento integral
+Alimento light
+Alimento manufaturado
+Alimento saudável
 Alimento sem lactose
-Produto sem lactose
 Alta médica
-Internação hospitalar
 Alucinógeno
-Entorpecente
 Alvejante
 Ambulância
-Luz intermitente
-Sirene automotiva
-Socorro de emergência
-Transporte de emergência
-Unidade móvel de saúde
+Amostra biológica
 Analgesia
 Analgésico
-Sedação
-Sedativo
 Análise clínica
-Consulta médica
-Exame laboratorial
-Laboratório de análises clínicas
 Anestesiologia
 Angiologia
 Antídoto
-Veneno
 Antissepsia
-Esterilização microbiana
-Solução antisséptica
 Antisséptico
 Aparelho de pressão
-Esfigmomanômetro
 Aparelho desfibrilador
-Equipamento médico-hospitalar
 Asilo para idosos
 Assepsia
 Assistência à saúde
 Assistência de enfermagem
 Assistência domiciliar
-Assistência médica
-Assistência paramédica
-Assistência psicológica
-Atendimento domiciliar (Saúde)
-Avaliação multiprofissional
-Dano à saúde
-Enfermagem
-Operadora de plano de assistência à saúde
-Osteopatia
-Podologia
-Saúde bucal
-Saúde na escola
-Saúde sexual e reprodutiva
-Enfermaria
-Atenção domiciliar
-Internação domiciliar
 Assistência médico-hospitalar
 Assistência médico-odontológica
-Fisioterapia
-Fonoaudiologia
-Terapia ocupacional
-Avaliação psicológica
-Orientação psicológica
-Tratamento psicológico
-Comunidade terapêutica
-Psicologia
+Assistência paramédica
+Assistência psicológica
 Assistência psicopedagógica
-Plano de saúde
-Tratamento de saúde
+Atenção domiciliar
+Atendimento domiciliar (Saúde)
 Atendimento em domicílio
-Atendimento domiciliar
 Atendimento médico
-Lista de espera
 Atendimento psicossocial
-Assistência psicossocial
 Atividade física
-Esporte de participação
 Atividade terapêutica
-Sentido humano
-Sistema auditivo
+Audição
 Autista
-Pessoa com transtorno do espectro autista
 Autópsia
-Necrópsia
 Auxílio-saúde
 Avaliação biopsicossocial
-Perícia médica
 Avaliação cardiológica
-Cardiologia
-Exame médico
-Preso
-Exame psicológico
-Teste psicológico
+Avaliação multiprofissional
+Avaliação psicológica
 Bactéria
-Micro-organismo
 Banco de alimentos
 Banco de leite humano
-Amamentação
 Banco de sangue
-Hemocentro
-Sangue
 Banheiro
-Toalete
 Banheiro familiar
 Banheiro feminino
 Banheiro masculino
-Banheiro privado
-Banheiro público
-Banheiro químico
-Vaso sanitário
 Banheiro particular
+Banheiro privado
 Banheiro privativo
+Banheiro químico
 Barriga de aluguel
-Gravidez de substituição
 Bebê
-Lactente
 Bebida
-Água potável
 Bebida alcoólica
+Bebida alcoólica destilada
+Bebida com gás
 Bebida energética
-Bebida fria
 Bebida gaseificada
 Bebida hipercalórica
 Bebida hipocalórica
-Bebida não alcoólica
 Bebida quente
-Chá
-Refrigerante
-Suco de fruta
-Bebida alcoólica destilada
-Embriaguez
-Teor alcoólico
-Destilaria
-Microdestilaria
-Minidestilaria
-Bebida com gás
 Bem-estar
-Saúde
 Biblioterapia
-Biblioteca
 Bioquímica da nutrição
 Bissexual
 Bissexualidade
-Sexo
-Sexualidade
-Diversidade sexual
 Bula de medicamento
-Medicamento
 Cadáver
-Falecimento
-Necrochorume
-Perícia necropapiloscópica
-Serviços funerários
 Cadeira de rodas
 Cadeira de rodas motorizada
-Cadeirante
-Pessoa com deficiência
-Triciclo motorizado
 Caderneta de saúde
 Caderneta de vacinação
 Camisinha
-Preservativo masculino
 Camisinha feminina
-Preservativo feminino
 Campanha de saúde
-Campanha educativa
-Epidemiologia
-Foco transmissor
-Saúde pública
 Canabidiol
-CBD
-Maconha
 Cancerologia
-Oncologia
-Unidade de Assistência de Alta Complexidade em Oncologia (Unacon)
 Cancerologia cirúrgica
 Cancerologia clínica
 Cancerologia pediátrica
@@ -269,285 +123,179 @@ Cânhamo
 Cannabis ruderalis
 Cannabis Sativa L.
 Cantina
-Lanchonete
 Cão-guia
-Cão de cego
-Pessoa com deficiência visual
 Capacidade psicomotora
-Exame toxicológico
-Teste de alcoolemia
+Cardiologia
 Carne de caça
-Carne
-Animal
-Caça
 Cartão Digital de Vacinação (CDV)
-CDV
-Vacina
 Casa de massagem
-Estabelecimento de massagem
 Casa de repouso
 Castração química
-Crime contra a dignidade sexual
+CBD
+CDV
 Cego
-Sistema Braille
+Cegueira
 Célula-tronco
-Clonagem terapêutica
-Engenharia genética
 Central de Material e Esterilização
 Central de Material Esterilizado (CME)
-CME (Central de Material Esterilizado)
-Unidade de saúde
 Central de Regulação de Serviços de Saúde
 Centro cirúrgico
-Cirurgia
-Hospital
 Centro de parto normal
 Centro de referência em saúde
 Centro de Saúde
-Unidade Básica de Saúde (UBS)
 Cera
 Certificação
-Certificação ambiental
-Certificação de boas práticas
-Certificação digital
-Selo de certificação
 Certificado fitosanitário
 Certificado sanitário
-Vigilância fitossanitária
-Inspeção fitossanitária
-Vigilância sanitária
 Certificado zoossanitário
-Vigilância sanitária animal
-Inspeção zootécnica
 Cesárea
-Parto
 Cheque-Caução
 Ciclo menstrual
-Período menstrual
 Ciência criminal
-Criminalística
 Ciências radiológicas
-Ciências da saúde
 Cigarro
-Tabaco
 Cigarro eletrônico
-E-cigarrete
-E-cigarrette
-E-cigarro
-Equipamento eletrônico
 Cinoterapia
-Terapia Assistida por Animais (TAA)
 CIP
-Controle Individual de Parto (CIP)
 Circuncisão feminina
-Mutilação genital feminina
-Procedimento cirúrgico
-Procedimento médico
+Cirurgia
 Cirurgia bariátrica
-Cirurgia de emergência
-Cirurgia de urgência
-Cirurgia eletiva
-Cirurgia time-sensitive
-Estomia
-Implante cirúrgico
-Instrumento cirúrgico
 Cirurgia cardiovascular
 Cirurgia da cabeça e pescoço
 Cirurgia da mão
+Cirurgia de emergência
+Cirurgia de urgência
 Cirurgia do aparelho digestivo
+Cirurgia eletiva
 Cirurgia geral
 Cirurgia pediátrica
 Cirurgia plástica
 Cirurgia reparadora da mama
 Cirurgia sensível ao tempo
+Cirurgia time-sensitive
 Cirurgia torácica
 Cirurgia vascular
 Clínica de estética
-Clínica estética
-Clínica-parceira
-Salão de beleza
 Clínica de fisioterapia
 Clínica especializada
+Clínica estética
 Clínica geriátrica
+Clínica médica
+Clínica odontológica
 Clínica pediátrica
 Clínica psiquiátrica
-Clínica odontológica
-Clínica médica
+CME (Central de Material Esterilizado)
 Cobertura assistencial
-Saúde suplementar
 Cocaína
+Código genético
 Coito
-Ato sexual
 Colonoscopia
 Coloproctologia
 Combate à doença
+Comunidade terapêutica
 Concentração de álcool
-Alcoolemia
-Bafômetro
 Concentração de álcool por litro de ar
 Concentração de álcool por litro de sangue
 Concentração de substância psicoativa por litro de sangue
-Exame de sangue
 Concepção (biologia)
-Fecundação
 Condição higiênico-sanitária
-Higidez sanitária
-Inspeção sanitária
 Conselho de saúde
+Consulta médica
 Consultório
 Consultório isolado
-Consumo próprio
-Dessalinização
+Consumo humano
 Controle biológico
-Controle de praga
-Inseticida
-Inseto
 Controle de natalidade animal
 Controle de natalidade de animal
-Gestante
+Controle de praga
+Controle Individual de Parto (CIP)
 Controle sanitário
 Cópula
 Cordão umbilical
-Gravidez
 Corpo humano
-Órgão ou tecido humano
 Cosmético
-Indústria da beleza
-Indústria de cosmético
-Cosmético orgânico
 Cosmetologia
-Dermatologia
 Crack
 Criadouro
-Biodiversidade
-Vetor biológico
 Criança prematura
-Prematuro
 Cuidador familiar
-Cuidador informal
 Cuidador formal
-Malefício
-Educação em saúde
-Erro médico
+Cuidador informal
+Dano à saúde
 Dano físico
 Dano pessoal
 Defeito físico
-Deficiência física
 Defesa sanitária
 Defesa sanitária vegetal
 Deficiência
+Deficiência auditiva
+Deficiência auditiva bilateral
+Deficiência auditiva unilateral
+Deficiência cognitiva
 Deficiência grave
 Deficiência intelectual
 Deficiência leve
 Deficiência moderada
-Deficiência múltipla
-Aluno com deficiência
-Tecnologia assistiva
-Deficiência sensorial
-Deficiência auditiva bilateral
-Deficiência auditiva unilateral
-Surdez
-Legenda oculta
-Língua Brasileira de Sinais (LIBRAS)
-Pessoa com deficiência auditiva
-Deficiência cognitiva
-Deficiência mental
-Retardo mental
-Direitos do deficiente
-Pessoa com deficiência intelectual
 Deficiência motora
-Visão subnormal
-Audiodescrição
-Sinalização tátil
+Deficiência múltipla
+Deficiência sensorial
+Deficiência visual
 Deficiente
 Deficiente auditivo
 Deficiente físico
-Pessoa com deficiência física
 Deficiente mental
 Deficiente visual
 Defunta
-Pessoa falecida
 Defunto
 Degermação
 Dependência física
-Internação compulsória
 Dependência psíquica
-Vício (comportamento)
 Dependência química
-Dependente químico
 Dependência toxicológica
-Intervenção preventiva
+Dependente químico
+Dermatologia
 Desenvolvimento psíquico
-Criança
-Desenvolvimento infantil
 Desinfecção
 Desinfetante
 Desnutrição e desenvolvimento fisiológico
 Desodorizante
 Despesa médica
-Direito à restituição do tributo
 Detergente
 Diagnóstico de saúde
-Sintoma
 Diagnóstico por imagem
-Radiologia
 Dieta
-Necessidade dietoterápica
 Direito à saúde
-Direitos sociais
-Direito à vida
-Seguridade social
 Dispensação de medicamento
 Dispositivo médico
 Dispositivo médico de uso único
-Equipamento médico
 Dispositivo médico descartável
 Dispositivo médico implantável
-Reutilização indevida de dispositivo médico implantável
-Órtese
-Prótese
+DNA
 Doação de medula óssea
 Doação de órgão ou tecido
+Doação de plaquetas
 Doação de sangue
 Doador de órgão ou tecido
-Paciente doador
-Doação de plaquetas
 Doador de sangue
 Doador vivo
 Doença
-Enfermidade
-Moléstia
 Doença animal
 Doença autoimune
 Doença congênita
+Doença contagiosa
 Doença crônica
+Doença em animal
 Doença endêmica
+Doença genética
 Doença grave
+Doença infecto-contagiosa
 Doença infectocontagiosa
+Doença mental
 Doença neuromuscular
-Doença ocupacional
 Doença rara
 Doença sexualmente transmissível (DST)
-Paciente
-Protocolo clínico
-Sequela
-Vírus
-Doença em animal
-Doenças animais
-Enfermidade animal
-Patologia animal
-Zoonose
-Saúde animal
-Doença contagiosa
-Traço falciforme
-Medicamento órfão
-Uso compassivo
-Doença infecto-contagiosa
 Doença transmissível
-Isolamento de paciente
-Doença mental
-Transtorno mental
-DST
+Doenças animais
 Doente
 Dosagem etílica
 Droga
@@ -555,126 +303,64 @@ Droga alucinatória
 Droga ilícita
 Droga vegetal
 Drogaria
-Farmácia
+DST
+Ébrio habitual
+E-cigarrete
+E-cigarrette
+E-cigarro
 Ecocardiografia
 Ecocardiograma
 Ecocardiograma fetal
-Feto
 Ecografia
-Ultrassonografia
 Ecografia transvaginal
-Ultrassonografia transvaginal
 Ecstasy
-MDMA
-Metilenodioximetanfetamina (MDMA)
-Reeducação alimentar
-Educação
+Educação alimentar e nutricional
+Educação em saúde
 Educação médica
-Residência médica
 Embalagem de medicamento
-Embalagem do produto
-Segurança de produto
-Tampa inviolável
 Embrião
 Emergência médica
-Ressuscitação cardiopulmonar
 Endocrinologia
-Hormônio
 Endoscopia
+Enfermagem
+Enfermaria
+Enfermidade
+Enfermidade animal
 Ensaio clínico
-Pesquisa clínica
 Ensaio de uso compassivo
 Entidade de autogestão em saúde
-Estupefaciente
-Narcótico
-Psicotrópico
-Substância entorpecente
-Tóxico
-Heroína
-Lança perfume
-Ópio
-Planta psicotrópica
-Porte de droga para consumo próprio
-Produto controlado
+Entorpecente
 Envelhecimento ativo
-Idoso
+Epidemiologia
 Equipamento hospitalar
-Material odontológico
-Produto descartável
+Equipamento médico
+Equipamento médico-hospitalar
 Equoterapia
-Terapia
-Imperícia
+Erro médico
 Escuta especial
 Escuta especializada
-Escuta especializada de crianças e adolescentes
 Escuta qualificada
-Depoimento
-Direitos da criança e do adolescente
-Violência doméstica
+Esfigmomanômetro
 Esfregaço corado pelo método de Papanicolaou
-Teste de Papanicolau
 Esfregaço de Papanicolaou
-Gastroenterologia
-Genética médica
-Geriatria
-Ginecologia
-Hematologia e Hemoterapia
-Homeopatia
-Infectologia
-Mastologia
-Medicina de família e comunidade
-Medicina do trabalho
-Medicina do tráfego
-Medicina esportiva
-Medicina física e reabilitação
-Medicina intensiva
-Medicina legal
-Medicina nuclear
-Medicina preventiva e social
-Nefrologia
-Neurocirurgia
-Neurologia
-Nutrologia
-Obstetrícia
-Oftalmologia
-Ortopedia
-Otorrinolaringologia
-Patologia clínica
-Pediatria
-Pneumologia
-Psiquiatria
-Reumatologia
-Urologia
-Medicina
-Odontologia
-Receita médica
+Especialidade médica
 Esperança de vida
-Expectativa de vida
 Estabelecimento de alimentação
-Unidade de alimentação
-Refeitório
-Restaurante
-Couvert artístico
-Estabelecimento comercial
-Refeição
+Estabelecimento de massagem
 Estabelecimento de saúde
 Estabelecimento de sauna
 Estabelecimento veterinário
-Medicina veterinária
 Esterelizante
 Esterilização cirúrgica
-Laqueadura de trompas
-Vasectomia
+Esterilização microbiana
 Esterilização voluntária
-Fumigação
-Planejamento familiar
+Estomia
 Estudo clínico
+Estupefaciente
+Etilista
 Etilômetro
 Eutanásia
-Homicídio
-Morte encefálica
 Exame biométrico
-Educação física
 Exame cadavérico
 Exame citológico de Papanicolaou
 Exame citológico de Papanicolau
@@ -682,201 +368,177 @@ Exame citopatológico de Papanicolaou
 Exame citopatológico de Papanicolau
 Exame colpocitológico
 Exame da sorologia
-Teste sorológico
 Exame de alcoolemia
 Exame de citologia oncótica
 Exame de imagem
-Mamografia bilateral
-Radiografia
-Tomografia
 Exame de laboratório
+Exame de sangue
 Exame de saúde
 Exame de sorologia
 Exame físico
-Exame médico admissional
-Exame médico demissional
-Exame otorrinolaringológico
-Exame pré-operatório
-Exame psiquiátrico
-Teste da Orelhinha
-Teste de Glicemia Capilar
-Teste do coração
-Teste do Olhinho
-Teste do Pezinho
-Teste do Quadril
-Teste Tuberculínico
-Exame médico complementar
-Laudo médico
-Seguro doença
+Exame laboratorial
+Exame médico
 Exame necropapiloscópico
-Laudo necropapiloscópico
+Exame otorrinolaringológico
 Exame Papanicolau
+Exame pré-operatório
 Exame preventivo do colo do útero
+Exame psicológico
+Exame psiquiátrico
 Exame radiológico
 Exame sorológico
+Exame toxicológico
+Exercício físico
 Exigências fitossanitárias
-Requisitos fitossanitários
 Expectativa de sobrevida
-Mortalidade
+Expectativa de vida
 Exposição humana
-Campo elétrico
-Campo eletromagnético
-Campo magnético
-Produto químico
 Faixa etária
-Adolescente
-Adulto
-Idade escolar
-Idade pré-escolar
-Jovem
-População
 Faringe
-Sistema respiratório
-Farmácia de manipulação
-Farmácia pública
+Farmácia
 Farmácia (ciências da saúde)
-Setor farmacêutico
+Farmácia de manipulação
 Farmácia magistral
-Medicamento manipulado
+Farmácia pública
 Fármaco
 Farmacologia
-Produto farmacêutico
-Ciências biológicas
 Farmacovigilância
-Vigilância farmacológica
 Fator Rh
 Fauna sinantrópica nociva
-Fauna
-Reprodução humana
+Fecundação
 Fertilização in vitro
-Reprodução humana assistida
-Má-formação fetal
+Feto
 Fila de espera
 Fisiatria
+Fisioterapia
 Fitoterapia
+Foco transmissor
+Fonoaudiologia
 Fraude médica
+Fumigação
 Funeral
-Cerimônia funerária
+Gastroenterologia
+Genética médica
+Geriatria
 Gestação de substituição
+Ginecologia
+Glúten
 Grau de dependência
-Pessoa em situação de dependência
+Grau de visão
+Grau de visão máximo
+Grau de visão mínino
 Gravidez de risco
-Maternidade de substituição
+Gravidez de substituição
+Hábito alimentar
+Hematologia e Hemoterapia
+Hemocentro
+Heroína
 Heterossexual
 Heterossexualidade
+Higidez sanitária
 Higiene animal
 Higiene do trabalho
-Higiene do local de trabalho
-Higiene no local de trabalho
-Higiene ocupacional
-Condições de trabalho
 Higiene mental
-Saúde mental
+Higiene ocupacional
 Higiene pública
 HIV
-Virus HIV
 Homem
-Cônjuge
-Gênero
-Sexo masculino
+Homeopatia
 Honorários médicos
-Honorários
-Insulina
-Instituição hospitalar
+Hormônio
+Hospital
 Hospital colônia
+Hospital de ensino
+Hospital escola
 Hospital especializado
 Hospital filantrópico
 Hospital geral
+Hospital particular
 Hospital privado
 Hospital público
 Hospital regional
 Hospital universitário
 Hospital-dia
-Unidade de Terapia Intensiva (UTI)
-Infecção hospitalar
-Plantão hospitalar
-Hospital de ensino
-Hospital escola
-Hospital particular
-Educação superior
 Hospitalização
 Idade gestacional
 ILPI
 IMC
+Implante cirúrgico
 Implante coclear
 Implante coclear (aparelho)
-Ouvido biônico
 Imunização
-Vacinação
 Imunobiológico
 Imunologia
+Índice de Massa Corporal (IMC)
 Indústria farmacêutica
-Laboratório farmacêutico
-Indústria
 Indústria farmacêutica nacional
 Indústria farmacêutica pública
+Infecção hospitalar
+Infectologia
 Informação médica
-Prontuário médico
-Teor de substância
+Informação nutricional
 Infração sanitária
 Insanidade mental
 Inseminação artificial
-Repelente
+Inseticida
 Inspeção federal
 Inspeção industrial
-Produto de origem animal
-Lar de idosos
-Direitos do idoso
+Inspeção sanitária
+Instituição de longa permanência para idosos (ILPI)
 Instituição de saúde
+Instituição hospitalar
+Instrumento cirúrgico
+Insulina
 Insulina análoga
+Internação compulsória
+Internação domiciliar
+Internação hospitalar
 Internação involuntária
-Tratamento psiquiátrico
 Internação voluntária
+Intervenção preventiva
 Inumação
-Sepultamento
+Isolamento de paciente
 Isolamento domiciliar
 Isolamento hospitalar
 Laboratório
+Laboratório de análises clínicas
 Laboratório de anatomia patológica
 Laboratório de citopatologia
+Laboratório farmacêutico
 Lactante
-Natimorto
-Recém-nascido
+Lactente
+Lança perfume
+Lanchonete
+Laqueadura de trompas
+Lar de idosos
 Laringe
 Laudo cadavérico
-Laudo pericial
 Laudo criminalístico
+Laudo necropapiloscópico
 Laudo papiloscópico
-Relatório pericial
-Perícia
-Prova (direito penal)
-Prova pericial
+Laudo pericial
 Leite humano
-Leite
 Leite materno
 Libido
+Lista de espera
 Lista única de espera
-Atendimento ao consumidor
-Atendimento preferencial
-Concurso público
-Direito de precedência
-Ordem cronológica
-Transplante de órgão ou tecido
 Lixeira
-Lixo
 Lixo hospitalar
-Resíduo infectante
-Resíduo perigoso
+Maconha
+Má-formação fetal
 Má-formação no feto
+Malefício
+Mamografia bilateral
 Manobra de Barlow
 Manobra de Ortolani
+Mastologia
+Material genético
+Material odontológico
 Material radioativo
-Energia nuclear
-Manuseio de material perigoso
-Resíduo radioativo
 Maternidade
-Mãe
-Remédio
+Maternidade de substituição
+MDMA
+Medicamento
 Medicamento anorexígeno
 Medicamento antimicrobiano
 Medicamento antirretroviral
@@ -884,347 +546,396 @@ Medicamento de referência
 Medicamento de uso contínuo
 Medicamento de uso controlado
 Medicamento de uso oral
+Medicamento entorpecente
 Medicamento fitoterápico
 Medicamento fracionado
 Medicamento genérico
 Medicamento hemoderivado
 Medicamento homeopático
+Medicamento magistral
+Medicamento manipulado
+Medicamento oral
+Medicamento órfão
+Medicamento por via oral
 Medicamento psicotrópico
 Medicamento similar
 Medicamento vencido
-Medicamento veterinário
-Placebo
-Soro terapêutico
-Medicamento oral
-Medicamento por via oral
-Medicamento entorpecente
-Produto fitoterápico
-Planta medicinal
-Medicamento magistral
-Medicina hiperbárica
+Medicina
+Medicina de família e comunidade
 Medicina do aparelho locomotor
-Alimentação do trabalhador
-Atividade insalubre
-Ergonomia
-Iluminação
-Prevenção da fadiga
-Saúde do trabalhador
-Tutela do trabalho
-Para tanto, utilizamos as chamadas câmaras hiperbáricas.
+Medicina do trabalho
+Medicina do tráfego
+Medicina esportiva
+Medicina física e reabilitação
+Medicina hiperbárica
+Medicina intensiva
 Medicina laboratorial
+Medicina legal
+Medicina nuclear
+Medicina preventiva e social
 Melhoramento genético
-Melhoramento genético animal
-Melhoramento genético vegetal
-Patrimônio genético
 Menstruação
+Metilenodioximetanfetamina (MDMA)
 Método contraceptivo
 MGF
 Microgerador de energia
-Gerador de energia
+Micro-organismo
+Moléstia
 Morta
+Mortalidade
 Mortalidade infantil
 Mortalidade materna
+Morte encefálica
 Morte presumida
-Pessoa desaparecida
 Morto
 Mudo
-Surdo-mudo
 Mulher
-Direitos das minorias
-Sexo feminino
 Música erudita
-Música sacra
 Música evangélica
-Música gospel
+Mutilação genital feminina
 Nado-morto
+Narcótico
 Nascimento
-Auxílio-natalidade
-Naturalidade
+Natimorto
+Necessidade dietoterápica
+Necrópsia
+Nefrologia
+Neurocirurgia
+Neurologia
 Notificação compulsória
-Violência contra a mulher
-Receita odontológica
-Serviços de odontologia
-Empresa operadora
-Rede privada de saúde
+Nutrição
+Nutrimento
+Nutrologia
+Obstetrícia
+Odontologia
+Oftalmologia
+Oncologia
+Operadora de plano de assistência à saúde
+Ópio
 Organismo geneticamente modificado
-Transgênico
-Tráfico de órgão ou tecido
+Órgão ou tecido humano
+Orientação psicológica
 Orientação sexual
-Opção sexual
-Discriminação de gênero
-Tratamento Manipulativo Osteopático (TMO)
+Órtese
+Ortopedia
+Osteopatia
+Otorrinolaringologia
 Ouvido
-Pessoa doente
+Ouvido biônico
+Paciente
+Paciente doador
 Paciente psiquiátrico
 Paciente receptor
 Paciente transplantado
-Pessoa com doença rara
-Usuário de serviço de saúde
 Papanicolaou
 Papanicolau
 PapTest
 Parecer médico
+Parto
 Parto antecipado
 Parto humanizado
 Parto normal
 Parto prematuro
 Parturiente
-Puerpério
-Licença à gestante
-Sintomatologia
+Patologia animal
+Patologia clínica
+Pediatria
 Perícia em odontologia
 Perícia odontológica
+Período menstrual
 Pesquisa biomédica
-Pesquisa científica
+Pesquisa clínica
 Pesquisa com seres humanos
-Ética em pesquisa
-Pessoa com necessidades especiais
-Pessoa deficiente
-Pessoa portadora de deficiência
-Pessoa portadora de necessidades especiais
-PNE (Portador de necessidade especial)
-Portador de deficiência
-Portador de necessidade especial
-Portador de necessidades especiais
-Pessoa
+Pessoa com deficiência
+Pessoa com deficiência auditiva
+Pessoa com deficiência física
+Pessoa com deficiência intelectual
 Pessoa com deficiência severa
-Acessibilidade
-Acompanhante de pessoa com deficiência
-Auxílio-inclusão
-Barreira
-Direito à assistência social
-Direito à educação
-Direito à mobilidade
-Direito à moradia
-Direito ao esporte
-Direito ao lazer
-Direito ao trabalho
-Direito ao transporte
-Direito ao turismo
-Direitos culturais
-Exercício domiciliar
+Pessoa com deficiência visual
+Pessoa com doença rara
 Pessoa com mobilidade reduzida
-Pessoa vulnerável
-Símbolo internacional de acesso
-Tomada de decisão apoiada
-Veículo adaptado
-Voz sintetizada
-Portador de deficiência auditiva
-Surdo
-Portador de deficiência física
-Pessoa com deficiência mental
-Portador de deficiência mental
-Portador de deficiência visual
-Pessoa portadora de doença rara
+Pessoa com necessidades especiais
 Pessoa com transtorno do especto do autismo
+Pessoa com transtorno do espectro autista
+Pessoa deficiente
+Pessoa doente
+Pessoa em situação de dependência
 Pessoa inválida
-Invalidez
+Pessoa portadora de deficiência
+Pessoa portadora de doença rara
+Pessoa portadora de necessidades especiais
+Placebo
 Placenta
-Pré-natal
-Plano privado de assistência à saúde
+Planejamento familiar
+Plano de saúde
 Plano de saúde coletivo empresarial
 Plano de saúde coletivo por adesão
 Plano de saúde diferenciado
 Plano de saúde familiar
 Plano de saúde hospitalar
 Plano de saúde individual
-Seguro-saúde
-Plantas
+Plano privado de assistência à saúde
+Planta psicotrópica
+Plantão hospitalar
+Pneumologia
+Podologia
 Policlínica
+Portador de deficiência auditiva
+Portador de deficiência física
+Portador de deficiência mental
+Portador de deficiência visual
+Portador de necessidade especial
+Portador de necessidades especiais
 Pós-parto
 Posto de saúde
-Recém-nascido prematuro
+Prematuro
+Pré-natal
 Prenhez
+Preservativo feminino
+Preservativo masculino
 Primeiros socorros
-Urgência médica
+Procedimento cirúrgico
+Procedimento médico
 Procriação medicamente assistida
 Produto de uso veterinário
-Receita veterinária
-Produtos
-Produto in natura
+Produto farmacêutico
+Produto fitoterápico
+Produto não comestível
 Produto óptico
 Produto ótico
 Produto para saúde
+Produto sem lactose
 Produto terapêutico
-Produto medicinal
 Profissional de saúde
 Programa de uso compassivo
 Promoção da saúde
 Pronto socorro especializado
 Pronto socorro geral
 Prontuário
-Habilitação
-Motorista
-Informação sigilosa
-Dados pessoais
+Prontuário médico
 Proteção sanitária vegetal
+Prótese
 Prótese dentária
 Prótese mamária
 Prótese ortopédica
+Protocolo clínico
 Prova Tuberculínica
 Psicanálise
+Psicologia
 Psicoterapia
-Ciências humanas
-Psicologia educacional
+Psicotrópico
+Psiquiatria
+Puerpério
 Pulmão
 Qualidade de vida
-Desenvolvimento sustentável
-Esporte
-Lazer
-Meio ambiente
-Turismo social
 Quarentena (administração pública)
-Conflito de interesses
 Quimioterapia
-Tratamento médico
 Radiação solar
 Radiação ultravioleta
-Energia solar
+Radiografia
+Radiologia
 Radioterapia
 Raticida
 Reação de Mantoux
 Reanimação cardiorrespiratória
+Receita médica
+Receita odontológica
+Receita veterinária
+Recém-nascido
+Recém-nascido prematuro
 Rede particular de saúde
+Rede privada de saúde
 Rede pública de saúde
+Reeducação alimentar
+Refrigerante
+Registro sanitário
 Relação sexual
+Remédio
+Repelente
 Repelente de inseto
+Reprodução humana
+Reprodução humana assistida
+Requisitos fitossanitários
 Residência em enfermagem
 Residência em saúde
-Residência pedagógica
+Residência médica
+Ressuscitação cardiopulmonar
+Restaurante
+Retardo mental
+Reumatologia
 Risco social
-Riscos (segurança)
-Vulnerabilidade social
+RNA
+Rótulo de alimento
 Rótulo do alimento
 Rótulo dos alimentos
-Rótulo do produto
 Saneamento
 Saneamento ambiental
 Saneamento básico
-Equipamento sanitário
+Saneante
 Saneante domissanitário
-Tipo sanguíneo
-Saúde indígena
-Serviços de saúde
+Sangue
+Saúde
+Saúde animal
+Saúde bucal
 Saúde escolar
-População indígena
-Integridade psicológica
-Gestão escolar
+Saúde indígena
+Saúde mental
+Saúde na escola
 Saúde ocupacional
-Ordem social
+Saúde pública
+Saúde sexual e reprodutiva
+Saúde suplementar
 Secretaria de saúde
-Seguro
+Sedação
+Sedativo
+Segurança alimentar e nutricional
+Seguro-saúde
 Semiologia (Medicina)
 Semiótica (Medicina)
+Sentido humano
+Sequela
 Seqüela
 Sequela física
 Sequela neurológica
 Sequela psicológica
-Violência física
-Serviços odontológicos
+Serviços de odontologia
+Serviços de saúde
 Serviços em saúde
-Discriminação sexual
-Homossexual
-Homossexualidade
-Intersexo
-Intersexual
-Intersexualidade
-Sexismo
-Transexual
-Transexualidade
-Educação sexual
-Traqueia
-Via respiratória
-Peso bruto
+Serviços odontológicos
+Setor farmacêutico
+Sexo
+Sexo feminino
+Sexo masculino
+Sexualidade
+Sintoma
+Sintomatologia
+Sistema auditivo
+Sistema respiratório
+Sobrepeso
+Socorro de emergência
 Sofrimento físico
 Sofrimento psicológico
-Violência psicológica
+Solução antisséptica
+Soro terapêutico
+Substância entorpecente
 Suicídio
-Auxílio ao suicídio
-Induzimento ao suicídio
-Instigação ao suicídio
+Surdez
+Surdo
+Surdo-mudo
 TAA
-Fumicultura
+Tabaco
 Tampa de segurança
+Tampa inviolável
 Tanatopraxia
+Teor de substância
+Terapia
+Terapia Assistida por Animais (TAA)
+Terapia ocupacional
 Teste da gotinha
-Triagem neonatal
+Teste da Orelhinha
 Teste da ponta de dedo
+Teste de alcoolemia
 Teste de bafômetro
-Serviço móvel de perícia
+Teste de Glicemia Capilar
 Teste de Papanicolaou
-Teste do Reflexo Vermelho
+Teste de Papanicolau
+Teste do coração
+Teste do Olhinho
+Teste do Pezinho
 Teste do Pezinho Ampliado
+Teste do Quadril
+Teste do Reflexo Vermelho
+Teste psicológico
+Teste sorológico
+Teste Tuberculínico
+Tipo sanguíneo
+Toalete
+Tomografia
 Tosa animal
-OGM
-Organismo transgênico
-Animal transgênico
-Planta transgênica
-Produto transgênico
+Tóxico
+Traço falciforme
+Tráfico de órgão ou tecido
+Transgênico
+Transplante de órgão ou tecido
 Transtorno comportamental
+Transtorno mental
+Traqueia
+Tratamento de saúde
 Tratamento em saúde
-Tratamento odontológico
 Tratamento especializado
-Ultrassonografia mamária
+Tratamento Manipulativo Osteopático (TMO)
+Tratamento médico
+Tratamento odontológico
+Tratamento psicológico
+Tratamento psiquiátrico
+Triagem neonatal
+Ultrassonografia
 Ultrassonografia da mama
+Ultrassonografia mamária
+Ultrassonografia transvaginal
 Unacon (Unidade de Assistência de Alta Complexidade em Oncologia)
+Unidade Básica de Saúde (UBS)
+Unidade de alimentação
+Unidade de Assistência de Alta Complexidade em Oncologia (Unacon)
 Unidade de Pronto Atendimento (UPA)
-UPA
+Unidade de saúde
+Unidade de terapia intensiva adulto
+Unidade de terapia intensiva móvel
+Unidade de terapia intensiva neonatal
+Unidade de terapia intensiva pediátrica
+Unidade de Terapia Intensiva (UTI)
+Unidade de Tratamento Intensivo (UTI)
 Unidade de vigilância em saúde
 Unidade mista de saúde
+Unidade móvel de saúde
 Unidade móvel fluvial de saúde
 Unidade pública de saúde
-Unidade de terapia intensiva adulto
-UTI adulto
-Unidade de terapia intensiva móvel
-UTI móvel
-Unidade de terapia intensiva neonatal
-UTI Neonatal
-Unidade de terapia intensiva pediátrica
-UTI pediátrica
-Unidade de Tratamento Intensivo (UTI)
-UTI
+UPA
+Urgência médica
+Urologia
+Uso compassivo
+Usuário de serviço de saúde
 Utensílio doméstico
-Instrumento de trabalho
-Vacina antirrábica
+UTI
+UTI adulto
+UTI móvel
+UTI Neonatal
+UTI pediátrica
+Vacina
 Vacina anti-rábica
+Vacina antirrábica
+Vacinação
+Vasectomia
+Vaso sanitário
+Veneno
+Vetor biológico
 Vetor (epidemiologia)
+Via respiratória
 Vida humana
-Vida
-Vida privada
-Vida pública
 Vigilância em saúde
-Controle fitossanitário
-Agrotóxico
-Boas práticas de fabricação
-Sanidade agropecuária
-Defesa sanitária animal
+Vigilância farmacológica
+Vigilância fitossanitária
+Vigilância sanitária
+Vigilância sanitária animal
 Vigilância zoosanitária
 Violência
-Problema social
-Bullying
-Violência moral
-Violência patrimonial
-Violência político-eleitoral
-Violência racial
-Violência sexual
-Violência verbal
-Agressor
-Conteúdo impróprio
-Cultura de paz
-Dano qualificado
-Vias de fato
-Agressão física
-Ofensa física
-Ato atentatório ao decoro parlamentar
-Integridade física
+Violência física
 Violência obstétrica
-Abuso sexual
-Exploração sexual
+Violência psicológica
+Violência sexual
+Vírus
 Vírus chikungunya
-Vírus Mayaro
-Zika vírus
 Virus da AIDS
 Virus da Imonudeficiência Humana
+Virus HIV
+Vírus Mayaro
 Vírus Zika
+Visão
 Visão monocular
+Visão subnormal
 Voz humana
+Voz sintetizada
+Zika vírus
+Zoonose
+Cancêr
+Hospital do câncer

@@ -1,791 +1,417 @@
 Abandono de posto
-Crime propriamente militar
 Arma
+Arma a laser
 Arma automática
+Arma bacteriológica
+Arma biológica
 Arma branca
+Arma branca de arremesso
+Arma branca de choque
+Arma branca de haste
 Arma de arremesso
 Arma de brinquedo
+Arma de caça
+Arma de caça de alma lisa
+Arma de caça de alma raiada
 Arma de choque
+Arma de destruição em massa
 Arma de energia direcionada
+Arma de energia dirigida
 Arma de fogo
+Arma de fogo de cano curto
+Arma de fogo de cano longo
+Arma de fogo portátil
 Arma de guerra
+Arma de porte
 Arma de pressão
+Arma de pressão por ação de gás comprimido
+Arma de pressão por ação de mola
 Arma de repetição
 Arma de uso permitido
 Arma de uso restrito
 Arma desmuniciada
+Arma ineficiente
 Arma não letal
-Arma semiautomática
-Armamento
-Cartucho (arma)
-Explosivo
-Instrumento do crime
-Porte de arma
-Produto controlado
-Tráfico de arma
-Arma a laser
-Arma bacteriológica
-Arma biológica
-Arma de destruição em massa
-Objeto contundente
-Objeto cortante
-Objeto perfurante
-Arma branca de arremesso
-Arma branca de choque
-Arma branca de haste
-Arma de caça
-Arma de caça de alma lisa
-Arma de caça de alma raiada
-Arma de choque elétrico
-Arma de eletrochoque
-Pistola de ondas T
+Arma não-letal
 Arma nuclear
 Arma química
 Arma radiológica
-Arma de energia dirigida
-Arma de fogo de cano curto
-Arma de fogo de cano longo
-Arma de fogo portátil
-Carabina
-Espingarda
-Fuzil
-Lança-foguete
-Metralhadora
-Mosquetão
-Pistola-metralhadora
-Pistolas
-Revólver
-Munição
-Recarga de munição
-Arma de porte
-Arma de pressão por ação de gás comprimido
-Arma de pressão por ação de mola
-Arma ineficiente
-Arma não-letal
-Instrumento de menor potencial ofensivo
-Bala de borracha
-Bastão de choque
-Canhão de água
-Gás lacrimogêneo
-Spray de pimenta
-Uso diferenciado da força
-Energia nuclear
 Arma semi-automática
+Arma semiautomática
+Armamento
 Artefato pirotécnico
 Artifício pirotécnico
-Fogo de artifício
 Atividade de contrainteligência
-Atividade de contrainformação
 Atividade de inteligência
-Serviço de inteligência
-Inteligência de segurança pública
-Inteligência policial
 Autoridade militar
-Autoridade
-Hierarquia militar
-Bala de arma
+Bala de borracha
+Bastão de choque
 Calamidade pública
-Defesa civil
-Desastre
-Estado de defesa
-Situação de emergência
 CAM
-Certificado de alistamento militar
 Câmera de monitoramento
 Câmera de segurança
 Câmera de vigilância
-Segurança eletrônica
-Segurança privada
-Segurança pública
+Canhão de água
+Carabina
 Carbine
-Certificado militar
+Cartucho (arma)
+Certificado de alistamento militar
 Certificado de dispensa de incorporação
 Certificado de isenção
 Certificado de reservista
-Serviço militar obrigatório
+Certificado militar
 Colégio naval
-Educação militar
 Comando militar de área
-Região militar
 Combate ao terrorismo
-Terrorismo
 Conselho militar
-Militar
-Presidente da República
-Segurança nacional
 Contraterrorismo
 Contraterrorista
-Terrorista
 Cooperação militar
-Cooperação técnico-militar
-Acordo de cooperação
-Acordo internacional
-Cooperação internacional
 Cooperação policial
-Cooperação federativa
+Cooperação técnico-militar
 Crime contra a segurança nacional
-Crime
 Crime de deserção
-Desertor
 Crime militar em tempo de paz
-Crime militar
 Critério de antiguidade
-Promoção por antiguidade
-Servidor público
 Critério de merecimento
-Promoção por merecimento
 Curso de formação militar
-Curso de formação
-Escola militar
 Desacato a superior
 Deserção
-Prisão administrativa
+Desertor
 Despojamento desprezível
 Desrespeito a símbolo nacional
 Desrespeito a superior
 Deveres militares
-Disciplina militar
 Dinamite
-Transgressão militar
+Disciplina militar
 Dispositivo eletrônico de controle (DEC)
 Distrito naval
-Militar da Marinha
 Dormir em serviço
 Efetivo militar
-Servidor público militar
 Ensino profissional marítimo
 Escola naval
-Dano qualificado
+Espingarda
+Explosivo
 Farda
-Uniforme (vestuário)
 Fardamento
+Fogo de artifício
 Forças armadas
-Aeronáutica
-Exército
-Marinha
-Artilharia
-Informação militar
-Licenciamento militar
-Militar das Forças Armadas
-Posto militar
-Reforma militar
-Reserva militar
-Serviço militar
-Soberania nacional
+Fuzil
+Gás lacrimogêneo
 Graduação militar
-Patente militar
 Graduado (militar)
-Praça (militar)
 Guerra
-Cultura de paz
-Estado de sítio
 Guerrilha
-Paz
-Pena de morte
-Refúgio
-Hierarquia
+Hierarquia militar
 Informação meteorológica
-Clima
+Instrumento de menor potencial ofensivo
+Licenciamento militar
 Meteorologia aplicada
-Tempo (meteorologia)
-Meteorologia
+Metralhadora
 Metralhadora de mão
 Missão militar
-Relações internacionais
+Mosquetão
 Munição de uso permitido
 Munição de uso restrito
+Patente militar
 Pederastia ou outro ato de libidinagem
-Taser
-Submetralhadora
-Prisão
-Entorpecente
-Medicamento
-Produto químico
-Vigilância sanitária
+Pistola de ondas T
+Pistola-metralhadora
+Pistolas
+Posto militar
+Praça (militar)
+Prisão administrativa
+Produto controlado
 Proteção balística
-Colete à prova de balas
-Veículo blindado
+Recarga de munição
+Reforma militar
+Região militar
+Reserva militar
 Reserva remunerada
 Reservista
+Revólver
 Sanção militar
-Sanção internacional
-Sanção cultural
-Sanção diplomática
-Sanção econômica
+Segurança nacional
+Serviço militar
 Serviço militar alternativo
 Serviço militar facultativo
+Serviço militar obrigatório
 Serviço militar voluntário
-Excesso de contingente
-Gás de pimenta
-Atentado
-Organização terrorista
+Situação de emergência
+Spray de pimenta
+Submetralhadora
+Taser
+Terrorismo
+Terrorista
+Transgressão militar
 Uniforme militar
-Material militar
 Veículo de segurança pública
 Viatura de segurança pública
 Viatura militar
-Veículo
-Luz intermitente
-Sirene automotiva
 Abandono de incapaz
-Periclitação da vida e da saúde
 Abandono material
-Alimentador
-Alimentando
-Pensão alimentícia
 Abigeato
-Abate de animal
-Animal
 Aborto
-Crime contra a vida
-Aborto espontâneo
 Aborto legal
 Aborto provocado
-Aborto terapêutico
-Atestado médico
-Gravidez
-Licença à gestante
-Licença remunerada
-Nascimento
 Abuso de autoridade
-Crime de abuso de autoridade
-Excesso de autoridade
-Excesso de poder
 Abuso de poder
-Afastamento cautelar
-Crime eleitoral
-Desvio de poder
-Controle externo da atividade policial
 Abuso sexual
-Violência sexual
 Ação criminal
-Ação penal
 Ação criminosa
 Ação judicial
-Causa judicial
-Ação cautelar
-Ação cível
-Ação civil pública
-Ação eleitoral
-Ação principal
-Ação rescisória
-Ação previdenciária
-Ajuizamento
-Decisão judicial
-Julgamento (direito civil)
-Medida cautelar
+Ação penal
 Ação penal privada
 Ação penal pública
-Assistente do Ministério público
-Persecução penal
 Ação penal pública condicionada
 Ação penal pública incondicionada
 Acordo de leniência
-Concorrência econômica
-Crime contra a administração pública
-Crime contra a ordem econômica
-Termo de compromisso
 Acusado
-Direito à ampla defesa
-Inquérito
-Investigado
-Parlamentar representado
-Processo administrativo disciplinar
-Processo disciplinar (processo legislativo)
-Réu
-Suspeito
 Adolescente em conflito com a lei
-Jovem em conflito com a lei
-Menor infrator
-Atendimento socioeducativo
-Estabelecimento para cumprimento de medida socioeducativa
-Maioridade penal
-Menor de idade
-Menoridade penal
 Adulteração de sinal identificador de veículo automotor
-Falsidade (crime)
 Advocacia
-Advocacia administrativa
-Advocacia em causa própria
-Advocacia privada
-Advocacia pública
-Exame de ordem
 Agravação da pena
 Agravação penal
 Agravamento da pena
 Agravamento de pena
-Circunstância agravante
 Agressão
 Agressão injusta
 Agressor
-Ato lesivo à honra e boa fama
-Demissão por justa causa
-Legítima defesa
-Lesão corporal
-Rixa
-Injusta agressão
-Violência
-Violência contra a mulher
-Violência doméstica
-Propositura
+Ajuizamento
 Algema
-Uso de algema
 Aliciamento de menores
-Corrupção de menores (Estatuto da Criança e do Adolescente)
 Aliciamento de trabalhadores de um local para outro do território nacional
-Crime contra a organização do trabalho
 Aliciamento para o fim de emigração
 Alteração de local especialmente protegido
-Patrimônio público
-Tombamento
 Alvará de soltura
 Alvará judicial
-Relaxamento de prisão
-Autorização judicial
-Ordem judicial
 Ameaça
-Crime contra a liberdade pessoal
-Grave ameaça
-Constrangimento
 Analogia (direito)
-Igualdade jurídica
 Antecedente criminal
-Circunstância judicial
 Aplicação da pena
-Dosimetria da pena
 Apologia de crime
-Crime contra a paz pública
 Apologia de criminoso
 Apostador
-Ponteiro
-Ganhador
-Jogo
-Perdedor
 Apropriação indébita
-Inserção de dados falsos em sistema de informação
 Assalto
-Homicídio
-Roubo
-Sequestro
 Assassinato
 Assassínio
 Assédio sexual em lugar acessível ao público
 Assédio sexual em lugar público
-Crime contra a dignidade sexual
 Assistência material
-Auxílio-reclusão
-Auxílio-vítima
 Assistente de acusação
-Ministério público
-Processo penal
+Assistente do Ministério público
 Associação criminosa
-Organização criminosa
 Associação secreta
-Contravenção referente à paz pública
 Atentado violento ao pudor
-Assédio sexual
 Atentado violento ao pudor de vulnerável
-Crime sexual contra vulnerável
 Atividade ilícita
 Atividade lícita
 Ato fraudulento
-Fraude
 Ato infracional
-Infração de menor
-Medida socioeducativa
 Ato lesivo à administração pública
 Ato libidinoso
 Ato obsceno
-Ato sexual
-Crime contra a liberdade sexual
-Pornografia
 Audiência admonitória
-Audiência de admoestação
-Audiência (processo penal)
-Regime aberto
-Suspensão condicional da pena
 Audiência apartada
+Audiência de admoestação
 Audiência de custódia
-Preso
-Prisão em flagrante
 Audiência judicial
-Audiência (processo civil)
+Audiência (processo penal)
 Auto de resistência
-Resistência (crime)
+Autorização judicial
 Autorização legal
 Auxílio ao suicídio
-Suicídio
-Auxílio-pecuniário
-Benefício previdenciário
+Auxílio-vítima
 Benefício do preso
-Comutação da pena
-Detração
-Indulto
-Progressão de regime prisional
-Remição da pena
-Unificação de penas
 Bracelete eletrônico de vigilância
-Tornozeleira eletrônica
 Busca domiciliar
 Busca e apreensão
 Busca pessoal
-Mandado de busca e apreensão
-Prova (direito penal)
-Ordem de prisão
 Cadeia
-Presídio
 Cadeia pública
 Caixa dois
 Caixa 2
-Crime de caixa dois
-Crime de caixa 2
-Corrupção
-Crime de sonegação fiscal
-Sonegação fiscal
 Calúnia
-Crime contra a honra
-Direito de resposta
-Retratação
-Violência moral
 Camcording
-Violação de direito autoral
 Cárcere privado
 Casa de custódia
-Hospital de custódia e tratamento psiquiátrico
 Casa de custódia e tratamento
 Casa do albergado
-Estabelecimento penal
 Castração química
 Causa de diminuição de pena
-Delação premiada
 Causa de extinção da punibilidade
 Causa extintiva da punibilidade
-Graça (direito penal)
-Extinção da punibilidade
-Punibilidade
 Causa impeditiva da prescrição
 Causa interruptiva da prescrição
 Causa suspensiva da prescrição
 Cena do crime
-Lugar do crime
 Censo penitenciário
-Dados estatísticos
 Cerimônia funerária
-Funeral
-Cerimônia
-Falecimento
 Cheque sem fundos
-Cheque
 Cidadão colaborador
 Circunscrição judiciária
-Região judiciária
-Comarca
-Circunstância legal
-Motivo torpe
+Circunstância agravante
 Circunstância atenuante
 Circunstância do crime
-Personalidade do agente
+Circunstância judicial
+Circunstância legal
 Circunstância qualificadora
 Citação (direito processual)
-Citação pessoal
-Citação por edital
-Intimação
 Clonagem de documentos
-Falsificação de documentos
 Coação
-Concurso de pessoas
 Co-autor
 Coautor
 Colaboração premiada
 Colônia agrícola
-Trabalho do preso
 Colônia industrial
 Comércio ilegal de arma de fogo
 Cominação da pena
 Cominação penal
 Competição automobilística ilegal
-Disputa automobilística ilegal
 Competição automobilística não autorizada
+Comutação da pena
 Concorrência desleal
-Cartel
-Crime econômico
-Dumping
-Monopólio
-Prática abusiva
-Prejuízo ao consumidor
-Crime plurissubjetivo
+Concurso de pessoas
 Concussão
 Concussão (direito penal)
-Vantagem indevida
 Condenação
-Confisco alargado
 Condição degradante de trabalho
-Trabalho degradante
-Trabalho escravo
-Trabalho forçado
 Condição negativa de punibilidade
-Imunidade penal absoluta
 Condução coercitiva
-Depoimento
-Desobediência (crime)
-Interrogatório
-Testemunha
 Conduta
 Conduta comissiva
 Conduta culposa
 Conduta dolosa
-Conduta omissiva
-Nexo de causalidade
 Conduta inconveniente
+Conduta omissiva
 Confisco
-Confisco de bens
-Capacidade contributiva
+Confisco alargado
 Conspiração (crime)
-Crime de conspiração
 Conspurcação
-Crime contra o ordenamento urbano e o patrimônio cultural
 Constituição de milícia privada
-Milícia privada
+Constrangimento
 Constrangimento ilegal
 Contrabando
-Crime praticado por particular contra a administração em geral
-Descaminho
-Facilitação de contrabando ou descaminho
 Contravenção penal
-Crime anão
-Crime-anão
-Delito anão
-Delito-anão
-Infração penal
 Contravenção referente à administração pública
 Contravenção referente à fé pública
 Contravenção referente à incolumidade pública
+Contravenção referente à paz pública
 Contravenção referente à pessoa
 Contravenção referente ao patrimônio
 Contravenção relativa à organização do trabalho
 Contravenção relativa à polícia de costumes
 Contraventor
-Falso alarma
-Perturbação do sossego alheio
-Perturbação do trabalho
-Provocação de tumulto
-Mendicância
-Polícia
+Controle externo da atividade policial
 Convivência social
-Comportamento humano
-Convivência comunitária
-Convivência familiar
-Isolamento social
-Ressocialização
 Corpo de delito
-Indício
-Crime de corrupção
-Problema social
+Corrupção
 Corrupção ativa
-Corrupção passiva
-Corrupção privada
-Enriquecimento ilícito
-Patrimônio ilícito
-Propina
-Suborno
 Corrupção ativa em transação comercial internacional
-Crime praticado por particular contra a administração pública estrangeira
 Corrupção de menores
 Corrupção de menores (ECA)
+Corrupção de menores (Estatuto da Criança e do Adolescente)
+Corrupção passiva
+Corrupção privada
+Crime
 Crime ambiental
+Crime anão
 Crime cibernético
 Crime comum
-Crime contra a família
-Crime contra a fé pública
-Crime contra a incolumidade pública
-Crime contra a ordem política e social
-Crime contra a ordem pública
-Crime contra a ordem tributária
-Crime contra a pessoa
-Crime contra a propriedade imaterial
-Crime contra o esporte
-Crime contra o patrimônio
-Crime contra o respeito aos mortos
-Crime contra o sentimento religioso
-Crime contra o Sistema Financeiro Nacional
-Crime contra pessoas vulneráveis
-Crime culposo
-Crime de responsabilidade
-Crime doloso
-Crime federal
-Crime permanente
-Crime qualificado
-Disparo de arma de fogo
-Extorsão mediante sequestro
-Omissão de cautela
-Porte ilegal de arma de fogo de uso permitido
-Porte ilegal de arma de fogo de uso restrito
-Posse ilegal de arma de fogo de uso restrito
-Posse ilegal de explosivo
-Posse irregular de arma de fogo de uso permitido
-Tentativa (crime)
-Tráfico internacional de arma de fogo
-Tráfico internacional de explosivos
-Assédio ideológico
-Boletim de ocorrência policial
-Crime de intolerância
-Crime organizado
-Criminalística
-Criminoso
-Impunidade
-Justiça restaurativa
-Operação policial
-Suspensão condicional do processo
-Vítima
-Crime contra o meio ambiente
 Crime contra a administração ambiental
-Crime contra a fauna
-Crime contra a flora
-Poluição
-Dano ambiental
-Meio ambiente
-Preservação ambiental
-Crime virtual
 Crime contra a Administração da Justiça
-Evasão de pessoa presa
-Evasão de pessoa submetida à medida de segurança
-Evasão mediante violência contra a pessoa
-Falso testemunho
-Favorecimento real
-Fuga de pessoa presa
-Fuga de pessoa submetida a medida de segurança
-Motim de presos
-Obstrução da Justiça
 Crime contra a administração militar
-Crime contra o dever funcional
-Crime de exercício funcional ilegalmente antecipado ou prolongado
-Crime de usurpação da função pública
-Crime praticado por funcionário público contra a administração em geral
-Falsa comunicação de ocorrência
-Ordenação de despesa não autorizada
-Violação de sigilo de proposta de concorrência pública
-Violação de sigilo de proposta de licitação
+Crime contra a administração pública
 Crime contra a assistência familiar
-Crime contra os costumes
-Exposição de intimidade
-Lenocínio e tráfico de pessoa
-Turismo sexual
+Crime contra a dignidade sexual
 Crime contra a existência da União
-Crime contra o estado de filiação
-Família
-Tráfico de animais silvestres
-Falsidade documental
+Crime contra a família
+Crime contra a fauna
+Crime contra a fé pública
+Crime contra a flora
 Crime contra a guarda e legal emprego dos dinheiros públicos
-Crime contra a saúde pública
-Crime contra a segurança dos meios de comunicação e transporte e outros serviços públicos
+Crime contra a incolumidade pública
 Crime contra a inviolabilidade de domicílio
-Violação de domicílio
 Crime contra a inviolabilidade de segredo
 Crime contra a inviolabilidade de segredos
 Crime contra a inviolabilidade do segredo
 Crime contra a inviolabilidade dos segredos
-Crime informático
 Crime contra a lei orçamentária
 Crime contra a liberdade individual
-Redução à condição análoga a de escravo
-Violação à liberdade de produzir comunicação
-Estupro
-Violação sexual mediante fraude
+Crime contra a liberdade pessoal
+Crime contra a liberdade sexual
 Crime contra a mulher
-Feminicídio
-Vandalismo
-Vândalo
-Tributo
+Crime contra a ordem política e social
+Crime contra a ordem pública
+Crime contra a ordem tributária
+Crime contra a paz pública
+Crime contra a pessoa
 Crime contra a probidade na administração
+Crime contra a propriedade imaterial
 Crime contra a propriedade intelectual
-Usurpação de nome alheio
-Usurpação de pseudônimo alheio
-Exercício ilegal de profissão de saúde de nível superior
-Crime de obstrução do direito de ir e vir
+Crime contra a saúde pública
+Crime contra a segurança dos meios de comunicação e transporte e outros serviços públicos
 Crime contra a segurança interna do país
-Gerontocídio
-Induzimento ao suicídio
-Infanticídio
-Instigação ao suicídio
-Lgbtcídio
-Genocídio
+Crime contra a vida
 Crime contra homossexual e transgênero
-Homossexual
-Transgênero
 Crime contra o cumprimento das decisões judiciárias
+Crime contra o dever funcional
+Crime contra o esporte
+Crime contra o estado de filiação
 Crime contra o exercício dos direitos políticos, individuais e sociais
 Crime contra o exercício dos poderes constitucionais
 Crime contra o idoso
-Estelionato contra o idoso
-Pichação
-Estelionato
-Furto
-Receptação
-Usurpação
-Ocultação de cadáver
-Vilipêndio a cadáver
-Impedimento de culto religioso
-Perturbação de culto religioso
-Ultraje a culto
-Vilipêndio público de culto religioso
-Objeto religioso
-Crime do Colarinho Branco
-Culpa
+Crime contra o meio ambiente
+Crime contra o ordenamento urbano e o patrimônio cultural
+Crime contra o patrimônio
+Crime contra o respeito aos mortos
+Crime contra o sentimento religioso
+Crime contra o Sistema Financeiro Nacional
+Crime contra os costumes
+Crime contra pessoas vulneráveis
+Crime culposo
+Crime de abuso de autoridade
+Crime de caixa dois
+Crime de caixa 2
+Crime de conspiração
+Crime de corrupção
 Crime de excesso de exação
-Excesso de exação (crime)
+Crime de exercício funcional ilegalmente antecipado ou prolongado
 Crime de exposição de intimidade
-Crime de ódio
-Discriminação
-Preconceito
+Crime de intolerância
 Crime de obstrução da liberdade de locomoção
+Crime de obstrução do direito de ir e vir
+Crime de ódio
 Crime de perigo comum
-Desabamento
-Incêndio culposo
 Crime de resistência
-Advogado-Geral da União
-Crime funcional
-Impeachment
-Ministro de Estado
-Ministro do Supremo Tribunal Federal
-Prefeito
-Prestação de informação falsa
-Procurador-Geral da República
-Usurpação de competência
-Vice-Presidente da República
+Crime de responsabilidade
 Crime de tentativa
 Crime de trânsito
-Delito de trânsito
-Acidente de trânsito
-Condução sob efeito de álcool
-Condução sob efeito de substância psicoativa
-Motorista alcoolizado
-Motorista drogado
-Motorista embriagado
 Crime de uso de documento falso
-Uso de documento falso
-Dolo
-Justiça federal
-Cargo público
-Empregado público
-Função pública
+Crime do Colarinho Branco
+Crime doloso
+Crime econômico
+Crime federal
+Crime funcional
 Crime hediondo
-Latrocínio
 Crime impropriamente militar
-Delito informático
-Invasão de dispositivo informático
-Cracker
-Fotografia íntima
-Vídeo íntimo
-Emprego irregular de rendas públicas
-Emprego irregular de verbas públicas
-Prevaricação
-Tráfico de influência em transação comercial internacional
-Estupro de vulnerável
-Pedofilia
-Pornografia infantil
+Crime informático
+Crime militar
+Crime organizado
+Crime permanente
+Crime plurissubjetivo
+Crime praticado por funcionário público contra a administração em geral
+Crime praticado por particular contra a administração em geral
+Crime praticado por particular contra a administração pública estrangeira
+Crime propriamente militar
+Crime qualificado
+Crime sexual contra vulnerável
 Crime tentado
-Ciência criminal
-Perícia criminal
+Crime-anão
+Criminalística
+Criminoso
+Culpa
 Culpa consciente
 Culpa grave
 Culpa gravíssima
@@ -798,85 +424,52 @@ Custas
 Custas do processo
 Custas judiciais
 Custas processuais
-Despesa processual
-Emolumento
-Honorários de sucumbência
-Ônus da sucumbência
 Custódia
-Detenção
-Compensação ambiental
-Garimpagem
-Risco ambiental
+Dano ambiental
 Dano cibernético
-Segurança de computador
-Vírus de computador
 Dano imaterial
-Dano social
-Dano material
+Dano qualificado
 Decisão colegiada
 Decisão definitiva
-Julgamento definitivo
 Decisão monocrática
 Decisão singular
-Agravo interno
-Recurso extraordinário
 Declaração falsa
-Documento falso
-Documento oficial
-Informação falsa
 Defesa
-Defesa escrita
 Defesa prévia
-Defesa técnica
-Defensor dativo
 Delação
-Perdão judicial
-Tomada de depoimento
-Escuta especializada
-Denunciado
-Denunciante
+Delação premiada
+Delito anão
+Delito de trânsito
+Delito informático
+Delito-anão
+Depoimento
+Desabamento
+Descaminho
+Desobediência (crime)
+Despesa processual
 Despesas judiciais
 Despesas jurídicas
 Despesas processuais
 Destruição de correspondência
-Sigilo de correspondência
 Desvio de finalidade
-Pena de detenção
-Libertação
+Desvio de poder
+Detenção
 Detento
+Detração
 Dia-multa
-Pena de multa
-Sistema de dias-multa
 Difamação
-Conteúdo infringente
-Reputação
 Direito criminal
-Direito penal
 Direito de recorrer em liberdade
-Direito de recorrer
-Direito de petição
-Recurso judicial
-Direito público interno
-Matéria penal
+Direito penal
 Direito penitenciário
-Pena privativa de liberdade
-Sistema carcerário
 Direito processual penal
-Direito processual
 Discriminação racial
-Crime imprescritível
-Crime inafiançável
-Igualdade racial
-Preconceito racial
-Racismo
 Discriminação religiosa
-Perseguição religiosa
+Disparo de arma de fogo
+Disputa automobilística ilegal
 Disputa automobilística não autorizada
-Pega
-Racha
-Disputa automobilística
-Condução perigosa
-Documento
+Documento falso
+Dolo
 Dolo de dano
 Dolo de perigo
 Dolo direto
@@ -886,731 +479,686 @@ Dolo geral
 Dolo indireto
 Dolo normativo
 Dolo subsequente
-Vício de consentimento
+Dosimetria da pena
 Duplo grau de jurisdição
-Jurisdição
 Efeito da condenação
 Efeito específico
 Efeito genérico
 Egresso
-Ex-detento
-Ex-presidiário
-Execução penal
-Liberdade condicional
-Mercado de trabalho
 Emancipação
 Emancipação civil
-Emancipação penal
-Maioridade
 Emancipação criminal
+Emancipação penal
 Embriaguez
-Alcoolemia
-Bebida alcoólica
+Emprego irregular de rendas públicas
+Emprego irregular de verbas públicas
 Esbulho possessório
-Ação possessória
 Escusa absolutória
 Escusa relativa
-Imunidade penal relativa
 Escuta ambiental
-Instrução processual penal
-Investigação criminal
 Escuta especial
-Escuta especializada de crianças e adolescentes
+Escuta especializada
 Escuta qualificada
-Direitos da criança e do adolescente
 Especialização de hipoteca legal
-Medida assecuratória
 Estabelecimento de internação para menores infratores
-Unidade de cumprimento de medida socioeducativa
-Estabelecimento prisional
-Cela
+Estabelecimento para cumprimento de medida socioeducativa
+Estabelecimento penal
 Estabelecimento penal de segurança máxima
 Estabelecimento penal federal
 Estabelecimento penal federal de segurança máxima
+Estabelecimento prisional
 Estado de necessidade
-Excludente de ilicitude
+Estelionato
+Estelionato contra o idoso
 Estrito cumprimento de dever legal
-Estupro compartilhado
-Estupro corretivo
-Estupro qualificado
+Estupro
 Estupro coletivo
 Estupro coletivo de vulnerável
+Estupro compartilhado
 Estupro compartilhado de vulnerável
-Homossexualidade
+Estupro corretivo
+Estupro de vulnerável
+Estupro qualificado
 Eutanásia
-Direito à vida
-Morte encefálica
 Evasão cambial
 Evasão de divisas
-Remessa ilegal de capitais para o estrangeiro
-Transferência ilegal de dinheiro para o estrangeiro
-Transferência de capital
-Capital estrangeiro
-Remessa para o exterior
+Evasão de pessoa presa
+Evasão de pessoa submetida à medida de segurança
+Evasão mediante violência contra a pessoa
 Exação
-Exercício regular de direito
+Excesso de autoridade
+Excesso de exação (crime)
+Excesso de poder
+Excludente de ilicitude
+Ex-detento
 Execução da pena
+Execução penal
 Execução penal provisória
 Execução provisória da pena
-Exercício ilegal da profissão
+Exercício ilegal de profissão de saúde de nível superior
+Exercício regular de direito
 Exploração sexual
-Prostituição
+Exposição de intimidade
 Exposição pública de intimidade
-Mídia
-Prescrição da pena
-Sequestro relâmpago
+Ex-presidiário
+Extinção da punibilidade
+Extorsão mediante sequestro
+Facilitação de contrabando ou descaminho
+Falsa comunicação de ocorrência
+Falsidade (crime)
+Falsidade documental
 Falsidade ideológica
-Cartão bancário
-Carteira de Identidade (CI)
-Perjúrio
-Misoginia
+Falsificação de documentos
+Falso alarma
+Falso testemunho
+Favorecimento real
+Feminicídio
 Fiança
-Fiança bancária
-Fiança civil
-Aval
-Contrato de fiança
 Flagrante delito
 Flagrante esperado
 Flagrante preparado
 Flagrante provado
 Foro especial
-Foro privilegiado
 Foro especial por prerrogativa de função
 Foro por prerrogativa de função
 Foro privativo
-Privilégio de foro
-Agente político
-Imunidade formal
+Foro privilegiado
 Foto íntima
-Fotografia
-Material erótico
+Fotografia íntima
+Fraude
 Fraude à execução
+Fuga de pessoa presa
+Fuga de pessoa submetida a medida de segurança
+Furto
+Furto de pequeno valor
 Furto famélico
 Furto privilegiado
 Furto qualificado
-Furto de pequeno valor
+Genocídio
+Gerontocídio
+Graça (direito penal)
+Grave ameaça
 Habeas corpus
-Remédio constitucional
-Habeas corpus de ofício
-Habeas corpus preventivo
-Habeas corpus repressivo
-Liberdade de locomoção
-Mandado de segurança
+Homicídio
 Homicídio culposo
 Homicídio doloso
 Homicídio qualificado
 Homicídio simples
-Chacina
-Manicômio judiciário
-Internado
+Hospital de custódia e tratamento psiquiátrico
+Impedimento de culto religioso
 Importunação ofensiva ao pudor
 Impronúncia
-Sentença de impronúncia
+Impunidade
 Imputabilidade penal
 Imunidade penal
+Imunidade penal absoluta
+Imunidade penal relativa
 Incapaz
-Representação processual
+Incêndio culposo
 Incidente processual
-Questão incidental
-Questão incidente
-Incidente de Resolução de Demandas Repetitivas
-Procedimento incidente
-Questão prejudicial
-Processo incidental
 Incitação à prática de trote
-Inquérito policial
-Permissão de saída
-Saída temporária
-Informação sigilosa
-Propaganda
+Indício
+Indulto
+Induzimento ao suicídio
+Infanticídio
+Informação falsa
 Informante confidencial
+Infração de menor
+Infração penal
 Infração penal de menor potencial ofensivo
 Infração penal de repercussão interestadual
 Infração penal de repercussão internacional
 Infrator
-Infração disciplinar (esporte)
 Inimputabilidade penal
 Injúria
+Injusta agressão
+Inquérito policial
 Inquérito policial eletrônico
-Procedimento processual de inquérito policial
-Termo Circunstanciado de Ocorrência (TCO)
-Peculato
-Produto do crime
+Inserção de dados falsos em sistema de informação
+Instigação ao suicídio
+Instrumento do crime
 Insulto
-Ofensa
 Integridade física
 Integridade moral
-Integridade psicológica
-Violência física
-Preso internado
-Medida de segurança
-Notificação (direito processual)
-Prévia intimação pessoal do devedor
+Internado
+Interrogatório
+Intimação
+Invasão de dispositivo informático
+Investigado
 Irretroatividade da lei
-Ultratividade da lei
 Jogo de azar
 Jogo do bicho
-Loteria
 Jornada exaustiva de trabalho
+Jovem em conflito com a lei
 Juizado especial criminal
-Juizado especial
 Juizado especial criminal digital
 Juízo especializado
-Vara especializada
+Julgamento definitivo
 Jurisdição penal
 Justiça comutativa
-Justiça retributiva
 Justiça corretiva
 Justiça diortótica
-Filosofia do direito
-Mediação de conflitos
-Pena
-Reparação do dano
+Justiça restaurativa
 Justiça retificadora
+Justiça retributiva
+Latrocínio
 Lavagem de dinheiro
-Dinheiro
+Legítima defesa
 Lenocínio
-Tráfico de pessoas
-Tráfico humano
-Rufianismo
-Tráfico de crianças
-Tráfico de mulheres
+Lenocínio e tráfico de pessoa
+Lesão corporal
 Lesão corporal culposa
 Lesão corporal dolosa
 Lesão corporal grave
 Lesão corporal gravíssima
 Lesão corporal leve
 Lesão corporal seguida de morte
-Livramento condicional
+Lgbtcídio
+Liberdade condicional
 Liberdade provisória
-Reclusão
+Libertação
+Livramento condicional
 Local do crime
+Lugar do crime
+Maioridade penal
+Mandado de busca e apreensão
 Mandado de prisão
-Matéria
+Manicômio judiciário
+Matéria penal
 Matéria processual penal
-Conteúdo impróprio
+Material erótico
 Maus-tratos
+Mediação de conflitos
 Mediação extrajudicial
 Mediação judicial
-Autocomposição (direito civil)
 Medida acauteladora
 Medida acautelatória
-Arresto
-Sequestro de bens
-Evento ao ar livre
-Riscos (segurança)
+Medida assecuratória
+Medida cautelar
+Medida de segurança
 Medida privativa de liberdade
-Pena alternativa
-Pena de limitação de fim de semana
 Medida protetiva de urgência
+Medida socioeducativa
+Mendicância
+Menor infrator
+Menoridade penal
 Milícia
 Milícia militar
 Milícia paramilitar
+Milícia privada
 Milícia pública
-Organização paramilitar
-Machismo
-Sexismo
+Misoginia
 Monitoração eletrônica
 Monitoramento eletrônico
-Prisão domiciliar
-Regime semiaberto
-Rebelião de presos
-Rebelião
+Motim de presos
+Motivo torpe
 Necrochorume
-Chorume
-Cadáver
 Nexo causal
-Relação de causalidade
+Nexo de causalidade
 Notificação compulsória
+Notificação (direito processual)
 Notificação eletrônica
-Notificação
 Nulidade processual
-Nulidade
-Processo judicial
 Objeto de culto religioso
-Assistência religiosa
+Objeto religioso
+Obstrução da Justiça
+Ocultação de cadáver
 Ofendido
-Violência verbal
+Ofensa
 Ofensa direta
 Ofensa indireta
+Omissão de cautela
 Omissão de socorro
-Associação paramilitar
-Grupo armado
-Grupo de extermínio
+Ônus da sucumbência
+Ordem de prisão
+Organização paramilitar
 Patrimônio
-Acervo patrimonial
-Patrimônio ambiental
-Patrimônio arqueológico
-Patrimônio arquitetônico
-Patrimônio arquivístico
-Patrimônio artístico
-Patrimônio bibliográfico
-Patrimônio cultural
-Patrimônio de afetação
-Patrimônio espeleológico
-Patrimônio etnográfico
-Patrimônio genético
-Patrimônio histórico
-Patrimônio imaterial
-Patrimônio indígena
-Patrimônio material
-Patrimônio natural
-Patrimônio paisagístico
-Patrimônio privado
-Patrimônio religioso
-Patrimônio turístico
-Patrimônio urbano
-Curadoria
-Livro do tombo
+Patrimônio ilícito
+Peculato
+Pedofilia
+Pega
+Pena
 Pena acessória
-Pena não privativa de liberdade
-Pena principal
-Pena restritiva de direitos
-Prestação social alternativa
-Transação (direito)
-Penalidade pecuniária
-Transação penal
+Pena alternativa
+Pena de detenção
+Pena de limitação de fim de semana
+Pena de multa
 Pena de multa criminal
 Pena de perdimento
-Perdimento
 Pena de reclusão
+Pena não privativa de liberdade
 Pena não-privativa de liberdade
-Perda civil de bens
-Prestação de serviços à comunidade
+Pena principal
+Pena privativa de liberdade
+Pena restritiva de direitos
 Penitenciária
+Perda civil de bens
+Perdão judicial
+Perdimento
 Perdimento da mercadoria
 Perdimento de moeda
 Perdimento do veículo
 Perempção
-Decadência
-Extinção do contrato
-Prazo decadencial
-Prescrição administrativa
-Perícia
-Teste do polígrafo
+Perícia criminal
+Periclitação da vida e da saúde
+Periculosidade
 Perigo para a saúde de outrem
 Perigo para a vida de outrem
-Periculosidade
-Adicional de periculosidade
-Atividade perigosa
-Condições de trabalho
 Período para repouso
-Intervalo para repouso ou refeição
-Regime fechado
+Perjúrio
+Permissão de saída
 Persecução criminal
-Investigação preliminar
-Réu foragido
+Persecução penal
+Personalidade do agente
+Perturbação de culto religioso
+Perturbação do sossego alheio
+Perturbação do trabalho
 Pessoa presa
-Presa
-Pessoa vulnerável
-Cidade
+Pichação
 Pirataria
 Polícia técnico-científica
-Poluição ambiental
-Poluição sonora
-Impacto ambiental
-Poluente
+Poluição
 População carcerária
-Pornografia de vingança
+Pornografia
 Pornografia de revanche
-Revenge porn
-Porte ilegal de arma
+Pornografia de vingança
+Pornografia infantil
+Porte de arma
 Porte de droga para consumo próprio
+Porte ilegal de arma
+Porte ilegal de arma de fogo de uso permitido
+Porte ilegal de arma de fogo de uso restrito
 Posse de droga para uso pessoal
-Presidiária
+Posse ilegal de arma de fogo de uso restrito
+Posse ilegal de explosivo
+Posse irregular de arma de fogo de uso permitido
+Presa
 Presa gestante
 Presa parturiente
 Prescrição criminal
+Prescrição da pena
 Prescrição penal
+Presidiária
 Presidiário
-Revista de visitante
-Visita íntima
-Prisioneiro
-Recluso
+Presídio
+Preso
 Preso comum
 Preso condenado
 Preso especial
-Preso político
+Preso internado
 Preso provisório
-Avaliação multiprofissional
-Contato físico
-Direitos do preso
-Regime prisional
-Tratamento degradante
-Tratamento desumano
-Visita à família
-Prisão especial
 Prestação de serviço comunitário
+Prestação de serviços à comunidade
+Prestação social alternativa
 Pretensão executória
 Pretensão punitiva
-Sentença condenatória
+Prevaricação
 Princípio da alteridade
 Princípio da transcedentalidade
-Princípio da insignificância
+Prisão
 Prisão cautelar
+Prisão domiciliar
+Prisão em flagrante
+Prisão especial
 Prisão permanente revisável
-Prisão provisória
 Prisão preventiva
+Prisão provisória
 Prisão temporária
+Prisioneiro
+Privilégio de foro
+Procedimento incidente
+Procedimento processual de inquérito policial
 Processo comum
-Processo civil
 Processo especial
-Procedimento especial
+Processo incidental
 Processo incidente
-Procedimento ordinário
-Procedimento sumário
-Procedimento sumaríssimo
-Processo judicial eletrônico
-Despacho saneador
-Prescrição intercorrente
-Princípio da celeridade processual
-Princípio da simplicidade
-Processo criminal
-Decoro parlamentar
-Prazo processual
-Terceiro
+Processo judicial
+Processo penal
 Produto de crime
-Proveito do crime
+Produto do crime
+Progressão de regime prisional
+Propina
+Prostituição
+Prova (direito penal)
 Prova ilícita
 Prova lícita
 Prova pericial
-Documento particular
-Laudo pericial
 Prova técnica (direito penal)
 Prova testemunhal
+Proveito do crime
+Provocação de tumulto
+Punibilidade
 Quadrilha
+Questão incidental
+Questão incidente
+Questão prejudicial
+Racha
+Rebelião
+Rebelião de presos
 Recaptura de foragido
-Recompensa
 Receita médica
-Especialidade médica
-Receita odontológica
+Receptação
 Receptação culposa
 Receptação de animal
 Receptação dolosa
 Receptação qualificada
+Reclusão
+Recluso
+Recompensa
 Recurso adesivo
-Recurso especial
-Recurso ordinário
 Recurso em sentido estrito
-Recurso strictu sensu
-Recurso extraordinário eleitoral
+Recurso extraordinário
+Recurso judicial
 Recurso jurídico
-Agravo
-Embargo de declaração
-Embargo de divergência
-Embargo protelatório
-Embargos infringentes
-Recurso eleitoral
-Interposição de recurso
-Litigância de má-fé
-Trabalho análogo ao escravo
-Subseção judiciária
+Recurso strictu sensu
+Redução à condição análoga a de escravo
+Região judiciária
+Regime aberto
 Regime disciplinar diferenciado
 Regime disciplinar diferencial
+Regime fechado
+Regime prisional
+Regime semiaberto
 Reintegração social
+Relação de causalidade
+Relaxamento de prisão
+Remessa ilegal de capitais para o estrangeiro
+Remição da pena
 Representação do ofendido
-Reputação ilibada
+Representação processual
+Reputação
+Resistência (crime)
 Responsabilidade
-Avaliação de desempenho
-Estágio probatório
 Responsabilidade criminal
-Responsabilidade penal
 Responsabilidade objetiva
-Responsabilidade civil
-Responsabilidade subjetiva
 Responsabilidade pessoal
-Dirigente esportivo
-Responsabilidade solidária
+Ressocialização
+Retratação
 Retroatividade da lei
+Réu foragido
 Réu primário
 Réu reincidente
 Reutilização indevida de dispositivo médico implantável
-Dispositivo médico de uso único
-Dispositivo médico implantável
+Revenge porn
 Revista manual (segurança pública)
-Revista íntima manual
 Rito especial
 Rito ordinário
 Rito sumário
 Rito sumaríssimo
+Roubo
 Roubo circunstanciado
 Roubo de uso
 Roubo impróprio
 Roubo próprio
 Roubo qualificado
+Rufianismo
 Saída judicial
+Saída temporária
 Saidão
 Sanção administrativa
-Penalidade administrativa
 Seção judiciária
 Sentença absolutória
-Sentença judicial
+Sentença condenatória
+Sentença de impronúncia
 Sentença declaratória
 Sentença estrangeira
 Sentença parcial
-Pessoa desaparecida
+Sequestro
+Sequestro relâmpago
 Servidão por dívida
+Sistema carcerário
+Sistema de dias-multa
 Sistema penitenciário
+Suborno
+Subseção judiciária
+Suicídio
 Sujeito ativo
-Sujeito passivo
 Sujeito passivo direto
 Sujeito passivo indireto
 Sursis
+Suspeito
+Suspensão condicional da pena
+Suspensão condicional do processo
 Sustentação oral
-Prática forense
 TCO
 Tentativa branca
+Tentativa (crime)
 Tentativa de crime
 Tentativa imperfeita
-Tentativa perfeita
 Tentativa inacabada
+Tentativa perfeita
 Termo circunstanciado
+Termo Circunstanciado de Ocorrência (TCO)
 Testemunha de defesa
 Tipicidade conglobante
-Tipicidade penal
 Tipicidade formal
 Tipicidade material
+Tipicidade penal
+Tomada de depoimento
+Tornozeleira eletrônica
+Trabalho análogo ao escravo
 Trabalho compulsório
 Trabalho de presidiário
-Trabalho prisional
+Trabalho degradante
+Trabalho do preso
+Trabalho escravo
+Trabalho forçado
 Trabalho obrigatório
+Trabalho prisional
 Traficante
 Tráfico
+Tráfico de animais silvestres
+Tráfico de arma
+Tráfico de crianças
 Tráfico de droga
-Tráfico de influência
-Fauna
-Tráfico de entorpecente
-Tráfico ilícito de droga
-Tráfico privilegiado de droga
 Tráfico de droga privilegiado
-Trabalhador
+Tráfico de entorpecente
+Tráfico de influência em transação comercial internacional
+Tráfico de mulheres
+Tráfico de pessoas
+Tráfico humano
+Tráfico ilícito de droga
+Tráfico internacional de arma de fogo
+Tráfico internacional de explosivos
+Tráfico privilegiado de droga
+Transação penal
+Transferência ilegal de dinheiro para o estrangeiro
+Tratamento degradante
+Tratamento desumano
 Tribunal de Justiça do Estado
-Tribunal de Justiça estadual
+Ultraje a culto
+Ultratividade da lei
+Unidade de cumprimento de medida socioeducativa
+Unificação de penas
+Uso de algema
+Uso de documento falso
+Usurpação
+Usurpação de nome alheio
+Usurpação de pseudônimo alheio
+Vandalismo
+Vândalo
 Vantagem econômica
-Improbidade administrativa
-Vara judiciária
+Vantagem indevida
+Vara especializada
 Vencido
-Autor (processo civil)
 Vias de fato
 Vídeo
-Vídeo-aula
-Filme
+Vídeo íntimo
+Vilipêndio a cadáver
+Vilipêndio público de culto religioso
+Violação à liberdade de produzir comunicação
 Violação de correspondência
-Violação do domicílio
-Direito à inviolabilidade de domicílio
-Inviolabilidade do domicílio
-Prestação de socorro
-Concorrência (licitação)
-Licitação
-Proposta de licitação
+Violação de direito autoral
+Violação de domicílio
+Violação de sigilo de proposta de concorrência pública
+Violação de sigilo de proposta de licitação
 Violação do direito
-Direitos fundamentais
-Bullying
+Violação sexual mediante fraude
+Violência
+Violência contra a mulher
+Violência doméstica
+Violência familiar
+Violência física
+Violência material
+Violência moral
 Violência patrimonial
 Violência político-eleitoral
 Violência psicológica
 Violência racial
-Violência obstétrica
-Violência familiar
-Agressão física
-Ofensa física
-Ato atentatório ao decoro parlamentar
-Sequela física
-Sofrimento físico
-Violência material
-Agressão moral
-Ofensa moral
-Assédio moral
-Dano moral
-Direito à integridade moral
-Bens
-Sofrimento psicológico
+Violência sexual
+Violência verbal
+Visita à família
+Visita íntima
 Vista dos autos
-Autos
-Pedido de vista
+Vítima
 Abordagem policial
-Uso progressivo da força
 Ação policial
 Acidente aquático
-Acidente
 Afogamento
 Agente de segurança pública
-Profissional da segurança pública
 Agente penitenciário
 Alarme automotivo
-Alarme sonoro
-Automóvel
 Alarme residencial
+Arma de choque elétrico
+Arma de eletrochoque
+Artilharia
 Atendimento policial
+Atentado
+Atividade de contrainformação
 Atividade de segurança pública
-Órgão de segurança pública
 Atuação coercitiva
-Poder de polícia
 Aviso de alerta
-Projétil balístico
+Bala de arma
 Batalhão de polícia
 Boate
-Casa noturna
-Delegacia de polícia
+Boletim de ocorrência policial
 Bombeiro militar
 Cadastro biométrico
-Identificação biométrica
-Estabelecimento comercial
+Casa noturna
+Cela
+Chacina
+Ciência criminal
 Comércio ilegal
-Comércio
-Contato pessoal
-Cooperação técnica
-Cooperação tecnológica
+Contato físico
+Cooperação federativa
+Defesa civil
 Delegacia da criança e do adolescente
-Delegacia especializada
 Delegacia da mulher
+Delegacia de polícia
+Delegacia especializada
 Delegacia regional de polícia
-Delegacia do idoso
-Delegacia sindical
-Desastre ambiental
-Assistência humanitária internacional
+Desastre
 Detector de mentira
 Detector de metal
 Dispositivo de rastreamento
-Sistema de Posicionamento Global (GPS)
 Equipamento militar
-Colégio militar
+Escola militar
 Escolta armada
 Estrangeiro
-Cidadão estrangeiro
-Estrangeiro domiciliado no Brasil
-Estrangeiro não domiciliado no Brasil
-Autorização de residência
-Cidadão
-Deportação
-Nacionalidade estrangeira
-Repatriação
 Exame necropapiloscópico
-Laudo necropapiloscópico
 Força aérea
 Fortaleza (arquitetura)
 Forte (arquitetura)
 Fortificação (arquitetura)
-Arquitetura e Urbanismo
-Edifício
+Gás de pimenta
+Grupo de extermínio
 Grupo operacional
 Guarda portuária
-Polícia portuária
-Segurança portuária
-Porto
-Registro biométrico
-Identificação biométrica do eleitor
-Coletor biométrico
-Cor de pele
-Dados biométricos
+Identificação biométrica
 Identificação civil
 Identificação criminal
-Identificação eletrônica
 Iluminação intermitente
 Incêndio
-Incêndio florestal
-Queimada
-Rota de saída
-Saída de emergência
-Informação
-Prontuário médico
+Informação militar
+Informação sigilosa
+Inteligência de segurança pública
+Inteligência policial
 Lança foguete
+Lança-foguete
 Laudo cadavérico
 Laudo criminalístico
+Laudo necropapiloscópico
 Laudo papiloscópico
-Relatório pericial
+Laudo pericial
 Luz de rotação
+Luz intermitente
 Luz vermelha intermitente
-Ambulância
-Perícia cível
-Perícia médica
-Perícia odontológica
-Perícia papiloscópica
-Comissão Parlamentar de Inquérito (CPI)
-Comissão Parlamentar Mista de Inquérito (CPMI)
+Material militar
+Munição
+Objeto contundente
+Objeto cortante
+Objeto perfurante
+Operação policial
+Organização criminosa
+Organização terrorista
+Órgão de segurança pública
+Perícia
 Perícia necropapiloscópica
-Pessoa
-Ausência (direito civil)
-Morte presumida
-Pessoa ausente
-Policial
+Perícia papiloscópica
+Pessoa desaparecida
+Polícia
 Polícia administrativa
+Polícia civil
 Polícia de choque
 Polícia de segurança
-Polícia civil
-Polícia judiciária
-Polícia investigativa
-Polícia ostensiva
 Polícia federal
 Polícia ferroviária federal
-Polícia penitenciária
+Polícia investigativa
+Polícia judiciária
 Polícia militar
 Polícia militar ambiental
-Policial militar
-Polícia rodoviária federal
+Polícia ostensiva
 Polícia penal
-Bloqueio viário policial
+Polícia penitenciária
+Polícia portuária
+Polícia rodoviária federal
+Policial
 Posse irregular
-Posse ilegítima
 Primeiros socorros
-Socorro de emergência
+Profissional da segurança pública
 Profissional de segurança pública
+Projétil balístico
 Proteção pessoal
-Segurança pessoal
 Proteção pessoal especial
-Segurança do trabalho
 Pulseira de identificação
+Registro biométrico
 Reinserção social
-Assistência psicossocial
+Revista de visitante
 Revista eletrônica (segurança pública)
+Revista íntima manual
+Riscos (segurança)
+Rota de saída
+Saída de emergência
 Scanner corporal
-Risco
-Risco de morte
-Risco iminente
-Risco social
-Perigo
-Segurança de produto
-Equipamento de proteção coletiva
 Segurança aérea
 Segurança aeronáutica
+Segurança da navegação
+Segurança de tráfego
 Segurança de voo
+Segurança eletrônica
+Segurança institucional
+Segurança marítima
+Segurança metroviária
 Segurança na aviação
+Segurança no trânsito
 Segurança no transporte aéreo
 Segurança nos transportes
-Acidente aéreo
-Aeronave
-Aeroporto
-Infraestrutura aeronáutica
-Infraestrutura aeroportuária
-Infraestrutura portuária
-Tráfego aéreo
-Transporte aéreo
-Segurança da navegação
-Segurança marítima
-Segurança de tráfego
-Segurança no trânsito
-Vigilância eletrônica
-Segurança institucional
-Acidente marítimo
-Transporte aquático
-Veículo aquático
-Segurança metroviária
-Transporte metroviário
-Barreira nos transportes
-Educação para o trânsito
-Limitador de velocidade
+Segurança pessoal
+Segurança portuária
+Segurança privada
+Segurança pública
 Segurança rodoviária
-Segurança veicular
-Trânsito
-Transporte de passageiro
-Autoridade portuária
-Transporte de valores
-Vigilância patrimonial
-Infraestrutura rodoviária
-Rodovia
-Transporte rodoviário
-Ressuscitação cardiopulmonar
-Transporte de emergência
+Serviço de inteligência
+Sirene automotiva
+Socorro de emergência
+Teste do polígrafo
+Uso diferenciado da força
+Uso progressivo da força
+Vigilância eletrônica
 Vigilância não ostensiva
 Vigilância ostensiva
+Vigilância patrimonial
 Violência urbana
+Policial Federal
+Redução da Maioridade Penal
+Recrudescimento penal

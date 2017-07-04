@@ -1,584 +1,266 @@
 Acelerador de partículas
-Física (ciência)
 Agrimensão
 Agrimensura
-Engenharia de Agrimensura
-Geociências
 Animal transgênico
-Animal
-Transgênico
 Atividade espacial
-Estação espacial
-Missão espacial
-Satélite artificial
 Automação de processo
-Processo de trabalho
 BIM
-Modelagem da informação na construção
 Biogás
-Biocombustível
 Biotecnologia
-Ciência multidisciplinar
-Conhecimento tradicional
 Bolsa de pesquisa
-Auxílio-educação
-Bolsa de estímulo à inovação
-Bolsa de estudo
 Bônus tecnológico
-Subvenção
-Política de inovação
 Caixa postal eletrônica
-Endereço de correio eletrônico
-Endereço de e-mail
-Caixa postal eletrônica institucional
-Caixa postal eletrônica pessoal
-Correio eletrônico
 Capacidade (medida)
-Unidade de medida
 Célula-tronco
-Clonagem terapêutica
-Engenharia genética
 Chave particular
-Criptografia
 Chave pública
-Certificação digital
 Ciência
-Artes
-Ciência interdisciplinar
-Ciências agrárias
-Ciências biológicas
-Ciências da saúde
-Ciências exatas e da terra
-Ciências humanas
-Ciências sociais aplicadas
-Educação (Ciência)
-Engenharia
-Letras (ciência)
-Linguística
-Ensino
-Evento científico
-Política científica
 Ciência da computação
 Ciência da população
-Demografia (ciência)
 Ciências contábeis
-Administração (ciência)
-Contabilidade
-Astronomia
-Matemática
-Probabilidade e Estatística
-Química (ciência)
+Ciências exatas e da terra
 Ciências oceânicas
-Ciências ambientais
 Ciências radiológicas
 Clima
 Climatologia
-Informação meteorológica
-Meteorologia
-Mudança climática
-Satélite meteorológico
-Tempo (meteorologia)
+Clonagem terapêutica
 Código de acesso
-Senha
 Código de segurança
 Coletor biométrico
 Coletor biométrico de impressão digital
-Leitor biométrico de impressão digital
-Dados biométricos
-Identificação biométrica
 Comprimento
 Cooperação científica
-Cooperação internacional
 Cooperação técnica
-Cooperação federativa
 Cooperação tecnológica
-E-mail
-Sistema eletrônico de comunicação
-Correio eletrônico institucional
-Cliente de e-mail
-Correspondência eletrônica
-Fax
-Lista de distribuição de e-mails
-Meio eletrônico
-Propaganda eletrônica
-Servidor de e-mail
-Spam
-Registro digital do voto
-Segurança de dados
+Correio eletrônico
+Criptografia
 Dados sísmicos
-Geofísica
-Terremoto
 Desenho técnico
-Arquitetura e Urbanismo
-Desenho industrial
-Projeto técnico (Construção civil)
 Desenvolvimento tecnológico
-Inovação tecnológica
-Pesquisa tecnológica
 Design gráfico
-Identidade visual
 Dessalinização
-Água salgada
-Consumo humano
-Planta de dessalinização
 Digitalização
-Acervo arquivístico
 Disseminação da informação
-Informação
 Dissertação (texto)
-Redação (texto)
 Documento digital
 Documento eletrônico
-Documento digitalizado
-Documento nato-digital
-Preservação digital
-Publicação eletrônica
-Documento
+E-mail
 Empresa
-Agência
-Empresa binacional
-Empresa coletiva
-Empresa comercial
 Empresa de comunicação
-Empresa de grande porte
-Empresa de transporte
-Empresa estatal
-Empresa estrangeira
-Empresa individual
-Empresa individual de responsabilidade limitada
-Empresa industrial
-Empresa jornalística
-Empresa multinacional
-Empresa nacional
-Empresa operadora
-Empresa privada
-Empresa transnacional
-Filial
-Matriz (empresa)
-Média empresa
-Microempresa
-Pequena empresa
-Sucursal
-Competitividade empresarial
-Construtora
-Conta individualizada
-Conta vinculada do FGTS
-Custo operacional
-Desinvestimento
-Empresa sindicalizada
-Estrutura organizacional
-Fundo de comércio
-Gestão empresarial
-Grupo econômico
-Incubadora de empresas
-Liquidação extrajudicial
-Parceiro comercial
-Parceria comercial
-Personalidade jurídica
-Pesquisa de mercado
-Pessoa jurídica
-Processo organizacional
-Qualificação econômico-financeira
-Razão social
-Responsabilidade social
-Seguradora
-Sociedade empresária
-Sucessão empresarial
-Engenharia aeroespacial
-Engenharia ambiental
-Engenharia automotiva
-Engenharia biomédica
-Engenharia civil
-Engenharia de campo
-Engenharia de materiais e metalúrgica
-Engenharia de minas
-Engenharia de produção
-Engenharia de produção mecânica
-Engenharia de segurança do trabalho
-Engenharia de transportes
-Engenharia elétrica
-Engenharia geológica
-Engenharia naval e oceânica
-Engenharia nuclear
-Engenharia química
-Engenharia sanitária
+Engenharia
 Engenharia agrícola
 Engenharia agronômica
-Agronomia
+Engenharia ambiental
 Engenharia Cartográfica
-Cartografia
+Engenharia de Agrimensura
 Engenharia de alimentos
-Ciência e tecnologia de alimentos
+Engenharia de campo
 Engenharia de Cartografia
 Engenharia de pesca
-Recursos pesqueiros
-Engenharia mecânica
-Segurança do trabalho
+Engenharia de produção mecânica
+Engenharia de segurança do trabalho
 Engenharia de tráfego
-Equipamento elétrico
-Microeletrônica
+Engenharia de transportes
+Engenharia elétrica
+Engenharia genética
+Engenharia geológica
+Engenharia química
 Ensaio de motor
-Teste de motor
 Entidade provedora de tecnologia social
-Tecnologia social
 Equipamento de áudio
-Equipamento de som
 Equipamento eletrônico
-Equipamento
-Cigarro eletrônico
-Componente eletrônico
-Jogo eletrônico
-Painel eletrônico
-Portão eletrônico
-Radar eletrônico
-Sistema eletrônico de autenticação de documentos
-Sistema eletrônico de votação
-Terminal eletrônico de autoatendimento
 Espaço cósmico
 Espaço exterior
 Espaço extra-atmosférico
 Espaço sideral
+Estação espacial
 Estação Rádio Base (ERB)
-Antena de celular
 Estudo
-Estudo dirigido
-Aprendizagem
 Estudos de gênero
-Estudos culturais
-Estudos sociais
-Feminismo
-Identidade de gênero
 Estudos políticos
-Ciência Política
+Estudos sociais
 Ética em pesquisa
-Pesquisa com seres humanos
-Pesquisa científica
 Experimento científico
 Fator de conversão
-Movimento social
-Participação política
+Feminismo
 Fertilização in vitro
-Reprodução humana assistida
+Física (ciência)
 Fundação de apoio
-Administração indireta
-Fundação privada
-Fundação pública
-Geologia
+Geofísica
 GPS (Sistema de Posicionamento Global)
-Sistema de Posicionamento Global (GPS)
 ICT
-Instituição científica, tecnológica e de inovação (ICT)
 Inclusão digital
-Tecnologia da informação
 Indústria farmacêutica
-Laboratório farmacêutico
-Indústria
-Indústria farmacêutica nacional
-Indústria farmacêutica pública
-Produto farmacêutico
 Indústria química
-Petroquímica
-Produto químico
-Informação bibliográfica
-Informação legislativa
-Informação militar
-Informação privilegiada
-Informação sigilosa
-Campanha educativa
-Cópia de segurança
-Dados
-Notícia
-Meteorologia aplicada
+Informação
+Informação meteorológica
 Infraestrutura tecnológica
-Infraestrutura
-Infraestrutura de conectividade
-Comunicação de dados
-Comunicação de voz
-Parque tecnológico
-Pesquisa acadêmica
+Inovação tecnológica
 Instituição científica
 Instituição científica e tecnológica [ICT]
+Instituição científica, tecnológica e de inovação (ICT)
 Instituição de pesquisa científica e tecnológica
-Núcleo de inovação tecnológica [NIT]
-Educação superior
-Instituição de Ensino Superior (IES)
-Instituição de ensino superior pública
 Intranet
-Rede de computadores
+Leitor biométrico de impressão digital
 Levantamento bibliográfico
-Pesquisa bibliográfica
 Massa (medida)
-Peso
 Matemática aplicada
 Medidor de energia elétrica
-Relógio de luz
-Energia elétrica
 Medidor de vazão de fluido
-Hidrômetro
-Água
-Autos eletrônicos
-Comércio eletrônico
-Governo eletrônico
-Lixo eletrônico
-Pregão eletrônico
-Radar meteorológico
+Meio eletrônico
+Meteorologia
+Meteorologia aplicada
 Microfilme
-Produto audiovisual
-Microfilmagem
 Migração tecnológica
-Tecnologia
-Construção civil
-Especificação técnica
-Memorial descritivo
-Projeto básico
+Missão espacial
+Modelagem da informação na construção
 Modelo de utilidade
-Patente de modelo de utilidade
 Nanotecnologia
-Nanochip
 NIT
+Núcleo de inovação tecnológica [NIT]
 Obra científica
-Obra intelectual
-Direito autoral
 Obra rara
-Biblioteca
 Ortografia
-Vocabulário
 Página eletrônica
-Sítio (internet)
+Parque tecnológico
 Password
-Patente de invenção
-Patente de produto
-Propriedade intelectual
-Royalty
+Patente de modelo de utilidade
 Pesca científica
-Pesca
+Peso
 Peso bruto
-Sobrepeso
 Pesquisa astronômica
+Pesquisa científica
+Pesquisa com seres humanos
 Pesquisa de astronomia
-Pesquisa agrícola
-Pesquisa pecuária
-Pesquisa biomédica
 Pesquisa socioeconômica
-Educação profissional e tecnológica
+Pesquisa tecnológica
 Planetário
+Política científica
+Política de inovação
 Política tecnológica
-Dados estatísticos
-Fator de ponderação
-Indicador econômico
-Indicador social
+Probabilidade e Estatística
 Produção sustentável
-Consumo sustentável
-Fármaco
-Medicamento
-Exposição humana
-Lavagem de roupa
-Produto controlado
+Produto farmacêutico
+Produto químico
 Psicologia educacional
 Psicologia escolar
-Psicologia
-Educação
-Publicação
-Livro digital
+Publicação eletrônica
+Radar meteorológico
 Radioatividade
+Relógio de luz
 Roupa
-Vestuário
-Lingerie
-Roupa típica
-Provador de roupa
+Satélite artificial
 Satélite comercial
 Satélite de comunicação
 Satélite de reconhecimento
-Telecomunicação
+Satélite meteorológico
+Senha
 Sistema analógico
+Sistema de Posicionamento Global (GPS)
 Sistema digital
 Sistema híbrido
-Tecnologia analógica
-Dispositivo de rastreamento
-Tecnologia digital
 Site
 Sítio eletrônico
-Tecnologia da informação e comunicação (TIC)
+Tecnologia
+Tecnologia analógica
+Tecnologia digital
+Tecnologia social
+Telecomunicação
+Televisão fechada
+Tempo (meteorologia)
+Teoria da relatividade
+Teste de motor
 Transferência de tecnologia
 Transmissão analógica
 Transmissão digital
-Inclusão social
-Teleconferência
-Televisão fechada
-Televisão por assinatura
-Teoria da relatividade
-Motor
 Turismo (ciência)
+Unidade de medida
+Vestuário
 Volume (medida)
-Uniforme (vestuário)
 Zootecnia
-Ovinocaprinocultura
-Produção animal
-Prova zootécnica
-Rebanho
 Acessório para telefone celular
-Telefone celular
 Antena
 Antena coletiva
+Antena de celular
 Antena parabólica
 Aparelho celular
 Aparelho de som
 Aparelho de telefone
-Telefone
 Aparelho telefônico
 Aplicativo móvel
 App
-Software aplicativo
-Dispositivo móvel
-Segurança da informação
-Smartphone
 AR
-Aviso de Recebimento (AR)
 Artigo de revista
-Revista
 Assinante
-Jornal
-Operadora de telefonia fixa
-Operadora de telefonia móvel
-Provedor de acesso
 Assinatura básica de telefonia
-Conta telefônica
-Linha telefônica
-Telefonia
 Atendimento domiciliar
 Atendimento em domicílio
-Concessionária de serviço de telecomunicação
-Visita técnica
 Audiência acumulada
-Audiência na mídia
 Audiência cativa
 Audiência duplicada
 Audiência efetiva
-Audiência primária
 Audiência líquida
-Audiência simples
 Audiência média
-Espectador
-Mídia
+Audiência na mídia
+Audiência primária
+Audiência simples
 Áudio
-Som
 Audiodescrição
-Estenotipia
-Deficiência visual
-Pessoa com deficiência visual
-Serviços postais
+Aviso de Recebimento (AR)
 Banca de jornal e revista
-Estabelecimento comercial
-Publicação periódica
 Bloco personalizado
-Material gráfico
 Brainstorming
-Evento
 Capacidade excedente
-Infraestrutura compartilhada
-Produção econômica
 Cartão de cumprimentos
-Cartão personalizado
 Cartão de gabinete
 Cartão de visita
+Cartão personalizado
 Cartaz
 Celular
 CFTV
 Circuito Fechado de Televisão (CFTV)
 Circuito interno de televisão
-Televisão
 Classificação indicativa
-Conteúdo impróprio
-Obra audiovisual
 Closed caption (CC)
-Legenda oculta
 Cobertura de rede
-Banda larga fixa
-Banda larga móvel
-Rede de telecomunicações
-Serviço móvel celular
 Colóquio
 Comunicação confidencial
-Dados pessoais
 Comunicação institucional
-Comunicação corporativa
-Comunicação organizacional
-Comunicação social
 Comunicação privada
-Contato pessoal
-Comunicação (ciência)
-Liberdade de expressão
-Liberdade de expressão de comunicação
-Mensagem
-Ordem social
-Profissional de comunicação
+Comunicação social
 Comunicação visual
-Banner
-Boneco
-Cavalete
-Estandarte
-Faixa
-Folder
-Placa
-Propaganda
-Propaganda eleitoral
-Sinalização
 Concessionária de serviço de comunicação multimídia
-Operadora de serviço de comunicação multimídia
 Conclave
 Conferência
 Congresso
 Congresso internacional
-Conferência internacional
-Conta de telefone
-Conta de consumo
+Conta telefônica
 Conteúdo audiovisual
-Acervo audiovisual
 Conteúdo educativo
-Programa educativo
-Adolescente
+Conteúdo impróprio
 Conteúdo infringente
-Criança
-Material erótico
-Obra cultural
-Pornografia
-Violência
-Difamação
-Ofensa
-Ordem judicial
-Rede social digital
 Controle dos pais
 Controle parental
 Convenção
 Coprodução cinematográfica
-Obra cinematográfica
-Produção cinematográfica
-Mensagem eletrônica
+Correio eletrônico institucional
+Correspondência eletrônica
 Debate
-Debate por capítulo
-Debate por grupo de artigos
-Debate por seção
-Debate por título
-Discussão
-Proposição legislativa
 Destinatário
-Encomenda
-Remetente
 Direito de passagem
 Edição
-Livro
 Elemento de rede telecomunicações
-Operadora de plano de assistência à saúde
-Operadora de turismo
-Gravação
+Empresa operadora
+Encomenda
+Equipamento de som
 Equipamento gráfico
 Estação de telecomunicações
 Estação móvel (terminal)
-Telecomunicações
-Torre de telecomunicação
-Legenda em tempo real
+Estenotipia
+Evento
 Evento ao ar livre
 Evento beneficente
+Evento científico
 Evento cívico
 Evento cultural
 Evento de lazer
@@ -588,359 +270,338 @@ Evento governamental
 Evento informativo
 Evento político
 Evento promocional
-Evento público
 Evento religioso
 Evento social
 Evento turístico
-Apoio logístico
-Cronograma
 Exposição (evento)
+Exposição pública
+Facebook
+Fac-símile
+Fax
 Feira (evento)
 Fórum
-Jornada (evento)
-Mesa-redonda
-Mostra (evento)
-Oficina (evento)
-Palestra
-Programa de visitas
-Reunião
-Seminário
-Simpósio
-Vernissage
-Vídeoconferência
-Workshop
-Acessibilidade
-Medida de segurança
-Espetáculo
-Lazer
-Evento esportivo
-Campeonato
-Esporte
-Comício
-Showmício
-Concurso de beleza
-Religião
-Turismo
-Exposição pública
-Rádio
-Facebook
-Internet
-Fac-símile
 Franquia de dados
-Dados digitais
 Franquia postal
-Selo postal
 Impressão
 Impressão gráfica
-Plotagem
-Papel de impressão
-Tipografia
-Indústria gráfica
 Impresso
+Indústria gráfica
 Indústria videofonográfica
-Indústria audiovisual
-Artigo de jornal
+Jornada (evento)
+Jornal
 Jornalismo
-Reportagem
 LAN houses
-LAN house
 Legenda descritiva
-Transmissão ao vivo
-Deficiência auditiva
-Pessoa com deficiência auditiva
+Legenda em tempo real
+Legenda oculta
 Ligação telefônica
-Ramal telefônico
+Linha telefônica
 Local Area Network house
 Logo
-Logotipo
 Logomarca
-Publicidade
+Logotipo
 Manuscrito
-Autor (publicação)
 Massificação
-Comunicação de massa
-Papel ofício personalizado
-Separata
+Material gráfico
 Material informativo
-Boletim informativo
 Meios de comunicação
+Mensagem eletrônica
+Mesa-redonda
+Mídia
 Mídia digital
+Mídia estrangeira
 Mídia impressa
 Mídia internacional
-Mídia regional
-Exposição de intimidade
-Mídia estrangeira
-Mostra cultural
+Mostra (evento)
+Notícia
 Notícia jornalística
+Oficina (evento)
 Onda sonora
-Pacote de serviços
-Plano de serviços
-Concessionária de serviço de telefonia
-Telefonia móvel
+Operadora de serviço de comunicação multimídia
+Operadora de telefonia fixa
+Operadora de telefonia móvel
 Orelhão
-Telefone público
+Pacote de serviços
+Palestra
+Papel de impressão
+Papel ofício personalizado
 Plano alternativo de serviço
-Serviços de telecomunicações
+Plano de serviços
 Ponto adicional
 Potência
-Eletricidade
-Sinal de rádio
-Sistema irradiante
-Profissional de jornalismo
-Televisão educativa
-Recursos didáticos
-Clipe musical
-Jingle
+Produção cinematográfica
+Produto audiovisual
+Profissional de comunicação
+Programa de visitas
+Programa educativo
+Propaganda
+Propaganda eletrônica
 Propaganda institucional
-Agência de modelo
-Apelo sexual
-Informação falsa
-Marketing
-Recall
 Radar civil
-Radionavegação
 Radar militar
+Rádio
+Rádio AM
 Rádio digital
+Rádio FM
 Radiocomunicação
 Radiodifusão
-Radiofrequência
-Rádio AM
-Radiodifusão sonora em amplitude modulada
-Rádio FM
-Radiodifusão sonora em frequência modulada
 Radiodifusão comunitária
 Radiodifusão de sons e imagens
 Radiodifusão educativa
 Radiodifusão pública
 Radiodifusão sonora
-Serviço de Retransmissão de Televisão (RTV)
+Radiodifusão sonora em amplitude modulada
+Radiodifusão sonora em frequência modulada
 Radiodifusão sonora em onda curta
 Radiodifusão sonora em onda tropical
 Radiodifusão sonora em ondas médias
-Serviço de Retransmissão de Rádio (RTR)
+Radiofrequência
+Radionavegação
 Radiorreceptor
 Radiotransmissor
-Tráfego aéreo
-Reunião da Mesa Diretora
-Reunião de comissão
+Ramal telefônico
+Rede de telecomunicações
+Remetente
+Reportagem
+Reunião
+Revista
 RTR
 RTV
-Casa da Moeda do Brasil (CMB)
+Selo postal
+Seminário
+Separata
+Serviço de Retransmissão de Rádio (RTR)
+Serviço de Retransmissão de Televisão (RTV)
 Serviço de telegrama
-Telegrama
-Serviço de mensagens curtas
+Serviço móvel celular
 Serviço móvel pessoal (SMP)
-SMP
 Serviço postal
 Serviço Telefônico Fixo Comutado (STFC)
-STFC
-Telefone fixo
-Telefonia fixa
 Serviços de comunicação
+Serviços de telecomunicações
+Simpósio
+Sinal de rádio
 Sinal de telefone
 Sinal de televisão
 Sistema de antenas
+Sistema irradiante
 SMC
-Fonograma
+SMP
+Som
+STFC
 Suspensão temporária de serviços
 Telecentro
-Estação repetidora
-Estação transmissora
-Telefone sem fio
-Direito ao sigilo telefônico
-Sigilo telefônico
-Trote telefônico
-Telefone móvel
+Telecomunicações
+Teleconferência
+Telefone
+Telefone celular
 Telefone celular corporativo
 Telefone celular pós-pago
 Telefone celular pré-pago
-Dispositivo informático
-Telefone celular institucional
 Telefone de uso público
-Conta de usuário
+Telefone fixo
+Telefone móvel
+Telefone público
+Telefone sem fio
+Telefonia
+Telefonia fixa
 Telemarketing
-TV
+Televisão
 Televisão aberta
 Televisão digital
+Televisão educativa
 Televisão estatal
+Televisão por assinatura
 Televisão privada
 Televisão pública
-Seriado
+Tipografia
+Torre de telecomunicação
+Transmissão ao vivo
+Transmissão direta
+Transmissão em tempo real
+Trote telefônico
+TV
 TV Câmara
 TV Justiça
 TV Senado
-Transmissão direta
-Transmissão em tempo real
-Webcasting
+Veículos de comunicação
+Vernissage
 Via postal
 Vídeo-conferência
-Assistência técnica
+Vídeoconferência
+Visita técnica
 Web streaming
+Webcasting
+Workshop
 Ambiente computacional
-Sistema computacional
 Aplicativo de mensagens multiplataforma
-Aplicativo Whatsapp
 Aplicativo digital
 Aplicativo eletrônico
 Aplicativo Infoleg
 Aplicativo Uber
-Uber
-Carona solidária
-Táxi
-Whatsapp
+Aplicativo Whatsapp
 Autoridade certificadora
-Entidade certificadora
 Backup
 Banco de dados
+Banda larga fixa
+Banda larga móvel
 Base de dados
-Informática
-Metadados
-Motor de busca
-Processamento de dados
-Sistema de informação
-Sistema integrado de dados
 Blog (internet)
 Business Intelligence
-Inteligência de negócios
-Endereço de correio eletrônico institucional
-Endereço de e-mail institucional
-Endereço de correio eletrônico pessoal
-Endereço de e-mail pessoal
+Caixa postal eletrônica institucional
+Caixa postal eletrônica pessoal
 Censo escolar
 Censo penitenciário
 Certificação
-Certificação ambiental
-Certificação de boas práticas
-Selo de certificação
+Certificação digital
 Certificado digital
 Chip
-Circuito integrado
 Ciberbullying
-Bullying
 Circuito impresso
-Componente elétrico
-Microchip
-Identificação eletrônica
+Circuito integrado
 Cliente de correio eletrônico
+Cliente de e-mail
 Código QR
 Código rápido
-QR Code
+Componente elétrico
 Computação gráfica
-Desenho animado
-Efeito especial
 Computador
-Hardware
-Comunicação homem máquina
-Equipamento de informática
-Serviços de informática
-Terminal (informática)
 Computador de mão
 Comunicação das máquinas
-Comunicação máquina a máquina
-Pacote de dados
+Comunicação de dados
+Comunicação de voz
 Comunicação homem computador
-M2M
-Usuário de serviços
+Comunicação homem máquina
+Comunicação máquina a máquina
+Conta de usuário
 Cracker
-Crime informático
-Hacker
 Crime cibernético
+Crime informático
 Crime virtual
-Crime
-Delito informático
-Crime contra a inviolabilidade de segredos
-Invasão de dispositivo informático
-Fotografia íntima
-Vídeo íntimo
 Cyber café
+Dados
 Dados abertos
-Dados bancários
+Dados biométricos
 Dados cadastrais
+Dados digitais
+Dados estatísticos
 Dados estruturados
-Dados fiscais
-Dados geoespaciais
-Infraestrutura Nacional de Dados Abertos (INDA)
 Dados informáticos
-Velocidade de download
-Velocidade de upload
-Censo agropecuário
-Informações pessoais
-Informação bancária
-Informação financeira
-Informação fiscal
-Prontuário médico
+Dados pessoais
 Dano cibernético
-Segurança de computador
-Vírus de computador
+Delito informático
 Desenvolvimento de sistemas
-Software
 Disco rígido
+Dispositivo informático
+Dispositivo móvel
+Documento digitalizado
+Documento nato-digital
+Educação digital
+Endereço de correio eletrônico
+Endereço de correio eletrônico institucional
+Endereço de correio eletrônico pessoal
+Endereço de e-mail
+Endereço de e-mail institucional
+Endereço de e-mail pessoal
+Entidade certificadora
+Equipamento de informática
+e-reader
+Governo eletrônico
+Hacker
+Hardware
+Identificação eletrônica
+INDA (Infraestrutura Nacional de Dados Abertos)
+Informática
+Infraestrutura de conectividade
+Infraestrutura Nacional de Dados Abertos (INDA)
+Inteligência de negócios
+Internet
+LAN house
+Laptop
 Leitor digital
+Licença de uso de software
+Lista de distribuição de correio eletrônico
+Lista de distribuição de e-mails
+Máquina virtual
+Microchip
+Microeletrônica
+Modem
+Motor de busca
+Motor de pesquisa
+M2M
+Nanochip
 Netbook
 Notebook
+Pacote de dados
+Página web
 Palmtop
-Tablet
-Educação digital
-Educação a distância
 Plataforma digital
-e-reader
-Democracia digital
-Democracia direta
-INDA (Infraestrutura Nacional de Dados Abertos)
-Rede sem fio
-WEB
-World Wide Web
-Cultura digital
-Modem
+Plataforma eletrônica
+Plataforma virtual
+Programa aplicativo
+Programa de computador
+Provedor de acesso
 Provedor de aplicações
+Provedor de backbone
+Provedor de conexão
+Provedor de conteúdo
 Provedor de correio eletrônico
 Provedor de estrutura
 Provedor de hospedagem
-Segurança cibernética
-Laptop
-Licença de uso de software
-Lista de distribuição de correio eletrônico
-Máquina virtual
-Sistema operacional
-Motor de pesquisa
-Análise da informação
-Indexação
-Página web
-Plataforma eletrônica
-Plataforma virtual
-Coleta de assinatura digital
-Plataforma intermediadora
-Programa aplicativo
-Programa de computador
-Provedor de conexão
-Provedor de backbone
-Provedor de conteúdo
 Provedor de informação
-Propriedade autoral
+QR Code
 Rede comunitária
-Rede social
+Rede de computadores
 Rede de relacionamento
 Rede profissional
+Rede sem fio
+Rede social
+Rede social digital
 Rede wireless
-Wi-fi
-Wireless network
+Segurança cibernética
+Segurança da informação
+Segurança de computador
+Segurança de dados
 Segurança digital
-Segurança do voto na urna eletrônica
 Sending and Posting Advertisement in Mass
-SMS
-SMS (Short Message Service)
-Serviços
+Serviço de mensagens curtas
+Serviços de informática
 Serviços de tecnologia da informação
 Servidor de correio eletrônico
+Servidor de e-mail
+Sistema computacional
+Sistema de informação
+Sistema eletrônico de comunicação
 Sistema informatizado
+Sistema integrado de dados
+Sistema operacional
 Sítio institucional (internet)
-Telefone inteligente
+Sítio (internet)
+Smartphone
+SMS
+SMS (Short Message Service)
+Software
+Software aplicativo
 Software de sistema
+Spam
 Stupid Pointless Annoying Messages
+Tablet
 Tablet PC
-TIC
+Tecnologia da informação
+Tecnologia da informação e comunicação (TIC)
+Telefone celular institucional
+Telefone inteligente
 Telefonia celular
+Telefonia móvel
+Terminal (informática)
+TIC
+Velocidade de download
+Velocidade de upload
+Vírus de computador
 Voz sintetizada
-Pessoa com deficiência
-Voz humana
+WEB
+Whatsapp
+Wi-fi
+Wireless network
+World Wide Web
 WWW

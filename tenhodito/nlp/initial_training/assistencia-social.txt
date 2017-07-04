@@ -1,459 +1,232 @@
 Abrigo provisório
-Acolhimento institucional
 Ação acidentária
-Acidente do trabalho
 Ação previdenciária
-Causa previdenciária
-Ação judicial
-Previdência social
 Acolhimento familiar
-Serviço Social
+Acolhimento institucional
 Acompanhante de pessoa com deficiência
-Pessoa com deficiência
 Aluguel social
-Benefício assistencial
-Programa habitacional
 Aposentadoria parlamentar
-Aposentadoria
-Parlamentar
 Auxílio em situação de desastre e calamidade pública
-Benefício eventual
 Auxílio em situação de vulnerabilidade temporária
 Auxílio especial
-Benefício previdenciário
-Seguridade social
 Auxílio-cuidador
 Auxílio-doença a dependente menor
 Auxílio-doença de dependente menor
 Auxílio-doença para dependente menor
-Auxílio-doença
 Auxílio-inclusão
 Auxílio-invalidez
-Aposentadoria por invalidez
-Indenização por invalidez
 Auxílio-pecuniário
-Auxílio-acidente
-Auxílio-vítima
 Avaliação biopsicossocial
-Perícia médica
 Beneficiário
-Beneficiado
-Dependente
-Segurado
-Banco depositário
 Benefício assistêncial à pessoa com deficiência
 Benefício assistencial ao idoso
 Benefício de Prestação Continuada (BPC)
-BPC
-Auxílio-funeral
-Auxílio-natalidade
-Plano de assistência funerária
-Auxílio-reclusão
-Pecúlio
-Abono de permanência em serviço
-Aposentado
-Débito previdenciário
-Parâmetro para concessão de benefício
-Pensão
-Renda mensal vitalícia
-Salário-família
-Salário-maternidade
+Benefício eventual
+Benefício previdenciário
 Benefício social
+BPC
+Causa previdenciária
+Centro de acolhimento ao deficiente
 Centro de capacitação profissional
-Educação e formação profissional
-Programa de capacitação profissional
 Comitê de investimento
-Previdência fechada
 Contribuição previdenciária patronal
-Contribuição previdenciária
 Contribuinte facultativo
-Contribuinte
 Contribuinte individual
 Convênio de adesão
-Previdência complementar
 Cuidador familiar
-Cuidador informal
 Cuidador formal
-Débito
-Dívida ativa
+Cuidador informal
+Débito previdenciário
 Deficiência grave
-Deficiência
 Deficiência leve
 Deficiência moderada
-Dependente econômico
-Companheira
-Companheiro
-Cônjuge
+Dependente
 Dependente designado
-Enteado
-Filho adotivo
-Filhos
-Irmãos
-Pais
-Ascendente
-Descendente
-Responsável legal
 Desenvolvimento social
-Política social
 Direito à assistência social
-Direitos sociais
-Assistência social
 Direito à previdência social
 Direito previdenciário
-Direito (ciência)
 Encargo
-Encargo financeiro
-Encargo locatício
-Encargo setorial
-Encargo social
-Obrigação trabalhista
 Entidade aberta
-Previdência aberta
 Entidade beneficente
 Entidade de assistência social
-Instituição assistencial
-Instituição beneficente
-Instituição de assistência social
-Instituição de beneficiência
-Instituição de caridade
-Sociedade beneficente
-Entidade filantrópica
-Associação de socorro mútuo
-Atividade beneficente
-Entidade mantenedora
 Entidade fechada
-Instituição filantrópica
+Entidade filantrópica
 Escuta especial
 Escuta especializada
 Escuta especializada de crianças e adolescentes
 Escuta qualificada
-Depoimento
-Direitos da criança e do adolescente
-Violência doméstica
 Extrema pobreza
-Pobreza
 FAP
 Fator Acidentário de Prevenção (FAP)
-Nexo Técnico Epidemiológico Previdenciário (NTEP)
 Fundo de pensão
 Fundo de previdência
 Fundo previdenciário
 Incapacidade laborativa
+Incapacidade parcial
 Incapacidade permanente
 Incapacidade temporária
-Incapacidade parcial
 Incapacidade total
-Indenização por morte
+Indenização por invalidez
+Instituição de assistência social
+Instituição filantrópica
 Instituição previdenciária
 Interesse social
-Interesse público
 Invalidez
 Invalidez permanente
-Pessoa inválida
 Lei Orgânica da Assistência Social
 LOAS
 Mudo
-Surdo-mudo
-Saúde do trabalhador
+Nexo Técnico Epidemiológico Previdenciário (NTEP)
 Orçamento da Seguridade Social
-Orçamento anual
+Parâmetro para concessão de benefício
 Pensão de alimentos
-Pensão alimentícia
 Pensão especial
 Pensionista
 Pensionista inválido
 Período de carência
 Período de graça
 Pessoa em situação de dependência
-Grau de dependência
-Idoso
-Pessoa
-Pessoa vulnerável
-Problema social
-Desigualdade econômica
-Desigualdade social
-Distribuição de renda
-Poder aquisitivo
-Riqueza
+Pessoa inválida
+Pobreza
 Política pública
+Política social
 Políticas públicas
+Previdência aberta
+Previdência fechada
+Previdência suplementar
+Programa social
+Reabilitação profissional
+Regime de Previdência Complementar
+Regime Geral da Previdência Social
+Regime Geral de Previdência Social (RGPS)
+Regime Próprio de Previdência Social (RPPS)
+Renda básica da cidadania
+Renda mensal vitalícia
+Renda mínima
+RGPS
+RPPS
+Salário-defeso
+Segurado
+Segurado especial
+Segurado facultativo
+Segurado obrigatório
+Seguridade social
+Seguro de vida
+Seguro facultativo
+Seguro-defeso
+Serviço Social
+Surdo
+Surdo-mudo
+Vulnerabilidade social
+Abrigo para idosos
+Asilo para idosos
+Assistência psicossocial
+Atendimento psicossocial
+Atividade beneficente
+Casa de repouso
 Conselho municipal
 Conselho nacional
 Conselho seccional
 Conselho setorial
-Planejamento estratégico
-Princípio da efetividade administrativa
-Princípio da eficácia
-Focalização
-Fundo público
-Universalização
-Previdência suplementar
-Programa social
-Política salarial
-Reabilitação profissional
-Doença ocupacional
-Regime de Previdência Complementar
-Regime Geral da Previdência Social
-Regime Geral de Previdência Social (RGPS)
-RGPS
-Regime Próprio de Previdência Social (RPPS)
-RPPS
-Renda básica da cidadania
-Renda mínima
-Salário-defeso
-Defeso
-Seguro-defeso
-Segurado especial
-Segurado facultativo
-Segurado obrigatório
-Apólice de seguro
-Prêmio de seguro
-Seguradora
-Direito à saúde
-Ordem social
-Saúde
-Seguro de vida
-Seguro pessoal
-Seguro facultativo
-Seguro
-Pesca profissional
-Ciências sociais aplicadas
-Assistência psicossocial
-Surdo
-Pessoa com deficiência auditiva
-Surdez
-Vulnerabilidade social
-Risco social
-Abrigo para idosos
-Instituição de longa permanência para idosos (ILPI)
-Asilo para idosos
-Atendimento psicossocial
-Avaliação multiprofissional
-Psicologia
-Reinserção social
-Casa de repouso
 Entidade comunitária sem fins lucrativos
-Entidade sem fins lucrativos
+Entidade mantenedora
 Entidade mantida
+Focalização
 ILPI
 Inclusão produtiva
-Inclusão social
+Instituição de beneficiência
+Instituição de caridade
+Instituição de longa permanência para idosos (ILPI)
 Lar de idosos
-Clínica geriátrica
-Direitos do idoso
 Morador de rua
 Pessoa sem-teto
 Sem-teto
-População em situação de rua
+Sociedade beneficente
+Universalização
 Adolescência
 Adolescente
-Faixa etária
-Conteúdo impróprio
-Criança
-Juventude
-Medida de proteção
-Menor de idade
 Adulto
-Maior de idade
 Ato sexual
-Coito
-Cópula
-Relação sexual
-Ato libidinoso
-Contato físico
-Libido
-Sexualidade
 Burguesia
-Classe social
 Casta
 Centennials
-Geração Z
 Classe alta
 Classe média
-Nobreza
-Proletariado
-Conflito social
-Discriminação
-Estratificação social
-Mobilidade social
+Classe social
 Conduta social
-Comportamento humano
-Ética social
+Conflito social
 Convivência comunitária
 Convivência familiar
 Convivência social
-Família
-Isolamento social
-Ressocialização
 Corrupção
-Crime de corrupção
-Crime contra a administração pública
-Corrupção ativa
-Corrupção passiva
-Corrupção privada
-Caixa dois
-Cidadão colaborador
-Enriquecimento ilícito
-Patrimônio ilícito
-Propina
-Suborno
-Vantagem indevida
-Desenvolvimento psíquico
-Infância
-Lactente
+Criança
 Crime
-Ação criminosa
-Infração penal
-Abuso de autoridade
-Aliciamento de menores
-Comércio ilegal de arma de fogo
-Crime ambiental
-Crime cibernético
-Crime comum
-Crime contra a dignidade sexual
-Crime contra a família
-Crime contra a fé pública
-Crime contra a incolumidade pública
-Crime contra a ordem econômica
-Crime contra a ordem política e social
-Crime contra a ordem pública
-Crime contra a ordem tributária
-Crime contra a organização do trabalho
-Crime contra a paz pública
-Crime contra a pessoa
-Crime contra a propriedade imaterial
-Crime contra a segurança nacional
-Crime contra o esporte
-Crime contra o patrimônio
-Crime contra o respeito aos mortos
-Crime contra o sentimento religioso
-Crime contra o Sistema Financeiro Nacional
-Crime contra pessoas vulneráveis
-Crime culposo
-Crime de responsabilidade
-Crime doloso
-Crime federal
-Crime permanente
-Crime qualificado
-Disparo de arma de fogo
-Extorsão mediante sequestro
-Omissão de cautela
-Organização criminosa
-Porte ilegal de arma de fogo de uso permitido
-Porte ilegal de arma de fogo de uso restrito
-Posse ilegal de arma de fogo de uso restrito
-Posse ilegal de explosivo
-Posse irregular de arma de fogo de uso permitido
-Tentativa (crime)
-Tráfico internacional de arma de fogo
-Tráfico internacional de explosivos
-Abuso de poder
-Alteração de local especialmente protegido
-Assédio ideológico
-Boletim de ocorrência policial
-Cena do crime
-Crime de intolerância
-Crime militar
-Crime organizado
-Criminalística
-Criminoso
-Fraude
-Impunidade
-Justiça restaurativa
-Operação policial
-Suspensão condicional do processo
-Vítima
 Criminalidade
 Delinquência
 Deslocamento espacial da população
-Mobilidade populacional
 Desnutrição
 Desordem social
 Desorganização social
 Diferença cultural
-Alteridade
-Cultura (ciências sociais)
-Tolerância
 Elite econômica
-População rica
 Equidade
-Igualdade social
 Escravidão
 Estereótipo
-Preconceito
-Proselitismo
+Estratificação social
+Ética social
 Filosofia social
 Fome
 Geração X
 Geração Y
-Millennials
+Geração Z
 Identidade cultural
-Terceira idade
-Direitos das minorias
-Envelhecimento ativo
-Velhice
-Primeira infância
+Idoso
+Infância
 Injustiça social
 Instituição civil
-Sociedade civil
 Jovem
-Jovem aprendiz
+Juventude
 Marginalidade social
 Mendicante
 Mendigo
-População de baixa renda
 Migração
-Emigração
-Imigração
-Migração interna
-Autorização de residência
-Migrante
+Millennials
 Mobilidade espacial da população
 Mobilidade pendular
+Mobilidade populacional
+Mobilidade social
 Mobilidade territorial
 Naturismo
 Nudez social
 Nudismo
 Pesquisa de opinião
 Pesquisa especializada de opinião pública
-Opinião pública
 Pobre
 População
-Cor de pele
+População carente
 População cigana
+População de baixa renda
+População de rua
 População em situação de errância
+População em situação de rua
 População indígena
 População negra
 População quilombola
 População ribeirinha
+População rica
 População rural
 População tradicional
 População urbana
-Comunidade
-Nacionalidade
-Povoamento
-População carente
-Família de baixa renda
-População de rua
-Cultura indígena
-Grupo indígena
-Índio
-Saúde indígena
-Movimento negro
-Rico
-Preconceito racial
-Racismo
-Desemprego
+Preconceito
+Primeira infância
+Problema social
+Proletariado
 Prostituição
+Racismo
 Refugiado
+Rico
 Tabagismo
+Terceira idade
 Toxicomania
-Violência
-Refúgio
-Exploração sexual
-Turismo sexual
-Crime imprescritível
-Crime inafiançável
-Discriminação racial
-Violência racial
-Asilo político
+Velhice
