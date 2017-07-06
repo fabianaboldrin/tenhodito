@@ -27,3 +27,4 @@ tenhodito/assets/bundles/
 tenhodito/assets/styles/bower_components/
 tenhodito/public/
 webpack-stats.json
+cache.db
