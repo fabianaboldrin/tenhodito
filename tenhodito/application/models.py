@@ -16,6 +16,21 @@ class Theme(models.Model):
         return super(Theme, self).save(*args, **kwargs)
 
 
+class SpeechIndex(models.Model):
+    speech = models.ForeignKey(cd_models.Speech,
+                               related_name='classified_indexes')
+    text = models.TextField()
+    theme = models.ForeignKey(Theme, related_name='indexes',
+                              null=True, blank=True)
+
+    @property
+    def author(self):
+        return self.speech.author
+
+    def __str__(self):
+        return self.text
+
+
 class SpeechSentence(models.Model):
     speech = models.ForeignKey(cd_models.Speech, related_name='sentences')
     text = models.TextField()

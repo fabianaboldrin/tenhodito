@@ -3,7 +3,8 @@ import shelve
 import os
 
 
-def load_from_cache(var_name, initial_value_method=None, force_update=False, **kwargs):
+def load_from_cache(var_name, initial_value_method=None,
+                    force_update=False, **kwargs):
     """Loads a variable from cache.db. If this variable does not exist
     `initial_value_method` is called and the return is used to set a intial
     to the variable on cache.

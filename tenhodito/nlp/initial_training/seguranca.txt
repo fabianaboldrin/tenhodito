@@ -1162,3 +1162,36 @@ Violência urbana
 Policial Federal
 Redução da Maioridade Penal
 Recrudescimento penal
+segurança
+ataque
+polícia
+suspeito
+morte
+crime
+terror
+rebelde
+investigação
+civil
+federal
+guerra
+vítima
+invasão
+preso
+presídio
+assassinato
+bombardeio
+apreensão
+incidente
+defesa
+exército
+marinha
+aeronáutica
+prisão
+ameaça
+bomba
+testemunha
+promotor
+policial
+tragédia
+assalto
+protesto
