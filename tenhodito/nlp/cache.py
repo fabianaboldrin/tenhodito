@@ -3,10 +3,7 @@ import shelve
 import os
 
 
-db = shelve.open(os.path.join(settings.BASE_DIR, 'cache.db'))
-
-
-def load_from_cache(var_name, initial_value_method=None, force_update=False):
+def load_from_cache(var_name, initial_value_method=None, force_update=False, **kwargs):
     """Loads a variable from cache.db. If this variable does not exist
     `initial_value_method` is called and the return is used to set a intial
     to the variable on cache.
@@ -18,17 +15,25 @@ def load_from_cache(var_name, initial_value_method=None, force_update=False):
         if force_update:
             raise KeyError
         else:
-            return db[var_name]
+            db = shelve.open(os.path.join(settings.BASE_DIR, 'cache.db'))
+            return_value = db[var_name]
+            db.close()
+            return return_value
     except KeyError:
         if callable(initial_value_method):
-            db[var_name] = initial_value_method()
+            db = shelve.open(os.path.join(settings.BASE_DIR, 'cache.db'))
+            db[var_name] = initial_value_method(**kwargs)
             db.sync()
-            return db[var_name]
+            return_value = db[var_name]
+            db.close()
+            return return_value
         else:
             return None
 
 
 def update(var_name, value):
     """Update a variable with a new value or add a new variable to cache."""
+    db = shelve.open(os.path.join(settings.BASE_DIR, 'cache.db'))
     db[var_name] = value
     db.sync()
+    db.close()

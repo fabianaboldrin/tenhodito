@@ -48,7 +48,7 @@ def extractor(text, train_set):
         language='portuguese',
         stop_words=STOPWORDS,
     )
-    features = bag_of_words(tokens, 'frequency')
+    features = bag_of_words(tokens, 'boolean')
     corpus = cache.load_from_cache('corpus', get_corpus_tokens,
                                    corpus=train_set)
     tfidf(features, corpus)
@@ -70,13 +70,15 @@ class Command(BaseCommand):
         theme_classifier = cache.load_from_cache('theme_classifier',
                                                  self._theme_classifier)
 
-        if yn_input('Start supervisioned training? [Y/n] '):
-            secho("Initializing supervisioned training", bold=True)
-            theme_classifier = self.supervisioned_train(
-                paragraphs, theme_classifier, 'theme')
-            cache.update('theme_classifier', theme_classifier)
+        self.accuracy(theme_classifier)
 
-        themes = self.classify(paragraphs, theme_classifier)
+        # if yn_input('Start supervisioned training? [Y/n] '):
+        #     secho("Initializing supervisioned training", bold=True)
+        #     theme_classifier = self.supervisioned_train(
+        #         paragraphs, theme_classifier, 'theme')
+        #     cache.update('theme_classifier', theme_classifier)
+
+        # themes = self.classify(paragraphs, theme_classifier)
 
     def supervisioned_train(self, paragraphs, classifier, train_name=''):
         unclassified = cache.load_from_cache('%s_unclassified' % train_name)
@@ -143,6 +145,18 @@ class Command(BaseCommand):
         classifier = Classifier(self.get_initial_training_set(),
                                 feature_extractor=extractor)
         return classifier
+
+    def accuracy(self, classifier):
+        training_set_dir = os.path.join(settings.BASE_DIR,
+                                        'nlp/initial_training/')
+        trainingset = []
+        with open(os.path.join(training_set_dir, 'sentences.txt')) as tfile:
+            trainingset += list(
+                map(lambda x: (x.split(';')[0].strip(),
+                               x.split(';')[1].strip()),
+                    tfile.readlines())
+            )
+        print(classifier.accuracy(trainingset))
 
     def get_initial_training_set(self):
         training_set_dir = os.path.join(settings.BASE_DIR,
