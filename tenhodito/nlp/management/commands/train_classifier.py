@@ -160,7 +160,7 @@ class Command(BaseCommand):
         training_set_dir = os.path.join(settings.BASE_DIR,
                                         'nlp/initial_training/')
         trainingset = []
-        themes = ["adm-publica", "agricultura", "arte-cultura-informacao",
+        themes = [ "agricultura", "arte-cultura-informacao",
                   "assistencia-social", "cidades", "ciencia-tecnologia",
                   "comercio-consumidor", "comunicacao-social",
                   "direitos-humanos-minorias",

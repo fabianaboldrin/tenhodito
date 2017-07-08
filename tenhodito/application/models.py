@@ -6,7 +6,6 @@ from pygov_br.django_apps.camara_deputados import models as cd_models
 class Theme(models.Model):
     description = models.CharField(max_length=50)
     slug = models.CharField(max_length=50)
-    text = models.TextField()
 
     def __str__(self):
         return self.slug
@@ -16,9 +15,18 @@ class Theme(models.Model):
         return super(Theme, self).save(*args, **kwargs)
 
 
+class Speech(models.Model):
+    data = models.OneToOneField(cd_models.Speech)
+    author = models.ForeignKey('Deputy', related_name='speeches')
+    themes = models.ManyToManyField(Theme, related_name='speeches',
+                                    null=True, blank=True)
+
+    def __str__(self):
+        return self.data.author.parliamentary_name
+
+
 class SpeechIndex(models.Model):
-    speech = models.ForeignKey(cd_models.Speech,
-                               related_name='classified_indexes')
+    speech = models.ForeignKey(Speech, related_name='indexes')
     text = models.TextField()
     theme = models.ForeignKey(Theme, related_name='indexes',
                               null=True, blank=True)
@@ -31,35 +39,10 @@ class SpeechIndex(models.Model):
         return self.text
 
 
-class SpeechSentence(models.Model):
-    speech = models.ForeignKey(cd_models.Speech, related_name='sentences')
-    text = models.TextField()
-    theme = models.ForeignKey(Theme, related_name='sentences',
-                              null=True, blank=True)
-
-    @property
-    def author(self):
-        return self.speech.author
+class Deputy(models.Model):
+    data = models.OneToOneField(cd_models.Deputy)
+    theme = models.ManyToManyField(Theme, related_name='deputies',
+                                   null=True, blank=True)
 
     def __str__(self):
-        return self.text
-
-
-class SpeechTheme(models.Model):
-    speech = models.ForeignKey(cd_models.Speech)
-    theme = models.ForeignKey(Theme, related_name='speeches',
-                              null=True, blank=True)
-
-    def __str__(self):
-        return self.speech
-
-
-class DeputyTheme(models.Model):
-    deputy = models.ForeignKey(cd_models.Deputy, related_name='themes')
-    theme = models.ForeignKey(Theme, related_name='deputies',
-                              null=True, blank=True)
-    timestamp = models.DateTimeField(auto_now=True)
-
-    def __str__(self):
-        pass
-
+        return self.data.parliamentary_name

@@ -12,17 +12,16 @@ def load_from_cache(var_name, initial_value_method=None,
     If the variable name isn't in cache and anyone  initial value method is
     provided, return None.
     """
+    db = shelve.open(os.path.join(settings.BASE_DIR, 'cache.db'))
     try:
         if force_update:
             raise KeyError
         else:
-            db = shelve.open(os.path.join(settings.BASE_DIR, 'cache.db'))
             return_value = db[var_name]
             db.close()
             return return_value
     except KeyError:
         if callable(initial_value_method):
-            db = shelve.open(os.path.join(settings.BASE_DIR, 'cache.db'))
             db[var_name] = initial_value_method(**kwargs)
             db.sync()
             return_value = db[var_name]

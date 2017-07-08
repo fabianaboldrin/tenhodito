@@ -1,0 +1,110 @@
+- model: application.Theme
+  pk: 1
+  fields:
+    description: Administração Pública
+    slug: adm-publica
+- model: application.Theme
+  pk: 2
+  fields:
+    description: Agricultura, Pecuária e Pesca
+    slug: agricultura
+- model: application.Theme
+  pk: 3
+  fields:
+    description: Arte, Cultura e Informação
+    slug: arte-cultura-informacao
+- model: application.Theme
+  pk: 4
+  fields:
+    description: Assistência Social
+    slug: assistencia-social
+- model: application.Theme
+  pk: 5
+  fields:
+    description: Cidades
+    slug: cidades
+- model: application.Theme
+  pk: 6
+  fields:
+    description: Ciência e Tecnologia
+    slug: ciencia-tecnologia
+- model: application.Theme
+  pk: 7
+  fields:
+    description: Comércio e Consumidor
+    slug: comercio-consumidor
+- model: application.Theme
+  pk: 8
+  fields:
+    description: Comunicações
+    slug: comunicacao-social
+- model: application.Theme
+  pk: 9
+  fields:
+    description: Desenvolvimento Regional
+    slug: desenvolvimento-regional
+- model: application.Theme
+  pk: 10
+  fields:
+    description: Direitos Humanos e Minorias
+    slug: direitos-humanos-minorias
+- model: application.Theme
+  pk: 11
+  fields:
+    description: Economia e Finanças Públicas
+    slug: economia-financas-publicas
+- model: application.Theme
+  pk: 12
+  fields:
+    description: Educação
+    slug: educacao
+- model: application.Theme
+  pk: 13
+  fields:
+    description: Esporte e Lazer
+    slug: esporte-lazer
+- model: application.Theme
+  pk: 14
+  fields:
+    description: Gestão
+    slug: gestao
+- model: application.Theme
+  pk: 15
+  fields:
+    description: Justiça
+    slug: justica
+- model: application.Theme
+  pk: 16
+  fields:
+    description: Meio Ambiente e Energia
+    slug: meio-ambiente
+- model: application.Theme
+  pk: 17
+  fields:
+    description: Política
+    slug: politica
+- model: application.Theme
+  pk: 18
+  fields:
+    description: Relações Exteriores
+    slug: relacoes-exteriores
+- model: application.Theme
+  pk: 19
+  fields:
+    description: Saúde
+    slug: saude
+- model: application.Theme
+  pk: 20
+  fields:
+    description: Segurança
+    slug: seguranca
+- model: application.Theme
+  pk: 21
+  fields:
+    description: Trabalho e Emprego
+    slug: trabalho-emprego
+- model: application.Theme
+  pk: 22
+  fields:
+    description: Viação e Transporte
+    slug: viacao-transporte

@@ -13,3 +13,4 @@ django-compressor-toolkit>=0.6.0
 django-bower>=5.2.0
 django-js-reverse>=0.7.3
 textblob>=0.12.0
+PyYAML>=3.12

@@ -447,3 +447,5 @@ empate
 surfista
 assistência
 ufc
+ESCOTEIRO
+ESCOTISMO

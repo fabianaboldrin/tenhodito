@@ -912,6 +912,7 @@ Segurança no trabalho
 Seguro contra acidente do trabalho
 Seguro doença
 Seguro-desemprego
+Seguro desemprego
 Seleção de pessoal
 Sentença parcial
 Serviço efetivo
@@ -1093,3 +1094,4 @@ Sociedade cooperativa
 Trabalho urbano
 Relação trabalhista
 Relações trabalhistas
+LEI DO SEGURO-DESEMPREGO
