@@ -18,8 +18,6 @@ class Theme(models.Model):
 class Speech(models.Model):
     data = models.OneToOneField(cd_models.Speech)
     author = models.ForeignKey('Deputy', related_name='speeches')
-    themes = models.ManyToManyField(Theme, related_name='speeches',
-                                    null=True, blank=True)
 
     def __str__(self):
         return self.data.author.parliamentary_name
@@ -28,8 +26,6 @@ class Speech(models.Model):
 class SpeechIndex(models.Model):
     speech = models.ForeignKey(Speech, related_name='indexes')
     text = models.TextField()
-    theme = models.ForeignKey(Theme, related_name='indexes',
-                              null=True, blank=True)
 
     @property
     def author(self):
@@ -41,8 +37,29 @@ class SpeechIndex(models.Model):
 
 class Deputy(models.Model):
     data = models.OneToOneField(cd_models.Deputy)
-    theme = models.ManyToManyField(Theme, related_name='deputies',
-                                   null=True, blank=True)
 
     def __str__(self):
         return self.data.parliamentary_name
+
+
+class ThemeRelation(models.Model):
+    amount = models.FloatField()
+    is_main = models.BooleanField(default=False)
+
+    class Meta:
+        abstract = True
+
+
+class IndexTheme(ThemeRelation):
+    theme = models.ForeignKey(Theme, related_name='indexes')
+    index = models.ForeignKey(SpeechIndex, related_name='themes')
+
+
+class SpeechTheme(ThemeRelation):
+    theme = models.ForeignKey(Theme, related_name='speeches')
+    speech = models.ForeignKey(Speech, related_name='themes')
+
+
+class DeputyTheme(ThemeRelation):
+    theme = models.ForeignKey(Theme, related_name='deputies')
+    deputy = models.ForeignKey(Deputy, related_name='themes')

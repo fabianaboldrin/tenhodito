@@ -4,6 +4,10 @@ from pygov_br.django_apps.camara_deputados.models import Speech, Deputy
 from nlp import pre_processing
 from application import models
 from click import progressbar
+from unidecode import unidecode
+
+
+normalize = lambda x: unidecode(x.lower().strip('.,:?!- '))
 
 
 class Command(BaseCommand):
@@ -31,23 +35,14 @@ class Command(BaseCommand):
     @transaction.atomic
     def get_indexes(self, speech):
         if speech.data.indexes:
-            indexes = []
-            for line in speech.data.indexes.splitlines():
-                indexes += line.split(',')
+            indexes = [
+                normalize(word)
+                for line in speech.data.indexes.splitlines()
+                for word in line.split(',')
+            ]
 
             for index in indexes:
                 models.SpeechIndex.objects.get_or_create(
                     speech=speech,
                     text=index
-                )
-
-    @transaction.atomic
-    def get_sentences(self, speech):
-        if speech.summary:
-            sentences = pre_processing.speech_to_sentences(speech.summary)
-            for sentence in sentences:
-                # Split no ;
-                models.SpeechSentence.objects.get_or_create(
-                    speech=speech,
-                    text=sentence
                 )

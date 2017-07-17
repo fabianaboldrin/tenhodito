@@ -8,6 +8,7 @@ from plagiarism import bag_of_words, stopwords, tokenizers
 from plagiarism.input import yn_input
 from application.models import SpeechIndex
 from textblob.classifiers import NaiveBayesClassifier as Classifier
+import json
 import numpy as np
 
 
@@ -38,13 +39,13 @@ def tfidf(bow, corpus):
         bow[token] = bow[token] * weight
 
 
-def extractor(text, train_set):
+def extractor(text):
     tokens = tokenizers.stemmize(
         text,
         language='portuguese',
         stop_words=STOPWORDS,
     )
-    features = bag_of_words(tokens, 'boolean')
+    features = bag_of_words.bag_of_words(tokens, 'boolean')
     # corpus = cache.load_from_cache('corpus', get_corpus_tokens,
     #                                corpus=train_set)
     # tfidf(features, corpus)
@@ -54,19 +55,9 @@ def extractor(text, train_set):
 class Command(BaseCommand):
 
     def handle(self, *args, **options):
-        paragraphs = cache.load_from_cache('paragraphs', self._get_paragraphs,
-                                           force_update=True)
-        secho('%s paragraphs' % len(paragraphs), bold=True)
-
-        contents = paragraphs
-        secho('%s paragraphs will be classified by themes' % len(contents),
-              bold=True)
-        if not yn_input('Continue? [Y/n] '):
-            return
         theme_classifier = cache.load_from_cache('theme_classifier',
                                                  self._theme_classifier)
 
-        self.accuracy(theme_classifier)
 
         # if yn_input('Start supervisioned training? [Y/n] '):
         #     secho("Initializing supervisioned training", bold=True)
@@ -113,17 +104,6 @@ class Command(BaseCommand):
 
         return classifier
 
-    def initial_training(self, classifier):
-        trainingset_dir = os.path.join(settings.BASE_DIR,
-                                       'nlp/initial_training/')
-        with open(os.path.join(trainingset_dir, 'sentences.txt')) as tfile:
-            trainingset = list(
-                map(lambda x: (x.split(';')[0].strip(),
-                               x.split(';')[1].strip()),
-                    tfile.readlines())
-            )
-            classifier.update(trainingset)
-
     def classify(self, paragraphs, classifier):
         classified = self._get_labels_dict(classifier)
         with progressbar(paragraphs, label='Classifying') as data:
@@ -157,24 +137,16 @@ class Command(BaseCommand):
         print(classifier.accuracy(trainingset))
 
     def get_initial_training_set(self):
-        training_set_dir = os.path.join(settings.BASE_DIR,
-                                        'nlp/initial_training/')
-        trainingset = []
-        themes = [ "agricultura", "arte-cultura-informacao",
-                  "assistencia-social", "cidades", "ciencia-tecnologia",
-                  "comercio-consumidor", "comunicacao-social",
-                  "direitos-humanos-minorias",
-                  "economia-financas-publicas", "educacao", "esporte-lazer",
-                  "justica", "meio-ambiente", "politica",
-                  "relacoes-exteriores", "saude", "seguranca",
-                  "trabalho-emprego", "viacao-transporte"]
+        trainingset_dir = os.path.join(settings.BASE_DIR, 'nlp/')
+        with open(os.path.join(trainingset_dir, 'thesaurus.json')) as thes:
+            normalize = lambda x: unidecode(x.lower().strip('.,:?!-() '))
 
-        for theme in themes:
-            with open(os.path.join(training_set_dir, theme + '.txt')) as tfile:
-                trainingset += list(
-                    map(lambda x: (x.strip(), theme), tfile.readlines())
-                )
-
+            thesaurus = json.load(thes)
+            trainingset = [
+                (token, theme)
+                for theme, tokens in thesaurus.items()
+                for token in tokens
+            ]
         return trainingset
 
     def _get_paragraphs(self):
