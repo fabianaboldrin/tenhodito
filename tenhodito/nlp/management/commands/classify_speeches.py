@@ -16,7 +16,7 @@ class Command(BaseCommand):
     @transaction.atomic
     def handle(self, *args, **options):
         classifier = cache.load_from_cache('theme_classifier')
-        speeches = models.Speech.objects.all()[:10]
+        speeches = models.Speech.objects.all()
         with progressbar(speeches, label='Classifying speeches') as data:
             for speech in data:
                 indexes = speech.indexes.all()
@@ -30,13 +30,28 @@ class Command(BaseCommand):
                 self.update_speech_themes(speech, themes)
         models.IndexTheme.objects.bulk_create(self.indexes_themes)
         models.SpeechTheme.objects.bulk_create(self.speech_themes)
-        # for deputy in models.Deputy.objects.exclude(speeches=None):
-        #     for speech in deputy.speeches.all():
-        #         themes = Counter()
-        #         for theme in speech.themes.all():
-        #             themes.update([theme.slug])
-        #         print(themes)
 
+        for deputy in models.Deputy.objects.exclude(speeches=None):
+            themes = Counter()
+            speeches_count = 0
+            for speech in deputy.speeches.all():
+                speech_themes = speech.themes.all()
+                if speech_themes:
+                    speeches_count += 1
+                    for t in speech_themes:
+                        theme_amount = themes.get(t.theme.slug, 0) + t.amount
+                        themes[t.theme.slug] = theme_amount
+            for i, theme in enumerate(themes.most_common()):
+                theme_obj = self.themes.get(slug=theme[0])
+                deputy_theme = models.DeputyTheme(
+                    theme=theme_obj,
+                    deputy=deputy,
+                    amount=theme[1] / speeches_count
+                )
+                if i == 0:
+                    deputy_theme.is_main = True
+                self.deputy_themes.append(deputy_theme)
+        models.DeputyTheme.objects.bulk_create(self.deputy_themes)
 
     def update_index_theme(self, index, theme):
         theme_obj = self.themes.get(slug=theme)
@@ -55,7 +70,7 @@ class Command(BaseCommand):
             speech_theme = models.SpeechTheme(
                 theme=theme_obj,
                 speech=speech,
-                amount=themes[theme[0]]/total
+                amount=themes[theme[0]] / total
             )
             if i == 0:
                 speech_theme.is_main = True
