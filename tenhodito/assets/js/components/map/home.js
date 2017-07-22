@@ -26,7 +26,7 @@ class HomeMap extends SVGMap {
 
   getData() {
     $.ajaxSetup({async: false});
-    const response = $.getJSON('/static/home-data.json', (data) => {
+    const response = $.getJSON('/data', (data) => {
       $.ajaxSetup({async: true});
       return data;
     })

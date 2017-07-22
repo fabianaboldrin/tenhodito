@@ -1,232 +1,72 @@
 {% extends "base.html" %}
-{% load staticfiles compress %}
+{% load staticfiles compress tenhodito_tags %}
 
 {% block content %}
 <div class="tenhodito-application">
   <section class="sidebar">
     <div class="sidebar__header">
-      <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="header__logo--horizontal">
-      <p class="header__text">Veja os principais temas abordados pelos outros deputados do <span class="text__highlight">PR</span>.</p>
+      <a href="/" clas="header__logo--horizontal">
+        <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="">
+      </a>
+      <p class="header__text">Veja os principais temas abordados pelos outros deputados do <span class="text__highlight">{{object.data.party.name}} ({{object.data.party.initials}})</span>.</p>
     </div>
     <div class="sidebar__body">
       <ul class="deputies-list">
-        <li class="list__item">
-          <a class="item__link" href="{% url 'deputy' 1 %}">
-            <div class="item__info">
-              <h3 class="info__name">Dep. Aelton Freitas</h3>
-              <p class="info__party">PR - MG</p>
-              <p class="info__theme educacao">Educação</p>
-            </div>
-            <div class="item__image">
-              <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/141372.jpg" alt="">
-            </div>
-          </a>
-        </li>
-        <li class="list__item">
-          <a class="item__link" href="{% url 'deputy' 1 %}">
-            <div class="item__info">
-              <h3 class="info__name">Dep. Mauro Lopes</h3>
-              <p class="info__party">PMDB - MG</p>
-              <p class="info__theme participacao-e-transparencia">Participação e Transparência</p>
-            </div>
-            <div class="item__image">
-              <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/74749.jpg" alt="">
-            </div>
-          </a>
-        </li>
-        <li class="list__item">
-          <a class="item__link" href="{% url 'deputy' 1 %}">
-            <div class="item__info">
-              <h3 class="info__name">Dep. Rubens Pereira Júnior</h3>
-              <p class="info__party">PCdoB - MG</p>
-              <p class="info__theme direitos-humanos">Direitos Humanos</p>
-            </div>
-            <div class="item__image">
-              <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/178887.jpg" alt="">
-            </div>
-          </a>
-        </li>
-        <li class="list__item">
-          <a class="item__link" href="{% url 'deputy' 1 %}">
-            <div class="item__info">
-              <h3 class="info__name">Dep. Professora Dorinha Seabra Rezende</h3>
-              <p class="info__party">DEM - MG</p>
-              <p class="info__theme relacoes-exteriores">Relações Exteriores</p>
-            </div>
-            <div class="item__image">
-              <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/160639.jpg" alt="">
-            </div>
-          </a>
-        </li>
+        {% for deputy in deputies %}
+          {% if deputy != object %}
+            {% include "includes/deputy_sidebar.html" with deputy=deputy %}
+          {% endif %}
+        {% endfor %}
       </ul>
     </div>
   </section>
-  <main class="main-content deputy">
+  <main class="main-content no-bg-image">
     <div class="deputy-profile">
       <div class="profile__info">
         <div class="deputy__image">
-          <img class="deputy__photo" src="http://www.camara.gov.br/internet/deputado/bandep/160639.jpg" alt="">
+          <img class="deputy__photo" src="http://www.camara.gov.br/internet/deputado/bandep/{{object.data.id}}.jpg" alt="">
         </div>
         <div class="info__text">
-          <h3 class="text__name">Dep. Professora Dorinha Seabra Rezende</h3>
-          <p class="text__party">DEM - MG</p>
-          <p class="text__stats"><span class="stats__highlight">125</span> Proposições analisadas</p>
-          <p class="text__stats"><span class="stats__highlight">143</span> Discursos analisados</p>
+          <h3 class="text__name">Dep. {{object.data.parliamentary_name|title}}</h3>
+          <p class="text__party">{{object.data.party.initials}} - {{object.data.region}}</p>
+          <p class="text__stats">
+            <span class="stats__highlight">{{object.proposals_count}} </span>
+            de
+            <span class="stats__highlight"> {{object.total_proposals}} </span>
+            proposições classificadas
+          </p>
+          <p class="text__stats">
+            <span class="stats__highlight">{{object.speeches_count}} </span>
+            de
+            <span class="stats__highlight"> {{object.total_speeches}} </span>
+            discursos classificados
+          </p>
         </div>
       </div>
       <div class="profile__data">
         <ul class="data__themes-list">
-          <li class="theme__item">
-            <i class="item__icon icon icon-seguranca seguranca"></i>
-            <div class="item__info">
-              <h4 class="info__theme"><span class="theme__percentage">43%</span> Segurança</h4>
-              <div class="info__bar">
-                <span class="bar__label">Propostas</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--proposals seguranca" style="width: 76%;"></div>
+          {% for deputy_theme in object.get_all_themes %}
+            <li class="theme__item">
+              <i class="item__icon icon icon-{{deputy_theme.theme.slug}} {{deputy_theme.theme.slug}}"></i>
+              <div class="item__info">
+                <h4 class="info__theme"><span class="theme__percentage">{{deputy_theme.amount|percentage|floatformat}}%</span> {{deputy_theme.theme.description}}</h4>
+                <div class="info__bar">
+                  <span class="bar__label">Propostas</span>
+                  <div class="bar__chart">
+                    <div class="chart__fill--proposals {{deputy_theme.theme.slug}}" style="width: {% deputy_proposal_theme_bar object deputy_theme.theme.slug %}%;"></div>
+                  </div>
+                </div>
+                <div class="info__bar">
+                  <span class="bar__label">Discursos</span>
+                  <div class="bar__chart">
+                    <div class="chart__fill--speeches {{deputy_theme.theme.slug}}" style="width: {% deputy_speech_theme_bar object deputy_theme.theme.slug %}%;"></div>
+                  </div>
                 </div>
               </div>
-              <div class="info__bar">
-                <span class="bar__label">Discursos</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--speeches seguranca" style="width: 24%;"></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li class="theme__item">
-            <i class="item__icon icon icon-direitos-humanos direitos-humanos"></i>
-            <div class="item__info">
-              <h4 class="info__theme"><span class="theme__percentage">21%</span> Direitos Humanos</h4>
-              <div class="info__bar">
-                <span class="bar__label">Propostas</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--proposals direitos-humanos" style="width: 42%;"></div>
-                </div>
-              </div>
-              <div class="info__bar">
-                <span class="bar__label">Discursos</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--speeches direitos-humanos" style="width: 58%;"></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li class="theme__item">
-            <i class="item__icon icon icon-participacao-e-transparencia participacao-e-transparencia"></i>
-            <div class="item__info">
-              <h4 class="info__theme"><span class="theme__percentage">13%</span> Participação e Transparência</h4>
-              <div class="info__bar">
-                <span class="bar__label">Propostas</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--proposals participacao-e-transparencia" style="width: 20%;"></div>
-                </div>
-              </div>
-              <div class="info__bar">
-                <span class="bar__label">Discursos</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--speeches participacao-e-transparencia" style="width: 80%;"></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li class="theme__item">
-            <i class="item__icon icon icon-relacoes-exteriores relacoes-exteriores"></i>
-            <div class="item__info">
-              <h4 class="info__theme"><span class="theme__percentage">8%</span> Relações Exteriores</h4>
-              <div class="info__bar">
-                <span class="bar__label">Propostas</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--proposals relacoes-exteriores" style="width: 93%;"></div>
-                </div>
-              </div>
-              <div class="info__bar">
-                <span class="bar__label">Discursos</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--speeches relacoes-exteriores" style="width: 7%;"></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li class="theme__item">
-            <i class="item__icon icon icon-assistencia-social assistencia-social"></i>
-            <div class="item__info">
-              <h4 class="info__theme"><span class="theme__percentage">5%</span> Assistência Social</h4>
-              <div class="info__bar">
-                <span class="bar__label">Propostas</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--proposals assistencia-social" style="width: 42%;"></div>
-                </div>
-              </div>
-              <div class="info__bar">
-                <span class="bar__label">Discursos</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--speeches assistencia-social" style="width: 58%;"></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li class="theme__item">
-            <i class="item__icon icon icon-familia familia"></i>
-            <div class="item__info">
-              <h4 class="info__theme"><span class="theme__percentage">4%</span> Família</h4>
-              <div class="info__bar">
-                <span class="bar__label">Propostas</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--proposals familia" style="width: 20%;"></div>
-                </div>
-              </div>
-              <div class="info__bar">
-                <span class="bar__label">Discursos</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--speeches familia" style="width: 80%;"></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li class="theme__item">
-            <i class="item__icon icon icon-educacao educacao"></i>
-            <div class="item__info">
-              <h4 class="info__theme"><span class="theme__percentage">3%</span> Educação</h4>
-              <div class="info__bar">
-                <span class="bar__label">Propostas</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--proposals educacao" style="width: 93%;"></div>
-                </div>
-              </div>
-              <div class="info__bar">
-                <span class="bar__label">Discursos</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--speeches educacao" style="width: 7%;"></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li class="theme__item">
-            <i class="item__icon icon icon-adm-publica adm-publica"></i>
-            <div class="item__info">
-              <h4 class="info__theme"><span class="theme__percentage">3%</span> Administração Pública</h4>
-              <div class="info__bar">
-                <span class="bar__label">Propostas</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--proposals adm-publica" style="width: 93%;"></div>
-                </div>
-              </div>
-              <div class="info__bar">
-                <span class="bar__label">Discursos</span>
-                <div class="bar__chart">
-                  <div class="chart__fill--speeches adm-publica" style="width: 7%;"></div>
-                </div>
-              </div>
-            </div>
-          </li>
+            </li>
+          {% empty %}
+            Infelizmente não temos dados suficientes para realizar a análise.
+          {% endfor %}
         </ul>
       </div>
     </div>

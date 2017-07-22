@@ -5,59 +5,16 @@
   <div class="tenhodito-application">
     <section class="sidebar">
       <div class="sidebar__header">
-        <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="header__logo--horizontal">
+        <a clas="header__logo--horizontal">
+          <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="">
+        </a>
         <p class="header__text">Veja os deputados do estado de <span class="text__highlight">{{state}}</span> e os principais temas abordados por eles.</p>
       </div>
       <div class="sidebar__body">
         <ul class="deputies-list js-mixer">
-          <li class="list__item js-mixer-item educacao">
-            <a class="item__link" href="{% url 'deputy' 1 %}">
-              <div class="item__info">
-                <h3 class="info__name">Dep. Aelton Freitas</h3>
-                <p class="info__party">PR - MG</p>
-                <p class="info__theme educacao">Educação</p>
-              </div>
-              <div class="item__image">
-                <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/141372.jpg" alt="">
-              </div>
-            </a>
-          </li>
-          <li class="list__item js-mixer-item participacao-e-transparencia">
-            <a class="item__link" href="{% url 'deputy' 1 %}">
-              <div class="item__info">
-                <h3 class="info__name">Dep. Mauro Lopes</h3>
-                <p class="info__party">PMDB - MG</p>
-                <p class="info__theme participacao-e-transparencia">Participação e Transparência</p>
-              </div>
-              <div class="item__image">
-                <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/74749.jpg" alt="">
-              </div>
-            </a>
-          </li>
-          <li class="list__item js-mixer-item direitos-humanos">
-            <a class="item__link" href="{% url 'deputy' 1 %}">
-              <div class="item__info">
-                <h3 class="info__name">Dep. Rubens Pereira Júnior</h3>
-                <p class="info__party">PCdoB - MG</p>
-                <p class="info__theme direitos-humanos">Direitos Humanos</p>
-              </div>
-              <div class="item__image">
-                <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/178887.jpg" alt="">
-              </div>
-            </a>
-          </li>
-          <li class="list__item js-mixer-item relacoes-exteriores">
-            <a class="item__link" href="{% url 'deputy' 1 %}">
-              <div class="item__info">
-                <h3 class="info__name">Dep. Professora Dorinha Seabra Rezende</h3>
-                <p class="info__party">DEM - MG</p>
-                <p class="info__theme relacoes-exteriores">Relações Exteriores</p>
-              </div>
-              <div class="item__image">
-                <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/160639.jpg" alt="">
-              </div>
-            </a>
-          </li>
+          {% for deputy in deputies %}
+            {% include "includes/deputy_sidebar.html" with deputy=deputy %}
+          {% endfor %}
         </ul>
       </div>
     </section>

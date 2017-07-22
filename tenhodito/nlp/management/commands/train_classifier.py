@@ -6,8 +6,9 @@ from django.core.management.base import BaseCommand
 from nlp import cache
 from plagiarism import bag_of_words, stopwords, tokenizers
 from plagiarism.input import yn_input
-from application.models import SpeechIndex
+from application.models import SpeechIndex, ProposalIndex
 from textblob.classifiers import NaiveBayesClassifier as Classifier
+from unidecode import unidecode
 import json
 import numpy as np
 
@@ -45,10 +46,9 @@ def extractor(text):
         language='portuguese',
         stop_words=STOPWORDS,
     )
-    features = bag_of_words.bag_of_words(tokens, 'boolean')
-    # corpus = cache.load_from_cache('corpus', get_corpus_tokens,
-    #                                corpus=train_set)
-    # tfidf(features, corpus)
+    features = bag_of_words(tokens, 'boolean')
+    if len(tokens) > 1:
+        features[' '.join(tokens)] = 1
     return dict(features)
 
 
@@ -57,7 +57,6 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         theme_classifier = cache.load_from_cache('theme_classifier',
                                                  self._theme_classifier)
-
 
         # if yn_input('Start supervisioned training? [Y/n] '):
         #     secho("Initializing supervisioned training", bold=True)
@@ -138,14 +137,27 @@ class Command(BaseCommand):
 
     def get_initial_training_set(self):
         trainingset_dir = os.path.join(settings.BASE_DIR, 'nlp/')
+        speech_indexes = list(
+            SpeechIndex.objects.all().values_list('text', flat=True)
+        )
+        proposal_indexes = list(
+            ProposalIndex.objects.all().values_list('text', flat=True)
+        )
+        used_words = speech_indexes + proposal_indexes
         with open(os.path.join(trainingset_dir, 'thesaurus.json')) as thes:
             normalize = lambda x: unidecode(x.lower().strip('.,:?!-() '))
 
             thesaurus = json.load(thes)
+            del thesaurus['politica']
+            del thesaurus['gestao']
+            del thesaurus['desenvolvimento-regional']
+            del thesaurus['comunicacao-social']
+            del thesaurus['adm-publica']
             trainingset = [
-                (token, theme)
+                (normalize(token), theme)
                 for theme, tokens in thesaurus.items()
                 for token in tokens
+                if normalize(token) in used_words
             ]
         return trainingset
 

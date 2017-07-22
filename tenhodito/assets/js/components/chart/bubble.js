@@ -40,7 +40,7 @@ class BubbleChart {
         name: data.name,
         slug: data.slug,
         value: data.value,
-        radius: radiusScale(+data.value * aspectRatio),
+        radius: radiusScale((+data.value + 0.5) * aspectRatio),
         x: Math.random() * ( this.width - convertEm(aspectRatio) ),
         y: Math.random() * ( this.height - convertEm(aspectRatio) )
       })
@@ -125,8 +125,13 @@ class BubbleChart {
         .attr('height', this.height)
         .attr('class', 'chart')
 
+    const path = window.location.pathname;
+    let dataUrl = ''
+    if (path.endsWith('/')) dataUrl = `${path}data`;
+    else dataUrl = `${path}/data`;
+
     d3.queue()
-      .defer(d3.json, '/static/state-data.json')
+      .defer(d3.json, dataUrl)
       .await((error, data) => {
         if (error) return console.error(error);
         const preparedData = this.prepareData(data);

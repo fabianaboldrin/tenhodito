@@ -1,0 +1,108 @@
+- model: application.State
+  fields:
+    name: Acre
+    initials: AC
+- model: application.State
+  fields:
+    name: Alagoas
+    initials: AL
+- model: application.State
+  fields:
+    name: Amapá
+    initials: AP
+- model: application.State
+  fields:
+    name: Amazonas
+    initials: AM
+- model: application.State
+  fields:
+    name: Bahia
+    initials: BA
+- model: application.State
+  fields:
+    name: Ceará
+    initials: CE
+- model: application.State
+  fields:
+    name: Distrito Federal
+    initials: DF
+- model: application.State
+  fields:
+    name: Espírito Santo
+    initials: ES
+- model: application.State
+  fields:
+    name: Goiás
+    initials: GO
+- model: application.State
+  fields:
+    name: Maranhão
+    initials: MA
+- model: application.State
+  fields:
+    name: Mato Grosso
+    initials: MT
+- model: application.State
+  fields:
+    name: Mato Grosso do Sul
+    initials: MS
+- model: application.State
+  fields:
+    name: Minas Gerais
+    initials: MG
+- model: application.State
+  fields:
+    name: Pará
+    initials: PA
+- model: application.State
+  fields:
+    name: Paraíba
+    initials: PB
+- model: application.State
+  fields:
+    name: Paraná
+    initials: PR
+- model: application.State
+  fields:
+    name: Pernambuco
+    initials: PE
+- model: application.State
+  fields:
+    name: Piauí
+    initials: PI
+- model: application.State
+  fields:
+    name: Rio de Janeiro
+    initials: RJ
+- model: application.State
+  fields:
+    name: Rio Grande do Norte
+    initials: RN
+- model: application.State
+  fields:
+    name: Rio Grande do Sul
+    initials: RS
+- model: application.State
+  fields:
+    name: Rondônia
+    initials: RO
+- model: application.State
+  fields:
+    name: Roraima
+    initials: RR
+- model: application.State
+  fields:
+    name: Santa Catarina
+    initials: SC
+- model: application.State
+  fields:
+    name: São Paulo
+    initials: SP
+- model: application.State
+  fields:
+    name: Sergipe
+    initials: SE
+- model: application.State
+  fields:
+    name: Tocantins
+    initials: TO
