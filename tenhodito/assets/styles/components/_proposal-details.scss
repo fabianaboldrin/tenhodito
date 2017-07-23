@@ -3,7 +3,22 @@
   flex-direction: column;
 
   .details__info{
+    text-align: center;
+
     .info__title {
+      font-size: 2em;
+      text-transform: uppercase;
+      margin-bottom: 0;
+      color: white;
+      font-weight: 800;
+    }
+
+    .info__subtitle {
+      margin-top: 0;
+      color: #ffda00;
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 1em;
     }
   }
 
@@ -12,6 +27,11 @@
       .proposals__list, .speeches__list {
         column-count: 2;
         column-gap: 1.5em;
+        padding: 0;
+
+        @include device('l-laptop', 's-laptop', 'tablet', 'mobile') {
+          column-count: 1;
+        }
 
         .list__item {
           width: 35em;

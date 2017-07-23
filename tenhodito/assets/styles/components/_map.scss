@@ -10,9 +10,9 @@
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.3s ease;
+  display: inline-flex;
 
   &.is-visible {
-    display: inline-flex;
     opacity: 1;
   }
 

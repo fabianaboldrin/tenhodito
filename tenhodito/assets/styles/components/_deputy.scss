@@ -14,6 +14,7 @@
       margin-left: 2em;
       color: $deputy-border-color;
       align-self: center;
+      width: 24em;
 
       .text__name {
         margin: 0;
@@ -34,6 +35,22 @@
         font-weight: 700;
 
         .stats__highlight {
+          font-weight: 800;
+          color: white;
+        }
+      }
+
+      .text__details {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 1em;
+
+        .details__button {
+          background-color: #005b58;
+          padding: 0.5em 1em;
+          font-size: 0.7em;
+          text-transform: uppercase;
+          text-decoration: none;
           font-weight: 800;
           color: white;
         }
@@ -70,7 +87,7 @@
     justify-content: center;
     width: 75em;
 
-    @include device('l-laptop') {
+    @include device('l-laptop', 's-laptop', 'tablet', 'mobile') {
       width: 38.5em;
     }
 
@@ -87,6 +104,12 @@
         font-size: 1.25em;
         margin: 0;
         margin-bottom: 2em;
+
+        @include device('l-laptop', 's-laptop', 'tablet', 'mobile') {
+          width: 35em;
+          font-size: 1em;
+          margin-bottom: 1.5em;
+        }
       }
 
       .item__info {
@@ -125,13 +148,7 @@
             display: flex;
             width: 100%;
             background-color: darken($deputy-border-color, 2%);
-            border-radius: 2em;
             margin: 0.3em;
-
-            [class^='chart__fill'] {
-              padding: 0.1em;
-              border-radius: 2em;
-            }
 
             .chart__fill--proposals {
               @each $category, $color in $color-category {

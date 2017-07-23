@@ -122,6 +122,36 @@ class Deputy(models.Model):
         return self.speeches.filter(data__session_phase__code='PE').count()
 
     @property
+    def total_proposals(self):
+        return self.proposals.all().count()
+
+    @property
+    def first_speech_datetime(self):
+        speeches = self.speeches.filter(
+            data__session_phase__code='PE'
+        ).order_by('data__initial_time')
+        first = speeches.first()
+        return first.data.initial_time
+
+    @property
+    def last_speech_datetime(self):
+        speeches = self.speeches.filter(
+            data__session_phase__code='PE'
+        ).order_by('data__initial_time')
+        last = speeches.last()
+        return last.data.initial_time
+
+    @property
+    def first_proposal_datetime(self):
+        proposals = self.proposals.all().order_by('data__submission_date')
+        return proposals.first().data.submission_date
+
+    @property
+    def last_proposal_datetime(self):
+        proposals = self.proposals.all().order_by('data__submission_date')
+        return proposals.last().data.submission_date
+
+    @property
     def proposals_count(self):
         analysis = Analysis.objects.latest()
         return analysis.proposaltheme_related.filter(

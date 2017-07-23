@@ -1,78 +1,88 @@
 {% extends "base.html" %}
 {% load staticfiles compress tenhodito_tags %}
 
-{% block content %}
-<div class="tenhodito-application">
-  <section class="sidebar">
-    <div class="sidebar__header">
-      <a href="/" clas="header__logo--horizontal">
-        <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="">
-      </a>
-      <p class="header__text">Veja os principais temas abordados pelos outros deputados do <span class="text__highlight">{{object.data.party.name}} ({{object.data.party.initials}})</span>.</p>
+{% block sidebar_header %}
+  <a href="/" clas="header__logo--horizontal">
+    <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="">
+  </a>
+  <p class="header__text">Veja os principais temas abordados pelos outros deputados do <span class="text__highlight">{{object.data.party.name}} ({{object.data.party.initials}})</span>.</p>
+{% endblock sidebar_header %}
+
+{% block sidebar_body %}
+  <ul class="deputies-list">
+    {% for deputy in deputies %}
+      {% if deputy != object %}
+        {% include "includes/deputy_sidebar.html" with deputy=deputy %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endblock sidebar_body %}
+
+{% block main_extra_classes %}no-bg-image{% endblock main_extra_classes %}
+
+{% block main_content %}
+
+  <div class="deputy-profile">
+    <div class="profile__info">
+      <div class="deputy__image">
+        <img class="deputy__photo" src="http://www.camara.gov.br/internet/deputado/bandep/{{object.data.id}}.jpg" alt="">
+      </div>
+      <div class="info__text">
+        <h3 class="text__name">Dep. {{object.data.parliamentary_name|title}}</h3>
+        <p class="text__party">{{object.data.party.initials}} - {{object.data.region}}</p>
+        <p class="text__stats">
+          <span class="stats__highlight">{{object.proposals_count}} </span>
+          de
+          <span class="stats__highlight"> {{object.total_proposals}} </span>
+          proposições classificadas
+        </p>
+        <p class="text__stats">
+          <span class="stats__highlight">{{object.speeches_count}} </span>
+          de
+          <span class="stats__highlight"> {{object.total_speeches}} </span>
+          discursos classificados
+        </p>
+        <div class="text__details">
+          <a href="{% url 'proposals_details' deputy_id=object.id %}" class="details__button">
+            <i class="icon icon-documento"></i>
+            Ver proposições
+          </a>
+          <a href="{% url 'speeches_details' deputy_id=object.id %}" class="details__button">
+            <span class="i icon icon-comment"></span>
+            Ver discursos
+          </a>
+        </div>
+      </div>
     </div>
-    <div class="sidebar__body">
-      <ul class="deputies-list">
-        {% for deputy in deputies %}
-          {% if deputy != object %}
-            {% include "includes/deputy_sidebar.html" with deputy=deputy %}
-          {% endif %}
+    <div class="profile__data">
+      <ul class="data__themes-list">
+        {% for deputy_theme in object.get_all_themes %}
+          <li class="theme__item">
+            <i class="item__icon icon icon-{{deputy_theme.theme.slug}} {{deputy_theme.theme.slug}}"></i>
+            <div class="item__info">
+              <h4 class="info__theme"><span class="theme__percentage">{{deputy_theme.amount|percentage|floatformat}}%</span> {{deputy_theme.theme.description}}</h4>
+              <div class="info__bar">
+                <span class="bar__label">Propostas</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--proposals {{deputy_theme.theme.slug}}" style="width: {% deputy_proposal_theme_bar object deputy_theme.theme.slug %}%;"></div>
+                </div>
+              </div>
+              <div class="info__bar">
+                <span class="bar__label">Discursos</span>
+                <div class="bar__chart">
+                  <div class="chart__fill--speeches {{deputy_theme.theme.slug}}" style="width: {% deputy_speech_theme_bar object deputy_theme.theme.slug %}%;"></div>
+                </div>
+              </div>
+            </div>
+          </li>
+        {% empty %}
+          Infelizmente não temos dados suficientes para realizar a análise.
         {% endfor %}
       </ul>
     </div>
-  </section>
-  <main class="main-content no-bg-image">
-    <div class="deputy-profile">
-      <div class="profile__info">
-        <div class="deputy__image">
-          <img class="deputy__photo" src="http://www.camara.gov.br/internet/deputado/bandep/{{object.data.id}}.jpg" alt="">
-        </div>
-        <div class="info__text">
-          <h3 class="text__name">Dep. {{object.data.parliamentary_name|title}}</h3>
-          <p class="text__party">{{object.data.party.initials}} - {{object.data.region}}</p>
-          <p class="text__stats">
-            <span class="stats__highlight">{{object.proposals_count}} </span>
-            de
-            <span class="stats__highlight"> {{object.total_proposals}} </span>
-            proposições classificadas
-          </p>
-          <p class="text__stats">
-            <span class="stats__highlight">{{object.speeches_count}} </span>
-            de
-            <span class="stats__highlight"> {{object.total_speeches}} </span>
-            discursos classificados
-          </p>
-        </div>
-      </div>
-      <div class="profile__data">
-        <ul class="data__themes-list">
-          {% for deputy_theme in object.get_all_themes %}
-            <li class="theme__item">
-              <i class="item__icon icon icon-{{deputy_theme.theme.slug}} {{deputy_theme.theme.slug}}"></i>
-              <div class="item__info">
-                <h4 class="info__theme"><span class="theme__percentage">{{deputy_theme.amount|percentage|floatformat}}%</span> {{deputy_theme.theme.description}}</h4>
-                <div class="info__bar">
-                  <span class="bar__label">Propostas</span>
-                  <div class="bar__chart">
-                    <div class="chart__fill--proposals {{deputy_theme.theme.slug}}" style="width: {% deputy_proposal_theme_bar object deputy_theme.theme.slug %}%;"></div>
-                  </div>
-                </div>
-                <div class="info__bar">
-                  <span class="bar__label">Discursos</span>
-                  <div class="bar__chart">
-                    <div class="chart__fill--speeches {{deputy_theme.theme.slug}}" style="width: {% deputy_speech_theme_bar object deputy_theme.theme.slug %}%;"></div>
-                  </div>
-                </div>
-              </div>
-            </li>
-          {% empty %}
-            Infelizmente não temos dados suficientes para realizar a análise.
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </main>
-</div>
-{% endblock content %}
+  </div>
+
+{% endblock main_content %}
 
 {% block javascript %}
   <script>

@@ -30,7 +30,7 @@ class BubbleChart {
     const aspectRatio = (window.innerHeight / window.innerWidth) * 5;
 
     const radiusScale = d3.scalePow()
-          .exponent(0.5)
+          .exponent(0.6)
           .range([2, 85])
           .domain([0, maxAmount]);
 

@@ -1,29 +1,25 @@
 {% extends "base.html" %}
 {% load staticfiles compress %}
 
-{% block content %}
-  <div class="tenhodito-application">
-    <section class="sidebar">
-      <div class="sidebar__header">
-        <a clas="header__logo--horizontal">
-          <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="">
-        </a>
-        <p class="header__text">Veja os deputados do estado de <span class="text__highlight">{{state}}</span> e os principais temas abordados por eles.</p>
-      </div>
-      <div class="sidebar__body">
-        <ul class="deputies-list js-mixer">
-          {% for deputy in deputies %}
-            {% include "includes/deputy_sidebar.html" with deputy=deputy %}
-          {% endfor %}
-        </ul>
-      </div>
-    </section>
-    <main class="main-content">
-      <div class="states-map js-map"></div>
-      <div class="bubble-chart js-bubble-chart"></div>
-    </main>
-  </div>
-{% endblock content %}
+{% block sidebar_header %}
+  <a clas="header__logo--horizontal">
+    <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="">
+  </a>
+  <p class="header__text">Veja os deputados do estado de <span class="text__highlight">{{state}}</span> e os principais temas abordados por eles.</p>
+{% endblock sidebar_header %}
+
+{% block sidebar_body %}
+  <ul class="deputies-list js-mixer">
+    {% for deputy in deputies %}
+      {% include "includes/deputy_sidebar.html" with deputy=deputy %}
+    {% endfor %}
+  </ul>
+{% endblock sidebar_body %}
+
+{% block main_content %}
+  <div class="states-map js-map"></div>
+  <div class="bubble-chart js-bubble-chart"></div>
+{% endblock main_content %}
 
 {% block javascript %}
   <script>
