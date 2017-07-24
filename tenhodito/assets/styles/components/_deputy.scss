@@ -1,0 +1,192 @@
+.deputy-profile {
+  display: flex;
+  flex-direction: column;
+
+  .profile__info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3em 0 1em 0;
+    border-bottom: 2px solid $light-green;
+    flex: 0 0 auto;
+
+    .info__text {
+      margin-left: 2em;
+      color: $deputy-border-color;
+      align-self: center;
+      width: 24em;
+
+      .text__name {
+        margin: 0;
+        font-size: 1.3em;
+      }
+
+      .text__party {
+        margin: 0;
+        margin-bottom: 2em;
+        font-size: 0.9em;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: lighten($light-green, 7%);
+      }
+
+      .text__stats {
+        margin: 0;
+        font-weight: 700;
+
+        .stats__highlight {
+          font-weight: 800;
+          color: white;
+        }
+      }
+
+      .text__details {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 1em;
+
+        .details__button {
+          background-color: #005b58;
+          padding: 0.5em 1em;
+          font-size: 0.7em;
+          text-transform: uppercase;
+          text-decoration: none;
+          font-weight: 800;
+          color: white;
+        }
+      }
+    }
+
+    .deputy__image {
+      width: 8.5em;
+      height: 8.5em;
+      display: flex;
+      overflow: hidden;
+      justify-content: center;
+      align-items: center;
+      border-radius: 50%;
+      border: 7px solid $deputy-border-color;
+      position: relative;
+      background-color: white;
+
+      .deputy__photo {
+        height: 9em;
+        width: auto;
+        position: absolute;
+        top: 0;
+      }
+    }
+  }
+
+  .data__themes-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 2em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 75em;
+
+    @include device('l-laptop', 's-laptop', 'tablet', 'mobile') {
+      width: 38.5em;
+    }
+
+    .theme__item {
+      background-color: $deputy-border-color;
+      display: flex;
+      margin: 0 .75em;
+      margin-bottom: 1.5em;
+      width: 35em;
+      max-width: 100%;
+
+      &:first-of-type {
+        width: calc(100% - 2.8em);
+        font-size: 1.25em;
+        margin: 0;
+        margin-bottom: 2em;
+
+        @include device('l-laptop', 's-laptop', 'tablet', 'mobile') {
+          width: 35em;
+          font-size: 1em;
+          margin-bottom: 1.5em;
+        }
+      }
+
+      .item__info {
+        color: white;
+        display: flex;
+        flex-direction: column;
+        padding: 0.5em 1em;
+        width: 100%;
+        flex: 1;
+
+        .info__theme {
+          margin: 0;
+          text-transform: uppercase;
+          font-weight: 800;
+          font-size: 1.1em;
+          margin-bottom: 0.3em;
+
+          .theme__percentage {
+            color: $yellow;
+          }
+        }
+
+        .info__bar {
+          width: 100%;
+          display: flex;
+          margin-top: 0.1em;
+
+          .bar__label {
+            font-weight: 700;
+            width: 8em;
+            text-transform: uppercase;
+            font-size: 0.9em;
+          }
+
+          .bar__chart {
+            display: flex;
+            width: 100%;
+            background-color: darken($deputy-border-color, 2%);
+            margin: 0.3em;
+
+            .chart__fill--proposals {
+              @each $category, $color in $color-category {
+                &.#{$category} {
+                  background-color: $color;
+                }
+              }
+            }
+            .chart__fill--speeches {
+              @each $category, $color in $color-category {
+                &.#{$category} {
+                  background-color: darken($color, 10%);
+                }
+              }
+            }
+          }
+        }
+      }
+
+      .item__icon {
+        color: white;
+        height: 5.5em;
+        width: 5.5em;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        font-size: 1em;
+
+        @each $category, $color in $color-category {
+          &.#{$category} {
+            background-color: $color;
+          }
+        }
+
+        &:before {
+          font-size: 3em;
+        }
+      }
+    }
+  }
+}

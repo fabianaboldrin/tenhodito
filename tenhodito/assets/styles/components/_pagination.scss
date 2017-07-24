@@ -1,0 +1,33 @@
+.pagination {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+
+  .pagination__item {
+    margin: 0 0.5em;
+    background-color: $deputy-border-color;
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0.5em;
+    min-width: 2.5em;
+    text-align: center;
+
+    &.current {
+      background-color: $yellow;
+    }
+
+    &.pagination-next, &.pagination-previous {
+      background-color: darken($deputy-border-color, 2%);
+    }
+
+    .item__link {
+        color: white;
+        text-decoration: none;
+
+    }
+  }
+}

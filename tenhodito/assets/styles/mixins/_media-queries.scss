@@ -1,0 +1,22 @@
+$widths: (
+  mobile: 0px 400px,
+  tablet: 401px 768px,
+  s-laptop: 769px 1024px,
+  l-laptop: 1025px 1440px,
+);
+
+@mixin device($devices...) {
+
+  @each $device in $devices{
+    @if not index(map-keys($widths), $device) {
+      @error "#{$device} is not an allowed device."
+    }
+
+    $min-width: nth(map-get($widths, $device), 1);
+    $max-width: nth(map-get($widths, $device), 2);
+
+    @media (min-width: $min-width) and (max-width: $max-width) {
+      @content;
+    }
+  }
+}

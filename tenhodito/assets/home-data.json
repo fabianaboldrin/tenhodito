@@ -1,0 +1,110 @@
+{
+  "AC": {
+    "slug": "seguranca",
+    "theme": "Segurança"
+  },
+  "AL": {
+    "slug": "consumidor",
+    "theme": "Consumidor"
+  },
+  "AP": {
+    "slug": "economia",
+    "theme": "Economia"
+  },
+  "AM": {
+    "slug": "educacao",
+    "theme": "Educação"
+  },
+  "BA": {
+    "slug": "educacao",
+    "theme": "Educação"
+  },
+  "CE": {
+    "slug": "educacao",
+    "theme": "Educação"
+  },
+  "DF": {
+    "slug": "relacoes-exteriores",
+    "theme": "Relações Exteriores"
+  },
+  "ES": {
+    "slug": "relacoes-exteriores",
+    "theme": "Relações Exteriores"
+  },
+  "GO": {
+    "slug": "relacoes-exteriores",
+    "theme": "Relações Exteriores"
+  },
+  "MA": {
+    "slug": "seguranca",
+    "theme": "Segurança"
+  },
+  "MT": {
+    "slug": "seguranca",
+    "theme": "Segurança"
+  },
+  "MS": {
+    "slug": "seguranca",
+    "theme": "Segurança"
+  },
+  "MG": {
+    "slug": "adm-publica",
+    "theme": "Administração Pública"
+  },
+  "PA": {
+    "slug": "assistencia-social",
+    "theme": "Assistência Social"
+  },
+  "PB": {
+    "slug": "cidades",
+    "theme": "Cidades"
+  },
+  "PR": {
+    "slug": "ciencia",
+    "theme": "Ciência"
+  },
+  "PE": {
+    "slug": "previdencia",
+    "theme": "Previdência"
+  },
+  "PI": {
+    "slug": "turismo",
+    "theme": "Turismo"
+  },
+  "RJ": {
+    "slug": "trabalho",
+    "theme": "Trabalho"
+  },
+  "RN": {
+    "slug": "seguranca",
+    "theme": "Segurança"
+  },
+  "RS": {
+    "slug": "participacao-e-transparencia",
+    "theme": "Participação e Transparência"
+  },
+  "RO": {
+    "slug": "seguranca",
+    "theme": "Segurança"
+  },
+  "RR": {
+    "slug": "participacao-e-transparencia",
+    "theme": "Participação e Transparência"
+  },
+  "SC": {
+    "slug": "seguranca",
+    "theme": "Segurança"
+  },
+  "SP": {
+    "slug": "familia",
+    "theme": "Família"
+  },
+  "SE": {
+    "slug": "direitos-humanos",
+    "theme": "Direitos Humanos"
+  },
+  "TO": {
+    "slug": "familia",
+    "theme": "Família"
+  }
+}

@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+{% block sidebar_header %}
+  <a href="/" clas="header__logo--horizontal">
+    <img src="{% static 'img/tenho-dito-horizontal-logo.png' %}" alt="Tenho Dito" class="">
+  </a>
+{% endblock sidebar_header %}
+
+{% block sidebar_body %}
+  {% include "includes/deputy_details_sidebar.html" with deputy=object data_type='speech' %}
+{% endblock sidebar_body %}
+
+{% block main_extra_classes %}no-bg-image{% endblock main_extra_classes %}
+
+{% block main_content %}
+  <div class="speech-details">
+    <div class="details__info">
+      <h2 class="info__title">Todos os discursos</h2>
+      <p class="info__subtitle">
+         de {{object.first_speech_datetime|date:"d/m/Y"}} até {{object.last_speech_datetime|date:"d/m/Y"}}
+      </p>
+    </div>
+    <div class="details__data">
+      <div class="data__speeches">
+        <ul class="speeches__list">
+          {% for speech in speeches %}
+            <li class="list__item">
+              <h3 class="item__title">{{speech.data.initial_time}} - {{speech.data.session_phase}}</h3>
+              {% if speech.data.summary %}
+                <p class="item__summary">{{speech.data.summary}}</p>
+              {% else %}
+                <p class="item__summary item__summary--empty">Resumo não disponível. Palavras-chave: </p>
+                <p class="item__summary">
+                  {% for index in speech.indexes.all %}
+                    {{index.text}},
+                  {% endfor %}
+                </p>
+              {% endif %}
+              <a href="{{speech.data.text_url}}" target="_blank" class="item__link">Acessar texto completo</a>
+              <ul class="item__themes">
+                {% for theme in speech.themes.all %}
+                  <li class="themes__item {{theme.theme.slug}}">
+                    <i class="item__icon icon icon-{{theme.theme.slug}} "></i>
+                    {{theme.theme.description}}
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% endfor %}
+        </ul>
+        {% include "includes/pagination.html" with  paginator=speeches %}
+      </div>
+    </div>
+  </div>
+{% endblock main_content %}

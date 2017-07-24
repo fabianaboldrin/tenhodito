@@ -1,0 +1,54 @@
+.bubble-chart {
+  align-self: center;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  display: flex;
+
+  .chart {
+    align-self: center;
+
+    &.filter-active {
+      .chart__bubbles {
+        opacity: 0.3;
+        transition: opacity 0.5s ease;
+        &.active {
+          opacity: 1;
+          transition: opacity 0.5s ease;
+        }
+      }
+    }
+
+    .chart__bubbles {
+      transition: opacity 0.3s ease;
+
+      .bubble__circle {
+        stroke: white;
+        stroke-width: 5px;
+
+        @each $category, $color in $color-category {
+          &.#{$category} {
+            fill: rgba($color, 0.8);
+          }
+        }
+
+      }
+      .bubble__info {
+        cursor: pointer;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        padding: 1em;
+        align-items: center;
+        justify-content: center;
+
+        .info__name {
+          text-align: center;
+          color: white;
+          font-weight: 700;
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+}

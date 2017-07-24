@@ -21,3 +21,10 @@ src/tenhodito/__meta__.py
 
 # Testing and temporary files
 .tox/
+
+node_modules/
+tenhodito/assets/bundles/
+tenhodito/assets/styles/bower_components/
+tenhodito/public/
+webpack-stats.json
+cache.db

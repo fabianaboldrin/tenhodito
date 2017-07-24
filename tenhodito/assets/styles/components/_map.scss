@@ -1,0 +1,132 @@
+.map__tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+  height: 3em;
+  background: white;
+  border: 0px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  display: inline-flex;
+
+  &.is-visible {
+    opacity: 1;
+  }
+
+  .tooltip__theme {
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 0 1.5em 0 1em;
+  }
+
+  .tooltip__icon {
+    background-color: white;
+    margin-left: 0.5em;
+    width: 1.5em;
+    height: 1.5em;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+
+    @each $category, $color in $color-category {
+      &.#{$category} {
+        background-color: $color;
+      }
+    }
+  }
+
+  &::after {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: -3em;
+    border-width: 1.5em;
+    border-style: solid;
+    border-color: transparent white transparent transparent;
+  }
+
+  &.left {
+    &::after {
+      right: 0;
+      left: initial;
+      margin-left: initial;
+      margin-right: -3em;
+      border-color: transparent transparent transparent white;
+    }
+  }
+}
+
+.map {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .map__states {
+    fill: $map-background;
+    transform: translate(1em, 1em);
+
+    .state__path {
+      transition: all 0.7s ease;
+      stroke-width: 3px;
+      stroke: $map-stroke;
+      cursor: pointer;
+
+      @each $category, $color in $color-category {
+        &.#{$category} {
+          fill: $color;
+        }
+      }
+    }
+  }
+
+  .map__background {
+    fill: $light-green;
+    transform: translate(1em, 1.1em);
+    .state__path {
+      fill: $light-green;
+      stroke-width: 2em;
+      stroke: $light-green;
+      stroke-linejoin: round;
+    }
+  }
+}
+
+.states-map {
+  width: 70%;
+  height: 70%;
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+
+  .map__states{
+    .state__path {
+      stroke-width: 8px;
+      stroke: $state-map-stroke;
+      fill: $state-map-background;
+      pointer-events: none;
+      transform: translate(1em, 1em);
+    }
+  }
+
+  .map__background {
+    fill: $light-green;
+    transform: translate(1em, 1.1em);
+    .state__path {
+      fill: $light-green;
+      stroke-width: 2em;
+      stroke: $light-green;
+      stroke-linejoin: round;
+    }
+  }
+}

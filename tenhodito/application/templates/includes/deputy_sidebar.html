@@ -1,0 +1,16 @@
+{% with deputy.data as data %}
+  {% with deputy.get_main_theme.theme as theme %}
+    <li class="list__item js-mixer-item {{theme.slug}}">
+      <a class="item__link" href="{% url 'deputy' deputy.id %}">
+        <div class="item__info">
+          <h3 class="info__name">Dep. {{data.parliamentary_name|title}}</h3>
+          <p class="info__party">{{data.party.initials}} - {{data.region}}</p>
+          <p class="info__theme {{theme.slug|default:"no-theme"}}">{{theme.description|default:"Dados insuficientes para análise"}}</p>
+        </div>
+        <div class="item__image">
+          <img class="image__deputy" src="http://www.camara.gov.br/internet/deputado/bandep/{{data.id}}.jpg" alt="">
+        </div>
+      </a>
+    </li>
+  {% endwith %}
+{% endwith %}

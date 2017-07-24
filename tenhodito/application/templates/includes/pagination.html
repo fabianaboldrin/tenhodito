@@ -1,0 +1,21 @@
+<ul class="pagination" role="navigation" aria-label="Paginação">
+
+  {% if paginator.number != 1 %}
+    <li class="pagination__item pagination-previous"><a class="item__link" href="?p={{paginator.previous_page_number}}">Anterior</a></li>
+  {% endif %}
+
+  {% if paginator.has_previous %}
+    <li class="pagination__item"><a class="item__link" href="?p={{paginator.previous_page_number}}" aria-label="Page {{ paginator.number|add:-1 }}">{{ paginator.number|add:-1 }}</a></li>
+  {% endif %}
+
+  <li class="pagination__item current">{{ paginator.number }}</li>
+
+  {% if paginator.has_next %}
+    <li class="pagination__item "><a class="item__link" href="?p={{paginator.next_page_number}}" aria-label="Page {{ paginator.number|add:1 }}">{{ paginator.number|add:1 }}</a></li>
+  {% endif %}
+
+  {% if paginator.has_next %}
+    <li class="pagination__item pagination-next"><a class="item__link" href="?p={{paginator.next_page_number}}" aria-label="Next page">Próximo</a></li>
+  {% endif %}
+
+</ul>

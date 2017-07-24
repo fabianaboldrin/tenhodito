@@ -1,0 +1,12 @@
+<div class="deputy__info">
+  <div class="info__image">
+    <a href="{% url 'deputy' deputy_id=deputy.id %}" class="deputy__photo">
+      <img src="http://www.camara.gov.br/internet/deputado/bandep/{{deputy.data.id}}.jpg" alt="">
+    </a>
+  </div>
+  <div class="info__text">
+    <h3 class="text__title">Dep. {{object.data.parliamentary_name}}</h3>
+    <p class="text__subtitle">{{object.data.party.initials}} - {{object.data.region}}</p>
+    {% include "includes/deputy_charts_sidebar.html" with deputy=object data_type=data_type %}
+  </div>
+</div>

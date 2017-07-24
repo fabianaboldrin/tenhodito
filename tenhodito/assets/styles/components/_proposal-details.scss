@@ -1,0 +1,110 @@
+.proposal-details, .speech-details {
+  display: flex;
+  flex-direction: column;
+
+  .details__info{
+    text-align: center;
+
+    .info__title {
+      font-size: 2em;
+      text-transform: uppercase;
+      margin-bottom: 0;
+      color: white;
+      font-weight: 800;
+    }
+
+    .info__subtitle {
+      margin-top: 0;
+      color: #ffda00;
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 1em;
+    }
+  }
+
+  .details__data {
+    .data__proposals, .data__speeches {
+      .proposals__list, .speeches__list {
+        column-count: 2;
+        column-gap: 1.5em;
+        padding: 0;
+
+        @include device('l-laptop', 's-laptop', 'tablet', 'mobile') {
+          column-count: 1;
+        }
+
+        .list__item {
+          width: 35em;
+          min-height: 7em;
+          background-color: $deputy-border-color;
+          margin-bottom: 1.5em;
+          page-break-inside: avoid;
+          break-inside: avoid-column;
+          display: table;
+
+          .item__title {
+            margin: 0;
+            padding: 0.5em 1em;
+            color: $yellow;
+          }
+
+          .item__summary {
+            margin: 0;
+            padding: 0 1em;
+            color: white;
+
+            &--empty {
+              font-weight: 700;
+            }
+          }
+
+          .item__link {
+            margin-left: 1em;
+            text-transform: uppercase;
+            color: #01c6bd;
+            font-weight: 700;
+            text-decoration: none;
+            font-size: 0.8em;
+          }
+
+          .item__themes {
+            list-style-type: none;
+            padding: 0.5em;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+
+            .themes__item {
+              background-color: white;
+              padding: 0.3em 0.5em;
+              margin: 0.5em;
+              text-transform: uppercase;
+              font-size: 0.8em;
+              font-weight: 700;
+              position: relative;
+
+              .item__icon {
+                margin-right: 0.5em;
+              }
+
+              @each $category, $color in $color-category {
+                &.#{$category} {
+                  color: $color;
+                }
+              }
+
+              &::before {
+                content: '';
+                position: absolute;
+                bottom: -0.5em;
+                border-bottom: 0.6em solid transparent;
+                border-right: 0.6em solid transparent;
+                border-left: 0.6em solid #ffffff;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

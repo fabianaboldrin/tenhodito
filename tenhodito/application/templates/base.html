@@ -1,0 +1,42 @@
+{% load staticfiles compress %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tenho Dito</title>
+  {% compress css %}
+    <link rel="stylesheet" type="text/x-scss" href="{% static 'styles/app.scss' %}">
+  {% endcompress %}
+</head>
+<body>
+  {% block content %}
+    <div class="tenhodito-application">
+      <section class="sidebar">
+        {% block sidebar %}
+
+          <div class="sidebar__header">
+            {% block sidebar_header %}
+            {% endblock sidebar_header %}
+          </div>
+
+          <div class="sidebar__body">
+            {% block sidebar_body %}
+            {% endblock sidebar_body %}
+          </div>
+
+        {% endblock sidebar %}
+      </section>
+
+      <main class="main-content {% block main_extra_classes %}{% endblock main_extra_classes %}">
+        {% block main_content %}
+        {% endblock main_content %}
+      </main>
+    </div>
+  {% endblock content %}
+
+  <script src="{% static 'django_js_reverse/js/reverse.js' %}"></script>
+  {% block javascript %}
+  {% endblock javascript %}
+</body>
+</html>
