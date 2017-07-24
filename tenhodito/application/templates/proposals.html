@@ -8,6 +8,7 @@
 {% endblock sidebar_header %}
 
 {% block sidebar_body %}
+  {% include "includes/deputy_details_sidebar.html" with deputy=object data_type='proposal' %}
 {% endblock sidebar_body %}
 
 {% block main_extra_classes %}no-bg-image{% endblock main_extra_classes %}

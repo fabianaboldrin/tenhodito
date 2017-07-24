@@ -1,5 +1,3 @@
-{% load tenhodito_tags %}
-
 <div class="deputy__info">
   <div class="info__image">
     <a href="{% url 'deputy' deputy_id=deputy.id %}" class="deputy__photo">
@@ -9,19 +7,6 @@
   <div class="info__text">
     <h3 class="text__title">Dep. {{object.data.parliamentary_name}}</h3>
     <p class="text__subtitle">{{object.data.party.initials}} - {{object.data.region}}</p>
+    {% include "includes/deputy_charts_sidebar.html" with deputy=object data_type=data_type %}
   </div>
-  <p class="info__list-title">Temas abordados em seus discursos:</p>
-  <ul class="info__themes-list">
-    {% for deputy_theme in object.get_all_themes %}
-      <li class="themes-list__item">
-        <h4 class="item__title">
-          <span class="title__text">{{deputy_theme.theme.description}}</span>
-        </h4>
-        <div class="item__bar">
-          <span class="bar__percentage">{% deputy_speech_theme_bar object deputy_theme.theme.slug %}%</span>
-          <div class="bar__fill {{deputy_theme.theme.slug}}" style="width: {% deputy_speech_theme_bar object deputy_theme.theme.slug %}%"></div>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
 </div>

@@ -1,0 +1,22 @@
+{% load tenhodito_tags %}
+
+<p class="info__list-title">Temas abordados em seus discursos:</p>
+<ul class="info__themes-list">
+  {% for deputy_theme in object.get_all_themes %}
+    <li class="themes-list__item">
+      <h4 class="item__title">
+        <span class="title__text">{{deputy_theme.theme.description}}</span>
+      </h4>
+      <div class="item__bar">
+        {% if data_type == 'proposal' %}
+          <span class="bar__percentage">{% deputy_proposal_theme_bar object deputy_theme.theme.slug %}%</span>
+          <div class="bar__fill {{deputy_theme.theme.slug}}" style="width: {% deputy_proposal_theme_bar object deputy_theme.theme.slug %}%"></div>
+        {% endif %}
+        {% if data_type == 'speech' %}
+          <span class="bar__percentage">{% deputy_speech_theme_bar object deputy_theme.theme.slug %}%</span>
+          <div class="bar__fill {{deputy_theme.theme.slug}}" style="width: {% deputy_speech_theme_bar object deputy_theme.theme.slug %}%"></div>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
