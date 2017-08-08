@@ -10,6 +10,16 @@
   {% endcompress %}
 </head>
 <body>
+
+  <div class="loading-spinner__wrapper">
+    <div class="loading-spinner">
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </div>
+
   {% block content %}
     <div class="tenhodito-application">
       <section class="sidebar">
@@ -36,6 +46,9 @@
   {% endblock content %}
 
   <script src="{% static 'django_js_reverse/js/reverse.js' %}"></script>
+  {% compress js %}
+    <script type="module" src="{% static 'js/loader.js' %}"></script>
+  {% endcompress %}
   {% block javascript %}
   {% endblock javascript %}
 </body>

@@ -35,6 +35,14 @@
     .body__text {
       padding-bottom: 2em;
       border-bottom: 2px solid $dark-green;
+
+      .text__highlight {
+        font-weight: bold;
+      }
+
+      &--no-border {
+        border-bottom: none;
+      }
     }
     .body__menu-list {
       list-style-type: none;
